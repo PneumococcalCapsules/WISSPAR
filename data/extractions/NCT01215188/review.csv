@@ -1,0 +1,811 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,98.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+0,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,98.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+1,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,96.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+1,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,96.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+2,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+2,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+3,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,93.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+3,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,93.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+4,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,89.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+4,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,89.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+5,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,69.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+5,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,69.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+6,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,97.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+6,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,97.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+7,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,94.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+7,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,94.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+8,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,96.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+8,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,96.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+9,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,95.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+9,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,95.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+10,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,92.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+10,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,92.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+11,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,96.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+11,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,96.2,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+12,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,77.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+12,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,77.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+13,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,78.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+13,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,78.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+14,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,96.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+14,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,96.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+15,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,73.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+15,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,73.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+16,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,65.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+16,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,65.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+17,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,87.6,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+17,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,87.6,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+18,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,99.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+18,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,99.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+19,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+19,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+20,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+20,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+21,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,95.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+21,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,95.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+22,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,92.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+22,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,92.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+23,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+23,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+24,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,98.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+24,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,98.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+25,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,98.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+25,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,98.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+26,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,97.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+26,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,97.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+27,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,96.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+27,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,96.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+28,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,89.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+28,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,89.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+29,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+29,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,97.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+30,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,82.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+30,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,82.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+31,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,84.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+31,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,84.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+32,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,96.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+32,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,96.5,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+33,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,91.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+33,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,91.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+34,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,91.1,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+34,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,91.1,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+35,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+35,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+36,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+36,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+37,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+37,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,99.4,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+38,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,1.9,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+38,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,1.9,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+39,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,87.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+39,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,87.7,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+40,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,81.6,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+40,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,81.6,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+41,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,90.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+41,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,90.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+42,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,83.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+42,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,83.3,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+43,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,84.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+43,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,84.8,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+44,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,1.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+44,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,1.0,Percentage of Participants Achieving the Immunoglobulin G (IgG) Serotype-specific ≥0.35 μg/mLThreshold Value for Postvaccination 3
+45,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,1.34,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+45,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,1.34,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+46,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,1.38,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+46,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,1.38,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+47,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,1.84,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+47,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,1.84,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+48,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,0.95,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+48,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,0.95,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+49,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,0.88,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+49,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,0.88,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+50,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,0.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+50,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,0.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+51,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,1.28,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+51,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,1.28,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+52,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,1.26,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+52,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1.26,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+53,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,1.32,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+53,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,1.32,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+54,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,1.61,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+54,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,1.61,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+55,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,1.53,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+55,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,1.53,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+56,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,1.83,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+56,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,1.83,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+57,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,0.93,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+57,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,0.93,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+58,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,0.93,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+58,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,0.93,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+59,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,2.91,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+59,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,2.91,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+60,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,0.95,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+60,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,0.95,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+61,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,0.69,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+61,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,0.69,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+62,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,1.47,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+62,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,1.47,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+63,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,2.63,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+63,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,2.63,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+64,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,2.66,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+64,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,2.66,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+65,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,3.67,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+65,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,3.67,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+66,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,1.49,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+66,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,1.49,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+67,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,1.29,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+67,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,1.29,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+68,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,1.79,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+68,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,1.79,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+69,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,4.17,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+69,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,4.17,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+70,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,3.84,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+70,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,3.84,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+71,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,5.62,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+71,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,5.62,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+72,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,1.27,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+72,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,1.27,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+73,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,1.08,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+73,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,1.08,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+74,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,1.99,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+74,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,1.99,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+75,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,0.90,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+75,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,0.90,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+76,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,0.94,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+76,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,0.94,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+77,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,2.05,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+77,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,2.05,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+78,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,1.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+78,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,1.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+79,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,1.71,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+79,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,1.71,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+80,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,2.54,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+80,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,2.54,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+81,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,5.24,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+81,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,5.24,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+82,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,4.86,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+82,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,4.86,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+83,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,0.07,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+83,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,0.07,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+84,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,1.05,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+84,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,1.05,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+85,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,0.79,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+85,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,0.79,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+86,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,1.41,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+86,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,1.41,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+87,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,1.47,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+87,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,1.47,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+88,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,1.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+88,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,1.50,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+89,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,0.06,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+89,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,0.06,IgG Geometric Mean Concentrations (GMCs) for Postvaccination 3
+90,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,1.91,IgG GMCs for Postvaccination 4
+90,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,1.91,IgG GMCs for Postvaccination 4
+91,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,1.81,IgG GMCs for Postvaccination 4
+91,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,1.81,IgG GMCs for Postvaccination 4
+92,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,2.18,IgG GMCs for Postvaccination 4
+92,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,2.18,IgG GMCs for Postvaccination 4
+93,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,1.26,IgG GMCs for Postvaccination 4
+93,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,1.26,IgG GMCs for Postvaccination 4
+94,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,1.12,IgG GMCs for Postvaccination 4
+94,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,1.12,IgG GMCs for Postvaccination 4
+95,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,0.69,IgG GMCs for Postvaccination 4
+95,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,0.69,IgG GMCs for Postvaccination 4
+96,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,1.46,IgG GMCs for Postvaccination 4
+96,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,1.46,IgG GMCs for Postvaccination 4
+97,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,1.40,IgG GMCs for Postvaccination 4
+97,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1.40,IgG GMCs for Postvaccination 4
+98,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,1.68,IgG GMCs for Postvaccination 4
+98,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,1.68,IgG GMCs for Postvaccination 4
+99,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,1.93,IgG GMCs for Postvaccination 4
+99,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,1.93,IgG GMCs for Postvaccination 4
+100,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,1.79,IgG GMCs for Postvaccination 4
+100,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,1.79,IgG GMCs for Postvaccination 4
+101,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,2.53,IgG GMCs for Postvaccination 4
+101,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,2.53,IgG GMCs for Postvaccination 4
+102,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,3.78,IgG GMCs for Postvaccination 4
+102,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,3.78,IgG GMCs for Postvaccination 4
+103,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,3.17,IgG GMCs for Postvaccination 4
+103,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,3.17,IgG GMCs for Postvaccination 4
+104,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,6.55,IgG GMCs for Postvaccination 4
+104,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,6.55,IgG GMCs for Postvaccination 4
+105,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,5.24,IgG GMCs for Postvaccination 4
+105,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,5.24,IgG GMCs for Postvaccination 4
+106,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,3.98,IgG GMCs for Postvaccination 4
+106,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,3.98,IgG GMCs for Postvaccination 4
+107,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,5.51,IgG GMCs for Postvaccination 4
+107,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,5.51,IgG GMCs for Postvaccination 4
+108,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,4.18,IgG GMCs for Postvaccination 4
+108,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,4.18,IgG GMCs for Postvaccination 4
+109,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,3.43,IgG GMCs for Postvaccination 4
+109,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,3.43,IgG GMCs for Postvaccination 4
+110,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,5.73,IgG GMCs for Postvaccination 4
+110,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,5.73,IgG GMCs for Postvaccination 4
+111,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,2.82,IgG GMCs for Postvaccination 4
+111,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,2.82,IgG GMCs for Postvaccination 4
+112,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,2.50,IgG GMCs for Postvaccination 4
+112,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,2.50,IgG GMCs for Postvaccination 4
+113,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,3.37,IgG GMCs for Postvaccination 4
+113,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,3.37,IgG GMCs for Postvaccination 4
+114,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,6.05,IgG GMCs for Postvaccination 4
+114,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,6.05,IgG GMCs for Postvaccination 4
+115,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,5.55,IgG GMCs for Postvaccination 4
+115,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,5.55,IgG GMCs for Postvaccination 4
+116,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,7.57,IgG GMCs for Postvaccination 4
+116,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,7.57,IgG GMCs for Postvaccination 4
+117,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,2.14,IgG GMCs for Postvaccination 4
+117,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,2.14,IgG GMCs for Postvaccination 4
+118,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,1.68,IgG GMCs for Postvaccination 4
+118,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,1.68,IgG GMCs for Postvaccination 4
+119,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,3.37,IgG GMCs for Postvaccination 4
+119,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,3.37,IgG GMCs for Postvaccination 4
+120,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,3.04,IgG GMCs for Postvaccination 4
+120,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,3.04,IgG GMCs for Postvaccination 4
+121,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,3.42,IgG GMCs for Postvaccination 4
+121,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,3.42,IgG GMCs for Postvaccination 4
+122,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,6.14,IgG GMCs for Postvaccination 4
+122,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,6.14,IgG GMCs for Postvaccination 4
+123,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,5.56,IgG GMCs for Postvaccination 4
+123,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,5.56,IgG GMCs for Postvaccination 4
+124,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,6.35,IgG GMCs for Postvaccination 4
+124,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,6.35,IgG GMCs for Postvaccination 4
+125,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,4.51,IgG GMCs for Postvaccination 4
+125,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,4.51,IgG GMCs for Postvaccination 4
+126,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,9.64,IgG GMCs for Postvaccination 4
+126,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,9.64,IgG GMCs for Postvaccination 4
+127,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,7.73,IgG GMCs for Postvaccination 4
+127,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,7.73,IgG GMCs for Postvaccination 4
+128,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,0.12,IgG GMCs for Postvaccination 4
+128,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,0.12,IgG GMCs for Postvaccination 4
+129,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,1.99,IgG GMCs for Postvaccination 4
+129,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,1.99,IgG GMCs for Postvaccination 4
+130,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,1.61,IgG GMCs for Postvaccination 4
+130,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,1.61,IgG GMCs for Postvaccination 4
+131,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,3.14,IgG GMCs for Postvaccination 4
+131,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,3.14,IgG GMCs for Postvaccination 4
+132,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,6.29,IgG GMCs for Postvaccination 4
+132,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,6.29,IgG GMCs for Postvaccination 4
+133,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,4.95,IgG GMCs for Postvaccination 4
+133,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,4.95,IgG GMCs for Postvaccination 4
+134,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,0.08,IgG GMCs for Postvaccination 4
+134,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,0.08,IgG GMCs for Postvaccination 4
+135,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,80.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+135,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,80.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+136,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,73.3,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+136,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,73.3,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+137,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,77.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+137,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,77.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+138,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+138,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+139,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+139,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+140,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+140,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+141,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+141,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+142,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+142,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+143,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+143,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+144,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+144,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+145,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,95.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+145,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,95.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+146,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+146,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+147,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,89.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+147,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,89.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+148,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,85.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+148,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,85.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+149,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+149,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+150,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,84.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+150,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,84.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+151,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,80.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+151,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,80.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+152,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+152,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+153,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+153,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+154,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+154,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+155,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+155,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+156,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+156,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+157,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,98.3,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+157,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,98.3,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+158,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+158,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+159,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+159,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+160,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+160,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+161,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+161,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+162,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+162,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+163,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+163,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+164,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+164,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+165,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,92.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+165,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,92.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+166,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,95.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+166,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,95.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+167,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,95.9,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+167,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,95.9,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+168,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,95.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+168,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,95.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+169,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,95.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+169,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,95.8,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+170,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+170,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+171,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+171,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+172,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+172,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+173,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,11.6,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+173,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,11.6,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+174,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+174,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+175,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,96.6,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+175,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,96.6,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+176,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+176,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,96.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+177,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+177,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,97.5,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+178,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+178,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,99.2,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+179,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,60.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+179,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,60.7,Percentage of Participants With Opsonophagocytic Killing Activity (OPA) Titer ≥ 8 as Measured by Fourfold Multiplexed Opsonization Assay (MOPA4) for Postvaccination 3
+180,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,96.6,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+180,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,96.6,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+181,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,94.9,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+181,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,94.9,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+182,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,96.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+182,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,96.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+183,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+183,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+184,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+184,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+185,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+185,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+186,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+186,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+187,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+187,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+188,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+188,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+189,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+189,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+190,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+190,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+191,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+191,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+192,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+192,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+193,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+193,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+194,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+194,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+195,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+195,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+196,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+196,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+197,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+197,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+198,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+198,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+199,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+199,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+200,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+200,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+201,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+201,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+202,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+202,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+203,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+203,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+204,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+204,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+205,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+205,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+206,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+206,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+207,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+207,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+208,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+208,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+209,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+209,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+210,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+210,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+211,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+211,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,98.3,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+212,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+212,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+213,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,96.6,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+213,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,96.6,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+214,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+214,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+215,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+215,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+216,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+216,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+217,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+217,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+218,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,17.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+218,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,17.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+219,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+219,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+220,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+220,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+221,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+221,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+222,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+222,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+223,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+223,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,100.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+224,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,88.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+224,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,88.0,Percentage of Participants With OPA Titer ≥ 8 as Measured by MOPA4 for Postvaccination 4
+225,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,35.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+225,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,35.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+226,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,32.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+226,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,32.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+227,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,44.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+227,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,44.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+228,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,296.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+228,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,296.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+229,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,254.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+229,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,254.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+230,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,209.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+230,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,209.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+231,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,1672.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+231,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,1672.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+232,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,1633.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+232,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1633.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+233,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,1911.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+233,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,1911.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+234,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,467.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+234,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,467.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+235,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,337.0,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+235,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,337.0,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+236,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,542.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+236,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,542.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+237,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,1273.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+237,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,1273.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+238,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,703.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+238,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,703.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+239,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,4009.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+239,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,4009.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+240,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,765.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+240,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,765.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+241,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,419.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+241,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,419.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+242,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,1597.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+242,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,1597.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+243,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,5818.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+243,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,5818.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+244,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,5791.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+244,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,5791.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+245,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,10454.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+245,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,10454.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+246,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,2227.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+246,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,2227.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+247,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,1927.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+247,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,1927.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+248,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,2685.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+248,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,2685.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+249,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,2266.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+249,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,2266.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+250,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,1574.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+250,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,1574.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+251,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,2786.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+251,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,2786.5,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+252,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,1263.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+252,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,1263.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+253,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,846.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+253,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,846.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+254,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,2209.0,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+254,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,2209.0,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+255,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,551.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+255,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,551.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+256,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,457.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+256,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,457.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+257,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,1292.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+257,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,1292.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+258,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,986.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+258,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,986.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+259,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,933.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+259,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,933.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+260,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,1417.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+260,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,1417.1,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+261,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,3048.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+261,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,3048.8,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+262,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,2714.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+262,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,2714.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+263,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,3.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+263,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,3.9,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+264,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,1087.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+264,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,1087.7,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+265,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,726.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+265,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,726.4,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+266,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,3040.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+266,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,3040.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+267,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,25075.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+267,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,25075.2,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+268,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,28262.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+268,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,28262.3,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+269,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,66.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+269,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,66.6,OPA Geometric Mean Titers (GMTs) as Measured by MOPA4 for Postvaccination 3
+270,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,139.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+270,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,139.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+271,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,124.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+271,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,124.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+272,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,133.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+272,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,133.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+273,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,438.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+273,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,438.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+274,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,405.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+274,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,405.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+275,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,369.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+275,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,369.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+276,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,1674.3,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+276,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,1674.3,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+277,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,1752.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+277,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1752.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+278,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,2456.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+278,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,2456.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+279,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,680.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+279,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,680.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+280,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,866.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+280,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,866.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+281,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,830.3,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+281,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,830.3,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+282,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,2583.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+282,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,2583.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+283,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,2835.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+283,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,2835.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+284,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,7382.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+284,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,7382.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+285,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,3866.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+285,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,3866.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+286,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,2265.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+286,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,2265.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+287,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,4686.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+287,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,4686.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+288,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,10205.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+288,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,10205.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+289,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,8543.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+289,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,8543.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+290,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,19147.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+290,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,19147.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+291,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,2888.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+291,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,2888.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+292,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,3339.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+292,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,3339.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+293,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,4901.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+293,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,4901.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+294,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,3543.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+294,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,3543.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+295,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,2877.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+295,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,2877.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+296,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,3872.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+296,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,3872.9,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+297,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,1327.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+297,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,1327.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+298,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,1171.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+298,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,1171.1,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+299,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,3214.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+299,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,3214.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+300,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,1871.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+300,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,1871.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+301,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,2260.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+301,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,2260.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+302,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,4519.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+302,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,4519.7,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+303,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,1885.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+303,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,1885.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+304,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,2949.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+304,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,2949.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+305,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,2624.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+305,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,2624.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+306,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,4586.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+306,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,4586.5,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+307,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,4497.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+307,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,4497.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+308,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,4.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+308,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,4.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+309,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,3118.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+309,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,3118.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+310,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,2469.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+310,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,2469.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+311,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,11490.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+311,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,11490.0,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+312,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,59179.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+312,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,59179.6,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+313,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,54562.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+313,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,54562.2,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+314,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,815.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+314,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,815.8,OPA GMTs as Measured by MOPA4 for Postvaccination 4
+315,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,98.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+315,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,98.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+316,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,98.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+316,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,98.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+317,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+317,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+318,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,96.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+318,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,96.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+319,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,95.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+319,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,95.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+320,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,80.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+320,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,80.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+321,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,95.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+321,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,95.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+322,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,96.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+322,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,96.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+323,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,96.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+323,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,96.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+324,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+324,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+325,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+325,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+326,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+326,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+327,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,98.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+327,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,98.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+328,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,97.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+328,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,97.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+329,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+329,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+330,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+330,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+331,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,97.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+331,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,97.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+332,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+332,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+333,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+333,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+334,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+334,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+335,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+335,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+336,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+336,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+337,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+337,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+338,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+338,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+339,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+339,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+340,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,99.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+340,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,99.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+341,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+341,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+342,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,98.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+342,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,98.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+343,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+343,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+344,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+344,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+345,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,97.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+345,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,97.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+346,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,98.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+346,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,98.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+347,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+347,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+348,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+348,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+349,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+349,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,99.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+350,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+350,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+351,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+351,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,100.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+352,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,99.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+352,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,99.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+353,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,7.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+353,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,7.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+354,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,95.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+354,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,95.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+355,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,95.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+355,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,95.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+356,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+356,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+357,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+357,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,98.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+358,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,98.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+358,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,98.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+359,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,4.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+359,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,4.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥0.35 μg/mL for Postvaccination 4
+360,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG000,77.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+360,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,77.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+361,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG001,76.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+361,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,76.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+362,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 1,OG002,84.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+362,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,84.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+363,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG000,63.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+363,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,63.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+364,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG001,56.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+364,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,56.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+365,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 3,OG002,30.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+365,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,30.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+366,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG000,62.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+366,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,62.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+367,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG001,65.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+367,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,65.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+368,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 4,OG002,73.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+368,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,73.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+369,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG000,79.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+369,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,79.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+370,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG001,75.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+370,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,75.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+371,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 5,OG002,85.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+371,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,85.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+372,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG000,89.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+372,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,89.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+373,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG001,89.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+373,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,89.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+374,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6A,OG002,97.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+374,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,97.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+375,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG000,97.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+375,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,97.1,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+376,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG001,92.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+376,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,92.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+377,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 6B,OG002,95.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+377,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,95.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+378,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG000,96.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+378,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,96.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+379,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+379,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+380,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 7F,OG002,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+380,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,99.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+381,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG000,88.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+381,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,88.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+382,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG001,87.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+382,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,87.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+383,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 9V,OG002,91.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+383,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,91.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+384,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG000,95.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+384,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,95.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+385,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+385,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+386,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 14,OG002,98.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+386,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,98.2,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+387,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG000,83.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+387,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,83.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+388,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG001,74.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+388,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,74.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+389,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 18C,OG002,95.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+389,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,95.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+390,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG000,87.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+390,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,87.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+391,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG001,87.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+391,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,87.9,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+392,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19A,OG002,96.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+392,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,96.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+393,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG000,95.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+393,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,95.3,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+394,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+394,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,97.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+395,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 19F,OG002,95.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+395,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,95.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+396,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+396,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG000,99.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+397,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,98.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+397,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG001,98.7,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+398,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,2.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+398,outcome_overview_time_frame_weeks,,4,,,Serotype 22F (non-PREVNAR 13® serotype),OG002,2.8,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+399,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG000,76.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+399,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,76.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+400,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG001,70.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+400,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,70.5,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+401,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 23F,OG002,86.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+401,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,86.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+402,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,96.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+402,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG000,96.0,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+403,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,96.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+403,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG001,96.6,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+404,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,1.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4
+404,outcome_overview_time_frame_weeks,,4,,,Serotype 33F (non-PREVNAR 13® serotype),OG002,1.4,Percentage of Participants Achieving the IgG Serotype-specific Threshold Value of ≥1.0 μg/mL for Postvaccination 4

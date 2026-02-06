@@ -1,0 +1,277 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG000,93.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+0,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG000,93.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+1,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG001,14.8,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+1,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG001,14.8,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+2,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG002,4.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+2,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG002,4.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+3,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG003,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+3,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG003,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+4,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG000,1008.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+4,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG000,1008.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+5,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG001,602.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+5,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG001,602.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+6,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG002,1229.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+6,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG002,1229.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+7,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG003,513,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+7,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG003,513,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+8,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG000,209.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+8,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG000,209.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+9,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG001,67.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+9,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG001,67.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+10,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG002,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+10,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG002,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+11,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG003,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+11,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG003,4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+12,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG000,963.5,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+12,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG000,963.5,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+13,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG001,361.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+13,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG001,361.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+14,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG002,1762.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+14,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG002,1762.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+15,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG003,805,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+15,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG003,805,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+16,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG000,5196.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+16,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG000,5196.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+17,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG001,2002.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+17,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG001,2002.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+18,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG002,14.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+18,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG002,14.2,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+19,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG003,6.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+19,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG003,6.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+20,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG000,1631.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+20,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG000,1631.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+21,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG001,1171.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+21,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG001,1171.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+22,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG002,1713.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+22,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG002,1713.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+23,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG003,1166,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+23,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG003,1166,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+24,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG000,1669.1,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+24,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG000,1669.1,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+25,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG001,640,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+25,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG001,640,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+26,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG002,2117.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+26,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG002,2117.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+27,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG003,947.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+27,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG003,947.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+28,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG000,673.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+28,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG000,673.3,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+29,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG001,174.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+29,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG001,174.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+30,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG002,283.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+30,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG002,283.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+31,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG003,127,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+31,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG003,127,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+32,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG000,1121.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+32,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG000,1121.7,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+33,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG001,337.8,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+33,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG001,337.8,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+34,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG002,81.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+34,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG002,81.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+35,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG003,35.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+35,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG003,35.9,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+36,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG000,2186.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+36,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG000,2186.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+37,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG001,920.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+37,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG001,920.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+38,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG002,4126.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+38,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG002,4126.6,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+39,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG003,3895.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+39,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG003,3895.4,"Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+40,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG000,117,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+40,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG000,117,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+41,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG001,62,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+41,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG001,62,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+42,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG002,1,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+42,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG002,1,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+43,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-1,OG003,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+43,outcome_overview_time_frame_weeks,,4,,,OPA Anti-1,OG003,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+44,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+44,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+45,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG001,143,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+45,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG001,143,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+46,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+46,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+47,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-4,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+47,outcome_overview_time_frame_weeks,,4,,,OPA Anti-4,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+48,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG000,139,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+48,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG000,139,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+49,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG001,127,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+49,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG001,127,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+50,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG002,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+50,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG002,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+51,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-5,OG003,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+51,outcome_overview_time_frame_weeks,,4,,,OPA Anti-5,OG003,0,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+52,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG000,132,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+52,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG000,132,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+53,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG001,122,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+53,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG001,122,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+54,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG002,40,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+54,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG002,40,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+55,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6B,OG003,44,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+55,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6B,OG003,44,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+56,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+56,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+57,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG001,141,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+57,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG001,141,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+58,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG002,10,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+58,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG002,10,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+59,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-7F,OG003,5,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+59,outcome_overview_time_frame_weeks,,4,,,OPA Anti-7F,OG003,5,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+60,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG000,130,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+60,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG000,130,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+61,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG001,144,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+61,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG001,144,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+62,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+62,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+63,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-9V,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+63,outcome_overview_time_frame_weeks,,4,,,OPA Anti-9V,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+64,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG000,138,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+64,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG000,138,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+65,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG001,142,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+65,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG001,142,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+66,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+66,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG002,43,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+67,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-14,OG003,48,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+67,outcome_overview_time_frame_weeks,,4,,,OPA Anti-14,OG003,48,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+68,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG000,138,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+68,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG000,138,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+69,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG001,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+69,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG001,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+70,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG002,45,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+70,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG002,45,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+71,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-18C,OG003,48,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+71,outcome_overview_time_frame_weeks,,4,,,OPA Anti-18C,OG003,48,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+72,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+72,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG000,137,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+73,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG001,142,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+73,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG001,142,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+74,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG002,42,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+74,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG002,42,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+75,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19F,OG003,45,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+75,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19F,OG003,45,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+76,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG000,141,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+76,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG000,141,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+77,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG001,132,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+77,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG001,132,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+78,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG002,42,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+78,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG002,42,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+79,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-23F,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+79,outcome_overview_time_frame_weeks,,4,,,OPA Anti-23F,OG003,49,"Number of Subjects With Opsonophagocytic Activity (OPA) Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F Equal to or Above (≥) 8"
+80,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG000,93.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+80,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG000,93.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+81,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG001,60.5,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+81,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG001,60.5,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+82,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG002,137.3,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+82,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG002,137.3,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+83,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG003,175.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+83,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG003,175.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+84,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG000,10.6,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+84,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG000,10.6,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+85,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG001,10.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+85,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG001,10.1,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+86,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG002,4.2,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+86,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG002,4.2,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+87,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG003,4,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+87,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG003,4,Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+88,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG000,91,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+88,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG000,91,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+89,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG001,83,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+89,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG001,83,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+90,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG002,34,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+90,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG002,34,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+91,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-6A,OG003,36,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+91,outcome_overview_time_frame_weeks,,4,,,OPA Anti-6A,OG003,36,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+92,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG000,35,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+92,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG000,35,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+93,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG001,41,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+93,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG001,41,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+94,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG002,1,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+94,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG002,1,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+95,outcome_overview_dose_description,post dose 1,1m post dose 1 child,,,OPA Anti-19A,OG003,0,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+95,outcome_overview_time_frame_weeks,,4,,,OPA Anti-19A,OG003,0,Number of Subjects With Opsonophagocytic Activity (OPA) Against Cross-reactive Pneumococcal Serotypes 6A and 19A Equal to or Above (≥) 8
+96,_selection,excluded,included,,,Anti-1 POST,OG000,3.23,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+97,_selection,excluded,included,,,Anti-1 POST,OG001,1.04,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+98,_selection,excluded,included,,,Anti-1 POST,OG002,0.03,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+99,_selection,excluded,included,,,Anti-1 POST,OG003,0.03,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+100,_selection,excluded,included,,,Anti-4 POST,OG000,4.96,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+101,_selection,excluded,included,,,Anti-4 POST,OG001,1.64,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+102,_selection,excluded,included,,,Anti-4 POST,OG002,5.68,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+103,_selection,excluded,included,,,Anti-4 POST,OG003,2.14,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+104,_selection,excluded,included,,,Anti-5 POST,OG000,4.87,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+105,_selection,excluded,included,,,Anti-5 POST,OG001,1.62,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+106,_selection,excluded,included,,,Anti-5 POST,OG002,0.03,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+107,_selection,excluded,included,,,Anti-5 POST,OG003,0.03,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+108,_selection,excluded,included,,,Anti-6B POST,OG000,1.19,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+109,_selection,excluded,included,,,Anti-6B POST,OG001,0.73,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+110,_selection,excluded,included,,,Anti-6B POST,OG002,1.06,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+111,_selection,excluded,included,,,Anti-6B POST,OG003,1.23,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+112,_selection,excluded,included,,,Anti-7F POST,OG000,4.84,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+113,_selection,excluded,included,,,Anti-7F POST,OG001,2.25,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+114,_selection,excluded,included,,,Anti-7F POST,OG002,0.05,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+115,_selection,excluded,included,,,Anti-7F POST,OG003,0.04,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+116,_selection,excluded,included,,,Anti-9V POST,OG000,4.04,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+117,_selection,excluded,included,,,Anti-9V POST,OG001,1.51,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+118,_selection,excluded,included,,,Anti-9V POST,OG002,5.07,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+119,_selection,excluded,included,,,Anti-9V POST,OG003,2.7,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+120,_selection,excluded,included,,,Anti-14 POST,OG000,6.45,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+121,_selection,excluded,included,,,Anti-14 POST,OG001,3.31,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+122,_selection,excluded,included,,,Anti-14 POST,OG002,5.88,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+123,_selection,excluded,included,,,Anti-14 POST,OG003,5.23,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+124,_selection,excluded,included,,,Anti-18C POST,OG000,11.56,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+125,_selection,excluded,included,,,Anti-18C POST,OG001,3.74,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+126,_selection,excluded,included,,,Anti-18C POST,OG002,3.71,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+127,_selection,excluded,included,,,Anti-18C POST,OG003,2.64,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+128,_selection,excluded,included,,,Anti-19F POST,OG000,10.46,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+129,_selection,excluded,included,,,Anti-19F POST,OG001,5.3,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+130,_selection,excluded,included,,,Anti-19F POST,OG002,4.68,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+131,_selection,excluded,included,,,Anti-19F POST,OG003,2.38,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+132,_selection,excluded,included,,,Anti-23F POST,OG000,2.23,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+133,_selection,excluded,included,,,Anti-23F POST,OG001,1.11,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+134,_selection,excluded,included,,,Anti-23F POST,OG002,2.28,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+135,_selection,excluded,included,,,Anti-23F POST,OG003,2.2,"Concentrations of Antibodies Against Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+136,_selection,excluded,included,,,Anti-6A,OG000,0.3,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+137,_selection,excluded,included,,,Anti-6A,OG001,0.17,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+138,_selection,excluded,included,,,Anti-6A,OG002,0.23,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+139,_selection,excluded,included,,,Anti-6A,OG003,0.26,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+140,_selection,excluded,included,,,Anti-19A,OG000,0.36,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+141,_selection,excluded,included,,,Anti-19A,OG001,0.29,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+142,_selection,excluded,included,,,Anti-19A,OG002,0.18,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+143,_selection,excluded,included,,,Anti-19A,OG003,0.12,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+144,_selection,excluded,included,,,,OG000,3800,Concentrations of Antibodies Against Protein D (Anti-PD)
+145,_selection,excluded,included,,,,OG001,2002,Concentrations of Antibodies Against Protein D (Anti-PD)
+146,_selection,excluded,included,,,,OG002,105.2,Concentrations of Antibodies Against Protein D (Anti-PD)
+147,_selection,excluded,included,,,,OG003,66.6,Concentrations of Antibodies Against Protein D (Anti-PD)
+148,_selection,excluded,included,,,,OG000,26.001,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations
+149,_selection,excluded,included,,,,OG001,9.376,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations
+150,_selection,excluded,included,,,,OG002,25.758,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations
+151,_selection,excluded,included,,,,OG003,8.86,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations
+152,_selection,excluded,included,,,Anti-diphtheria,OG000,1.735,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+153,_selection,excluded,included,,,Anti-diphtheria,OG001,1.549,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+154,_selection,excluded,included,,,Anti-diphtheria,OG002,1.252,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+155,_selection,excluded,included,,,Anti-diphtheria,OG003,1.039,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+156,_selection,excluded,included,,,Anti-tetanus,OG000,5.195,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+157,_selection,excluded,included,,,Anti-tetanus,OG001,3.505,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+158,_selection,excluded,included,,,Anti-tetanus,OG002,3.476,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+159,_selection,excluded,included,,,Anti-tetanus,OG003,2.659,Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations
+160,_selection,excluded,included,,,,OG000,101.6,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+161,_selection,excluded,included,,,,OG001,756.7,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+162,_selection,excluded,included,,,,OG002,129.8,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+163,_selection,excluded,included,,,,OG003,792.2,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+164,_selection,excluded,included,,,Anti-polio 1,OG000,641.5,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+165,_selection,excluded,included,,,Anti-polio 1,OG001,331.1,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+166,_selection,excluded,included,,,Anti-polio 1,OG002,373.7,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+167,_selection,excluded,included,,,Anti-polio 1,OG003,267.6,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+168,_selection,excluded,included,,,Anti-polio 2,OG000,523.6,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+169,_selection,excluded,included,,,Anti-polio 2,OG001,276.8,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+170,_selection,excluded,included,,,Anti-polio 2,OG002,546.2,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+171,_selection,excluded,included,,,Anti-polio 2,OG003,303.5,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+172,_selection,excluded,included,,,Anti-polio 3,OG000,204.5,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+173,_selection,excluded,included,,,Anti-polio 3,OG001,540.8,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+174,_selection,excluded,included,,,Anti-polio 3,OG002,101.9,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+175,_selection,excluded,included,,,Anti-polio 3,OG003,611.5,"Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
+176,_selection,excluded,included,,,,OG000,72.465,Anti-Bordetella Pertussis (Anti-BPT) Antibody Concentrations
+177,_selection,excluded,included,,,,OG001,53.481,Anti-Bordetella Pertussis (Anti-BPT) Antibody Concentrations
+178,_selection,excluded,included,,,,OG002,77.175,Anti-Bordetella Pertussis (Anti-BPT) Antibody Concentrations
+179,_selection,excluded,included,,,,OG003,60.003,Anti-Bordetella Pertussis (Anti-BPT) Antibody Concentrations

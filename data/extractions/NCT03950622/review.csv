@@ -1,0 +1,31 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG000,256.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+1,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG001,322.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+2,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG000,216.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+3,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG001,135.1,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+4,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG000,1125.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+5,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG001,1661.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+6,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG000,447.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+7,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG001,563.5,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+8,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG000,5407.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+9,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG001,5424.5,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+10,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG000,4011.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+11,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG001,3258.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+12,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG000,4617.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+13,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG001,5880.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+14,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG000,1817.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+15,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG001,2232.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+16,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG000,1999.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+17,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG001,2656.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+18,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG000,2757.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+19,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG001,2583.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+20,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG000,3194.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+21,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG001,3979.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+22,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG000,1695.1,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+23,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG001,1917.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+24,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG000,2045.4,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+25,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG001,1740.4,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+26,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG000,2375.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+27,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG001,74.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+28,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG000,7994.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30
+29,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG001,1124.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity at Day 30

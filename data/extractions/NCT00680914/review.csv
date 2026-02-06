@@ -1,0 +1,29 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,_selection,excluded,included,,,Anti-1,OG000,3.41,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+1,_selection,excluded,included,,,Anti-1,OG001,0.04,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+2,_selection,excluded,included,,,Anti-4,OG000,4.00,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+3,_selection,excluded,included,,,Anti-4,OG001,5.35,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+4,_selection,excluded,included,,,Anti-5,OG000,4.52,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+5,_selection,excluded,included,,,Anti-5,OG001,0.07,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+6,_selection,excluded,included,,,Anti-6B,OG000,1.40,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+7,_selection,excluded,included,,,Anti-6B,OG001,2.07,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+8,_selection,excluded,included,,,Anti-7F,OG000,4.08,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+9,_selection,excluded,included,,,Anti-7F,OG001,0.03,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+10,_selection,excluded,included,,,Anti-9V,OG000,3.39,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+11,_selection,excluded,included,,,Anti-9V,OG001,5.09,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+12,_selection,excluded,included,,,Anti-14,OG000,5.54,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+13,_selection,excluded,included,,,Anti-14,OG001,8.51,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+14,_selection,excluded,included,,,Anti-18C,OG000,5.80,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+15,_selection,excluded,included,,,Anti-18C,OG001,5.13,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+16,_selection,excluded,included,,,Anti-19F,OG000,7.41,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+17,_selection,excluded,included,,,Anti-19F,OG001,2.77,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+18,_selection,excluded,included,,,Anti-23F,OG000,1.96,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+19,_selection,excluded,included,,,Anti-23F,OG001,3.94,Antibody Concentrations Against Pneumococal Serotypes Contained in the Vaccine
+20,_selection,excluded,included,,,,OG000,1622.4,Anti-PD Antibody Concentration
+21,_selection,excluded,included,,,,OG001,88.2,Anti-PD Antibody Concentration
+22,_selection,excluded,included,,,Anti-6A,OG000,0.38,Antibody Concentrations Against Pneumococcal Cross-reactive Serotypes
+23,_selection,excluded,included,,,Anti-6A,OG001,0.48,Antibody Concentrations Against Pneumococcal Cross-reactive Serotypes
+24,_selection,excluded,included,,,Anti-19A,OG000,0.29,Antibody Concentrations Against Pneumococcal Cross-reactive Serotypes
+25,_selection,excluded,included,,,Anti-19A,OG001,0.12,Antibody Concentrations Against Pneumococcal Cross-reactive Serotypes
+26,_selection,excluded,included,,,,OG000,20.131,Anti-polyribosyl-ribitol Phosphate (Anti-PRP) Antibody Concentrations
+27,_selection,excluded,included,,,,OG001,11.844,Anti-polyribosyl-ribitol Phosphate (Anti-PRP) Antibody Concentrations

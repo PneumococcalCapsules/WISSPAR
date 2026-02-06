@@ -1,0 +1,7 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+362,_selection,excluded,included,,,,OG000,36.96,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Mumps) 1 Month After Dose 4
+363,_selection,excluded,included,,,,OG001,34.19,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Mumps) 1 Month After Dose 4
+364,_selection,excluded,included,,,,OG000,49.63,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigens (Rubella) 1 Month After Dose 4
+365,_selection,excluded,included,,,,OG001,40.44,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigens (Rubella) 1 Month After Dose 4
+366,_selection,excluded,included,,,,OG000,233.05,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Varicella) 1 Month After Dose 4
+367,_selection,excluded,included,,,,OG001,234.78,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Varicella) 1 Month After Dose 4

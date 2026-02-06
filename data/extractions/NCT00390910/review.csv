@@ -1,0 +1,106 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,_selection,excluded,included,,,Anti-1,OG000,0.97,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+1,_selection,excluded,included,,,Anti-1,OG001,1.1,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+2,_selection,excluded,included,,,Anti-1,OG002,1.35,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+3,_selection,excluded,included,,,Anti-4,OG000,1.53,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+4,_selection,excluded,included,,,Anti-4,OG001,1.88,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+5,_selection,excluded,included,,,Anti-4,OG002,2.42,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+6,_selection,excluded,included,,,Anti-5,OG000,1.45,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+7,_selection,excluded,included,,,Anti-5,OG001,1.93,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+8,_selection,excluded,included,,,Anti-5,OG002,2.31,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+9,_selection,excluded,included,,,Anti-6B,OG000,0.85,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+10,_selection,excluded,included,,,Anti-6B,OG001,1.11,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+11,_selection,excluded,included,,,Anti-6B,OG002,1.18,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+12,_selection,excluded,included,,,Anti-7F,OG000,1.87,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+13,_selection,excluded,included,,,Anti-7F,OG001,2.37,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+14,_selection,excluded,included,,,Anti-7F,OG002,2.69,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+15,_selection,excluded,included,,,Anti-9V,OG000,1.43,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+16,_selection,excluded,included,,,Anti-9V,OG001,1.69,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+17,_selection,excluded,included,,,Anti-9V,OG002,2.41,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+18,_selection,excluded,included,,,Anti-14,OG000,3.52,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+19,_selection,excluded,included,,,Anti-14,OG001,3.28,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+20,_selection,excluded,included,,,Anti-14,OG002,3.71,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+21,_selection,excluded,included,,,Anti-18C,OG000,3.28,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+22,_selection,excluded,included,,,Anti-18C,OG001,4.86,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+23,_selection,excluded,included,,,Anti-18C,OG002,5.22,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+24,_selection,excluded,included,,,Anti-19F,OG000,3.6,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+25,_selection,excluded,included,,,Anti-19F,OG001,4.8,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+26,_selection,excluded,included,,,Anti-19F,OG002,4.56,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+27,_selection,excluded,included,,,Anti-23F,OG000,1.05,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+28,_selection,excluded,included,,,Anti-23F,OG001,1.33,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+29,_selection,excluded,included,,,Anti-23F,OG002,1.54,"Concentrations of Antibodies Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+30,_selection,excluded,included,,,Opsono-1,OG000,23,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+31,_selection,excluded,included,,,Opsono-1,OG001,30.3,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+32,_selection,excluded,included,,,Opsono-1,OG002,46.3,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+33,_selection,excluded,included,,,Opsono-4,OG000,644.1,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+34,_selection,excluded,included,,,Opsono-4,OG001,500.9,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+35,_selection,excluded,included,,,Opsono-4,OG002,543.5,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+36,_selection,excluded,included,,,Opsono-5,OG000,45.2,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+37,_selection,excluded,included,,,Opsono-5,OG001,70.8,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+38,_selection,excluded,included,,,Opsono-5,OG002,94.8,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+39,_selection,excluded,included,,,Opsono-6B,OG000,278.3,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+40,_selection,excluded,included,,,Opsono-6B,OG001,305.1,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+41,_selection,excluded,included,,,Opsono-6B,OG002,268.2,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+42,_selection,excluded,included,,,Opsono-7F,OG000,4086.3,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+43,_selection,excluded,included,,,Opsono-7F,OG001,3047.3,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+44,_selection,excluded,included,,,Opsono-7F,OG002,2395.2,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+45,_selection,excluded,included,,,Opsono-9V,OG000,930.5,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+46,_selection,excluded,included,,,Opsono-9V,OG001,837.9,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+47,_selection,excluded,included,,,Opsono-9V,OG002,1144.8,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+48,_selection,excluded,included,,,Opsono-14,OG000,775.4,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+49,_selection,excluded,included,,,Opsono-14,OG001,901.6,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+50,_selection,excluded,included,,,Opsono-14,OG002,644.6,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+51,_selection,excluded,included,,,Opsono-18C,OG000,262.5,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+52,_selection,excluded,included,,,Opsono-18C,OG001,321.5,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+53,_selection,excluded,included,,,Opsono-18C,OG002,251,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+54,_selection,excluded,included,,,Opsono-19F,OG000,104.2,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+55,_selection,excluded,included,,,Opsono-19F,OG001,201.1,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+56,_selection,excluded,included,,,Opsono-19F,OG002,182.7,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+57,_selection,excluded,included,,,Opsono-23F,OG000,1659.4,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+58,_selection,excluded,included,,,Opsono-23F,OG001,1147.2,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+59,_selection,excluded,included,,,Opsono-23F,OG002,1558.8,"Opsonophagocytic Activity Against Vaccine Pneumococcal Serotypes 1, 4, 5, 6B, 7F, 9V, 14, 18C, 19F and 23F"
+60,_selection,excluded,included,,,Anti-6A,OG000,0.14,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+61,_selection,excluded,included,,,Anti-6A,OG001,0.21,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+62,_selection,excluded,included,,,Anti-6A,OG002,0.2,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+63,_selection,excluded,included,,,Anti-19A,OG000,0.08,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+64,_selection,excluded,included,,,Anti-19A,OG001,0.21,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+65,_selection,excluded,included,,,Anti-19A,OG002,0.26,Concentrations of Antibodies Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+66,_selection,excluded,included,,,Opsono-6A,OG000,114.5,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+67,_selection,excluded,included,,,Opsono-6A,OG001,157.3,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+68,_selection,excluded,included,,,Opsono-6A,OG002,49.5,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+69,_selection,excluded,included,,,Opsono-19A,OG000,4.5,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+70,_selection,excluded,included,,,Opsono-19A,OG001,7.1,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+71,_selection,excluded,included,,,Opsono-19A,OG002,7,Opsonophagocytic Activity Against Cross-reactive Pneumococcal Serotypes 6A and 19A
+72,_selection,excluded,included,,,,OG000,1688.6,Concentrations of Antibodies Against Protein D (Anti-PD)
+73,_selection,excluded,included,,,,OG001,1415.4,Concentrations of Antibodies Against Protein D (Anti-PD)
+74,_selection,excluded,included,,,,OG002,1496.8,Concentrations of Antibodies Against Protein D (Anti-PD)
+75,_selection,excluded,included,,,Anti-diphtheria,OG000,2.495,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+76,_selection,excluded,included,,,Anti-diphtheria,OG001,3.23,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+77,_selection,excluded,included,,,Anti-diphtheria,OG002,3.077,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+78,_selection,excluded,included,,,Anti-tetanus,OG000,7.745,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+79,_selection,excluded,included,,,Anti-tetanus,OG001,8.617,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+80,_selection,excluded,included,,,Anti-tetanus,OG002,7.695,Antibody Concentrations for Anti-diphtheria and Tetanus Toxoids ≥ the Cut-off
+81,_selection,excluded,included,,,,OG000,4.031,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations ≥ th Cut-off
+82,_selection,excluded,included,,,,OG001,5.804,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations ≥ th Cut-off
+83,_selection,excluded,included,,,,OG002,7.952,Anti-polyribosyl-ribitol-phosphate (Anti-PRP) Antibody Concentrations ≥ th Cut-off
+84,_selection,excluded,included,,,Anti-PT,OG000,41.9,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+85,_selection,excluded,included,,,Anti-PT,OG001,37.9,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+86,_selection,excluded,included,,,Anti-PT,OG002,47.3,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+87,_selection,excluded,included,,,Anti-FHA,OG000,188.6,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+88,_selection,excluded,included,,,Anti-FHA,OG001,169,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+89,_selection,excluded,included,,,Anti-FHA,OG002,163.1,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+90,_selection,excluded,included,,,Anti-PRN,OG000,127.6,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+91,_selection,excluded,included,,,Anti-PRN,OG001,109.1,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+92,_selection,excluded,included,,,Anti-PRN,OG002,119.1,"Antibody Concentration for Anti-pertussis Toxoid (Anti-PT) , Anti-filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN)"
+93,_selection,excluded,included,,,,OG000,431.9,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+94,_selection,excluded,included,,,,OG001,356,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+95,_selection,excluded,included,,,,OG002,462.9,Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations
+96,_selection,excluded,included,,,Anti-Polio 1,OG000,271.3,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+97,_selection,excluded,included,,,Anti-Polio 1,OG001,189.5,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+98,_selection,excluded,included,,,Anti-Polio 1,OG002,230.1,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+99,_selection,excluded,included,,,Anti-Polio 2,OG000,341.7,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+100,_selection,excluded,included,,,Anti-Polio 2,OG001,319,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+101,_selection,excluded,included,,,Anti-Polio 2,OG002,194.4,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+102,_selection,excluded,included,,,Anti-Polio 3,OG000,248.4,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+103,_selection,excluded,included,,,Anti-Polio 3,OG001,344.7,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"
+104,_selection,excluded,included,,,Anti-Polio 3,OG002,384.8,"Antibody Titers for Polio Type 1, 2 and 3 ≥ the Cut-off"

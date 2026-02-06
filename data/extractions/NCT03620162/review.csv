@@ -1,0 +1,5 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+65,outcome_overview_assay,OPA,GMC,,,,OG000,286.5,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
+66,outcome_overview_assay,OPA,GMC,,,,OG001,329.5,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
+67,outcome_overview_assay,OPA,GMC,,,,OG004,298.3,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
+68,outcome_overview_assay,OPA,GMC,,,,OG005,307.0,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3

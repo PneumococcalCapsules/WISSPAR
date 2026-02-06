@@ -4,7 +4,16 @@
       "WebFetch(domain:clinicaltrials.gov)",
       "Bash(curl:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh pr create:*)",
+      "Bash(where:*)",
+      "Bash(where.exe:*)",
+      "Bash(git remote get-url:*)",
+      "Bash(cd:*)",
+      "Bash(grep:*)"
     ]
   }
 }

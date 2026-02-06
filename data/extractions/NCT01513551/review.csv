@@ -1,0 +1,181 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG000,3.76,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+0,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,3.76,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+1,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG001,3.30,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+1,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,3.30,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+2,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG002,3.12,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+2,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,3.12,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+3,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG000,1.13,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+3,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,1.13,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+4,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG001,0.57,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+4,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,0.57,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+5,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG002,0.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+5,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,0.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+6,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG000,1.96,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+6,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,1.96,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+7,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG001,1.03,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+7,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1.03,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+8,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG002,2.09,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+8,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,2.09,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+9,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG000,3.99,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+9,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,3.99,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+10,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG001,2.70,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+10,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,2.70,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+11,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG002,2.76,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+11,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,2.76,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+12,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG000,4.88,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+12,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,4.88,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+13,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG001,1.14,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+13,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,1.14,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+14,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG002,4.86,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+14,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,4.86,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+15,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG000,5.43,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+15,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,5.43,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+16,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG001,2.01,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+16,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,2.01,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+17,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG002,2.81,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+17,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,2.81,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+18,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG000,4.59,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+18,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,4.59,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+19,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG001,3.74,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+19,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,3.74,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+20,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG002,6.06,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+20,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,6.06,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+21,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG000,4.05,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+21,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,4.05,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+22,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG001,2.72,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+22,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,2.72,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+23,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG002,3.41,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+23,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,3.41,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+24,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG000,8.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+24,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,8.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+25,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG001,8.13,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+25,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,8.13,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+26,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG002,8.90,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+26,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,8.90,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+27,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG000,8.00,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+27,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,8.00,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+28,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG001,4.66,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+28,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,4.66,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+29,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG002,6.83,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+29,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,6.83,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+30,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG000,9.36,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+30,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,9.36,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+31,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG001,6.99,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+31,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,6.99,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+32,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG002,11.36,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+32,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,11.36,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+33,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG000,3.35,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+33,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,3.35,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+34,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG001,4.17,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+34,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,4.17,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+35,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG002,4.80,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+35,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,4.80,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+36,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG000,5.21,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+36,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG000,5.21,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+37,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG001,1.98,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+37,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG001,1.98,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+38,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG002,0.38,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+38,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG002,0.38,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+39,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG000,5.55,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+39,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,5.55,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+40,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG001,1.82,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+40,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,1.82,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+41,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG002,3.41,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+41,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,3.41,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+42,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG000,11.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+42,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG000,11.56,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+43,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG001,8.26,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+43,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG001,8.26,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+44,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG002,0.85,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+44,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG002,0.85,Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies
+45,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG000,208.03,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+45,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG000,208.03,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+46,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG001,117.87,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+46,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG001,117.87,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+47,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 1,OG002,115.75,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+47,outcome_overview_time_frame_weeks,,4,,,Serotype 1,OG002,115.75,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+48,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG000,595.16,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+48,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG000,595.16,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+49,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG001,313.83,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+49,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG001,313.83,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+50,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 3,OG002,256.76,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+50,outcome_overview_time_frame_weeks,,4,,,Serotype 3,OG002,256.76,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+51,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG000,2875.79,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+51,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG000,2875.79,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+52,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG001,1099.88,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+52,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG001,1099.88,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+53,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 4,OG002,3001.63,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+53,outcome_overview_time_frame_weeks,,4,,,Serotype 4,OG002,3001.63,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+54,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG000,712.21,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+54,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG000,712.21,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+55,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG001,288.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+55,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG001,288.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+56,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 5,OG002,372.35,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+56,outcome_overview_time_frame_weeks,,4,,,Serotype 5,OG002,372.35,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+57,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG000,4216.34,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+57,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG000,4216.34,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+58,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG001,490.60,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+58,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG001,490.60,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+59,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6A,OG002,5251.47,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+59,outcome_overview_time_frame_weeks,,4,,,Serotype 6A,OG002,5251.47,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+60,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG000,6469.99,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+60,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG000,6469.99,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+61,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG001,1630.20,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+61,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG001,1630.20,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+62,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 6B,OG002,4207.86,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+62,outcome_overview_time_frame_weeks,,4,,,Serotype 6B,OG002,4207.86,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+63,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG000,5148.66,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+63,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG000,5148.66,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+64,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG001,3665.62,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+64,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG001,3665.62,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+65,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 7F,OG002,7816.74,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+65,outcome_overview_time_frame_weeks,,4,,,Serotype 7F,OG002,7816.74,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+66,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG000,3024.34,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+66,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG000,3024.34,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+67,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG001,1674.44,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+67,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG001,1674.44,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+68,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 9V,OG002,2471.10,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+68,outcome_overview_time_frame_weeks,,4,,,Serotype 9V,OG002,2471.10,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+69,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG000,4352.27,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+69,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG000,4352.27,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+70,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG001,3572.27,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+70,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG001,3572.27,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+71,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 14,OG002,4478.38,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+71,outcome_overview_time_frame_weeks,,4,,,Serotype 14,OG002,4478.38,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+72,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG000,4631.86,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+72,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG000,4631.86,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+73,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG001,2438.57,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+73,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG001,2438.57,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+74,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 18C,OG002,3358.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+74,outcome_overview_time_frame_weeks,,4,,,Serotype 18C,OG002,3358.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+75,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG000,3391.18,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+75,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG000,3391.18,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+76,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG001,2682.65,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+76,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG001,2682.65,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+77,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19A,OG002,4186.28,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+77,outcome_overview_time_frame_weeks,,4,,,Serotype 19A,OG002,4186.28,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+78,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG000,1201.17,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+78,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG000,1201.17,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+79,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG001,1581.60,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+79,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG001,1581.60,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+80,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 19F,OG002,1946.04,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+80,outcome_overview_time_frame_weeks,,4,,,Serotype 19F,OG002,1946.04,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+81,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG000,8329.52,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+81,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG000,8329.52,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+82,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG001,4382.78,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+82,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG001,4382.78,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+83,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 22F,OG002,57.45,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+83,outcome_overview_time_frame_weeks,,4,,,Serotype 22F,OG002,57.45,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+84,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG000,2217.18,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+84,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG000,2217.18,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+85,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG001,378.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+85,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG001,378.41,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+86,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 23F,OG002,1197.80,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+86,outcome_overview_time_frame_weeks,,4,,,Serotype 23F,OG002,1197.80,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+87,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG000,31116.90,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+87,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG000,31116.90,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+88,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG001,27560.15,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+88,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG001,27560.15,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+89,outcome_overview_dose_description,post dose 1,1m post dose 1 adult,,,Serotype 33F,OG002,3129.94,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies
+89,outcome_overview_time_frame_weeks,,4,,,Serotype 33F,OG002,3129.94,Geometric Mean Titer (GMT) of Pneumococcal Serotype-specific Opsonophagocytic Activity (OPA) Antibodies

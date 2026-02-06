@@ -1,0 +1,241 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,_selection,excluded,included,,,Anti-1 Month 3,OG000,2.74,Antibody Concentrations Against Pneumococcal Serotypes
+1,_selection,excluded,included,,,Anti-1 Month 3,OG001,3.12,Antibody Concentrations Against Pneumococcal Serotypes
+2,_selection,excluded,included,,,Anti-1 Month 3,OG002,4,Antibody Concentrations Against Pneumococcal Serotypes
+3,_selection,excluded,included,,,Anti-1 Month 10,OG000,0.34,Antibody Concentrations Against Pneumococcal Serotypes
+4,_selection,excluded,included,,,Anti-1 Month 10,OG001,0.53,Antibody Concentrations Against Pneumococcal Serotypes
+5,_selection,excluded,included,,,Anti-1 Month 10,OG002,0.62,Antibody Concentrations Against Pneumococcal Serotypes
+6,_selection,excluded,included,,,Anti-1 Month 11,OG000,4.61,Antibody Concentrations Against Pneumococcal Serotypes
+7,_selection,excluded,included,,,Anti-1 Month 11,OG001,4.2,Antibody Concentrations Against Pneumococcal Serotypes
+8,_selection,excluded,included,,,Anti-1 Month 11,OG002,5.22,Antibody Concentrations Against Pneumococcal Serotypes
+9,_selection,excluded,included,,,Anti-3 Month 3,OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes
+10,_selection,excluded,included,,,Anti-3 Month 3,OG001,0.84,Antibody Concentrations Against Pneumococcal Serotypes
+11,_selection,excluded,included,,,Anti-3 Month 3,OG002,2.48,Antibody Concentrations Against Pneumococcal Serotypes
+12,_selection,excluded,included,,,Anti-3 Month 10,OG000,0.09,Antibody Concentrations Against Pneumococcal Serotypes
+13,_selection,excluded,included,,,Anti-3 Month 10,OG001,0.21,Antibody Concentrations Against Pneumococcal Serotypes
+14,_selection,excluded,included,,,Anti-3 Month 10,OG002,0.37,Antibody Concentrations Against Pneumococcal Serotypes
+15,_selection,excluded,included,,,Anti-3 Month 11,OG000,0.1,Antibody Concentrations Against Pneumococcal Serotypes
+16,_selection,excluded,included,,,Anti-3 Month 11,OG001,0.21,Antibody Concentrations Against Pneumococcal Serotypes
+17,_selection,excluded,included,,,Anti-3 Month 11,OG002,0.33,Antibody Concentrations Against Pneumococcal Serotypes
+18,_selection,excluded,included,,,Anti-4 Month 3,OG000,3.54,Antibody Concentrations Against Pneumococcal Serotypes
+19,_selection,excluded,included,,,Anti-4 Month 3,OG001,2.73,Antibody Concentrations Against Pneumococcal Serotypes
+20,_selection,excluded,included,,,Anti-4 Month 3,OG002,2.74,Antibody Concentrations Against Pneumococcal Serotypes
+21,_selection,excluded,included,,,Anti-4 Month 10,OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes
+22,_selection,excluded,included,,,Anti-4 Month 10,OG001,0.56,Antibody Concentrations Against Pneumococcal Serotypes
+23,_selection,excluded,included,,,Anti-4 Month 10,OG002,0.39,Antibody Concentrations Against Pneumococcal Serotypes
+24,_selection,excluded,included,,,Anti-4 Month 11,OG000,6.76,Antibody Concentrations Against Pneumococcal Serotypes
+25,_selection,excluded,included,,,Anti-4 Month 11,OG001,4.7,Antibody Concentrations Against Pneumococcal Serotypes
+26,_selection,excluded,included,,,Anti-4 Month 11,OG002,8.77,Antibody Concentrations Against Pneumococcal Serotypes
+27,_selection,excluded,included,,,Anti-5 Month 3,OG000,4.55,Antibody Concentrations Against Pneumococcal Serotypes
+28,_selection,excluded,included,,,Anti-5 Month 3,OG001,2.59,Antibody Concentrations Against Pneumococcal Serotypes
+29,_selection,excluded,included,,,Anti-5 Month 3,OG002,4.89,Antibody Concentrations Against Pneumococcal Serotypes
+30,_selection,excluded,included,,,Anti-5 Month 10,OG000,0.96,Antibody Concentrations Against Pneumococcal Serotypes
+31,_selection,excluded,included,,,Anti-5 Month 10,OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes
+32,_selection,excluded,included,,,Anti-5 Month 10,OG002,1.05,Antibody Concentrations Against Pneumococcal Serotypes
+33,_selection,excluded,included,,,Anti-5 Month 11,OG000,8.31,Antibody Concentrations Against Pneumococcal Serotypes
+34,_selection,excluded,included,,,Anti-5 Month 11,OG001,5.27,Antibody Concentrations Against Pneumococcal Serotypes
+35,_selection,excluded,included,,,Anti-5 Month 11,OG002,6.15,Antibody Concentrations Against Pneumococcal Serotypes
+36,_selection,excluded,included,,,Anti-6A Month 3,OG000,0.22,Antibody Concentrations Against Pneumococcal Serotypes
+37,_selection,excluded,included,,,Anti-6A Month 3,OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes
+38,_selection,excluded,included,,,Anti-6A Month 3,OG002,3.35,Antibody Concentrations Against Pneumococcal Serotypes
+39,_selection,excluded,included,,,Anti-6A Month 10,OG000,0.25,Antibody Concentrations Against Pneumococcal Serotypes
+40,_selection,excluded,included,,,Anti-6A Month 10,OG001,0.28,Antibody Concentrations Against Pneumococcal Serotypes
+41,_selection,excluded,included,,,Anti-6A Month 10,OG002,0.67,Antibody Concentrations Against Pneumococcal Serotypes
+42,_selection,excluded,included,,,Anti-6A Month 11,OG000,1.3,Antibody Concentrations Against Pneumococcal Serotypes
+43,_selection,excluded,included,,,Anti-6A Month 11,OG001,0.93,Antibody Concentrations Against Pneumococcal Serotypes
+44,_selection,excluded,included,,,Anti-6A Month 11,OG002,1.97,Antibody Concentrations Against Pneumococcal Serotypes
+45,_selection,excluded,included,,,Anti-6B Month 3,OG000,0.96,Antibody Concentrations Against Pneumococcal Serotypes
+46,_selection,excluded,included,,,Anti-6B Month 3,OG001,0.21,Antibody Concentrations Against Pneumococcal Serotypes
+47,_selection,excluded,included,,,Anti-6B Month 3,OG002,0.38,Antibody Concentrations Against Pneumococcal Serotypes
+48,_selection,excluded,included,,,Anti-6B Month 10,OG000,0.48,Antibody Concentrations Against Pneumococcal Serotypes
+49,_selection,excluded,included,,,Anti-6B Month 10,OG001,0.3,Antibody Concentrations Against Pneumococcal Serotypes
+50,_selection,excluded,included,,,Anti-6B Month 10,OG002,0.24,Antibody Concentrations Against Pneumococcal Serotypes
+51,_selection,excluded,included,,,Anti-6B Month 11,OG000,3.53,Antibody Concentrations Against Pneumococcal Serotypes
+52,_selection,excluded,included,,,Anti-6B Month 11,OG001,1.92,Antibody Concentrations Against Pneumococcal Serotypes
+53,_selection,excluded,included,,,Anti-6B Month 11,OG002,3.03,Antibody Concentrations Against Pneumococcal Serotypes
+54,_selection,excluded,included,,,Anti-7F Month 3,OG000,3.36,Antibody Concentrations Against Pneumococcal Serotypes
+55,_selection,excluded,included,,,Anti-7F Month 3,OG001,2.74,Antibody Concentrations Against Pneumococcal Serotypes
+56,_selection,excluded,included,,,Anti-7F Month 3,OG002,4.83,Antibody Concentrations Against Pneumococcal Serotypes
+57,_selection,excluded,included,,,Anti-7F Month 10,OG000,1.16,Antibody Concentrations Against Pneumococcal Serotypes
+58,_selection,excluded,included,,,Anti-7F Month 10,OG001,1,Antibody Concentrations Against Pneumococcal Serotypes
+59,_selection,excluded,included,,,Anti-7F Month 10,OG002,1.24,Antibody Concentrations Against Pneumococcal Serotypes
+60,_selection,excluded,included,,,Anti-7F Month 11,OG000,7.63,Antibody Concentrations Against Pneumococcal Serotypes
+61,_selection,excluded,included,,,Anti-7F Month 11,OG001,5.07,Antibody Concentrations Against Pneumococcal Serotypes
+62,_selection,excluded,included,,,Anti-7F Month 11,OG002,5.83,Antibody Concentrations Against Pneumococcal Serotypes
+63,_selection,excluded,included,,,Anti-9V Month 3,OG000,2.67,Antibody Concentrations Against Pneumococcal Serotypes
+64,_selection,excluded,included,,,Anti-9V Month 3,OG001,1.34,Antibody Concentrations Against Pneumococcal Serotypes
+65,_selection,excluded,included,,,Anti-9V Month 3,OG002,2.96,Antibody Concentrations Against Pneumococcal Serotypes
+66,_selection,excluded,included,,,Anti-9V Month 10,OG000,0.86,Antibody Concentrations Against Pneumococcal Serotypes
+67,_selection,excluded,included,,,Anti-9V Month 10,OG001,0.49,Antibody Concentrations Against Pneumococcal Serotypes
+68,_selection,excluded,included,,,Anti-9V Month 10,OG002,0.53,Antibody Concentrations Against Pneumococcal Serotypes
+69,_selection,excluded,included,,,Anti-9V Month 11,OG000,7.04,Antibody Concentrations Against Pneumococcal Serotypes
+70,_selection,excluded,included,,,Anti-9V Month 11,OG001,2.48,Antibody Concentrations Against Pneumococcal Serotypes
+71,_selection,excluded,included,,,Anti-9V Month 11,OG002,2.84,Antibody Concentrations Against Pneumococcal Serotypes
+72,_selection,excluded,included,,,Anti-14 Month 3,OG000,4.74,Antibody Concentrations Against Pneumococcal Serotypes
+73,_selection,excluded,included,,,Anti-14 Month 3,OG001,3.45,Antibody Concentrations Against Pneumococcal Serotypes
+74,_selection,excluded,included,,,Anti-14 Month 3,OG002,4.99,Antibody Concentrations Against Pneumococcal Serotypes
+75,_selection,excluded,included,,,Anti-14 Month 10,OG000,1.15,Antibody Concentrations Against Pneumococcal Serotypes
+76,_selection,excluded,included,,,Anti-14 Month 10,OG001,1.05,Antibody Concentrations Against Pneumococcal Serotypes
+77,_selection,excluded,included,,,Anti-14 Month 10,OG002,1.78,Antibody Concentrations Against Pneumococcal Serotypes
+78,_selection,excluded,included,,,Anti-14 Month 11,OG000,10.04,Antibody Concentrations Against Pneumococcal Serotypes
+79,_selection,excluded,included,,,Anti-14 Month 11,OG001,8.1,Antibody Concentrations Against Pneumococcal Serotypes
+80,_selection,excluded,included,,,Anti-14 Month 11,OG002,7.62,Antibody Concentrations Against Pneumococcal Serotypes
+81,_selection,excluded,included,,,Anti-18C Month 3,OG000,3.3,Antibody Concentrations Against Pneumococcal Serotypes
+82,_selection,excluded,included,,,Anti-18C Month 3,OG001,3.22,Antibody Concentrations Against Pneumococcal Serotypes
+83,_selection,excluded,included,,,Anti-18C Month 3,OG002,3.24,Antibody Concentrations Against Pneumococcal Serotypes
+84,_selection,excluded,included,,,Anti-18C Month 10,OG000,0.81,Antibody Concentrations Against Pneumococcal Serotypes
+85,_selection,excluded,included,,,Anti-18C Month 10,OG001,0.65,Antibody Concentrations Against Pneumococcal Serotypes
+86,_selection,excluded,included,,,Anti-18C Month 10,OG002,0.56,Antibody Concentrations Against Pneumococcal Serotypes
+87,_selection,excluded,included,,,Anti-18C Month 11,OG000,25.18,Antibody Concentrations Against Pneumococcal Serotypes
+88,_selection,excluded,included,,,Anti-18C Month 11,OG001,19.39,Antibody Concentrations Against Pneumococcal Serotypes
+89,_selection,excluded,included,,,Anti-18C Month 11,OG002,19.27,Antibody Concentrations Against Pneumococcal Serotypes
+90,_selection,excluded,included,,,Anti-19A Month 3,OG000,0.24,Antibody Concentrations Against Pneumococcal Serotypes
+91,_selection,excluded,included,,,Anti-19A Month 3,OG001,0.72,Antibody Concentrations Against Pneumococcal Serotypes
+92,_selection,excluded,included,,,Anti-19A Month 3,OG002,2.43,Antibody Concentrations Against Pneumococcal Serotypes
+93,_selection,excluded,included,,,Anti-19A Month 10,OG000,0.19,Antibody Concentrations Against Pneumococcal Serotypes
+94,_selection,excluded,included,,,Anti-19A Month 10,OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes
+95,_selection,excluded,included,,,Anti-19A Month 10,OG002,0.34,Antibody Concentrations Against Pneumococcal Serotypes
+96,_selection,excluded,included,,,Anti-19A Month 11,OG000,1.64,Antibody Concentrations Against Pneumococcal Serotypes
+97,_selection,excluded,included,,,Anti-19A Month 11,OG001,1.67,Antibody Concentrations Against Pneumococcal Serotypes
+98,_selection,excluded,included,,,Anti-19A Month 11,OG002,2.17,Antibody Concentrations Against Pneumococcal Serotypes
+99,_selection,excluded,included,,,Anti-19F Month 3,OG000,4.62,Antibody Concentrations Against Pneumococcal Serotypes
+100,_selection,excluded,included,,,Anti-19F Month 3,OG001,5.67,Antibody Concentrations Against Pneumococcal Serotypes
+101,_selection,excluded,included,,,Anti-19F Month 3,OG002,4.17,Antibody Concentrations Against Pneumococcal Serotypes
+102,_selection,excluded,included,,,Anti-19F Month 10,OG000,1.19,Antibody Concentrations Against Pneumococcal Serotypes
+103,_selection,excluded,included,,,Anti-19F Month 10,OG001,1.39,Antibody Concentrations Against Pneumococcal Serotypes
+104,_selection,excluded,included,,,Anti-19F Month 10,OG002,0.53,Antibody Concentrations Against Pneumococcal Serotypes
+105,_selection,excluded,included,,,Anti-19F Month 11,OG000,14.43,Antibody Concentrations Against Pneumococcal Serotypes
+106,_selection,excluded,included,,,Anti-19F Month 11,OG001,13.57,Antibody Concentrations Against Pneumococcal Serotypes
+107,_selection,excluded,included,,,Anti-19F Month 11,OG002,13.81,Antibody Concentrations Against Pneumococcal Serotypes
+108,_selection,excluded,included,,,Anti-23F Month 3,OG000,1.43,Antibody Concentrations Against Pneumococcal Serotypes
+109,_selection,excluded,included,,,Anti-23F Month 3,OG001,0.53,Antibody Concentrations Against Pneumococcal Serotypes
+110,_selection,excluded,included,,,Anti-23F Month 3,OG002,1.74,Antibody Concentrations Against Pneumococcal Serotypes
+111,_selection,excluded,included,,,Anti-23F Month 10,OG000,0.53,Antibody Concentrations Against Pneumococcal Serotypes
+112,_selection,excluded,included,,,Anti-23F Month 10,OG001,0.24,Antibody Concentrations Against Pneumococcal Serotypes
+113,_selection,excluded,included,,,Anti-23F Month 10,OG002,0.36,Antibody Concentrations Against Pneumococcal Serotypes
+114,_selection,excluded,included,,,Anti-23F Month 11,OG000,4.16,Antibody Concentrations Against Pneumococcal Serotypes
+115,_selection,excluded,included,,,Anti-23F Month 11,OG001,1.76,Antibody Concentrations Against Pneumococcal Serotypes
+116,_selection,excluded,included,,,Anti-23F Month 11,OG002,2.76,Antibody Concentrations Against Pneumococcal Serotypes
+117,_selection,excluded,included,,,"Anti-PD Month 3 (N=45,50,37)",OG000,2025.1,Concentrations of Antibodies Against Protein D (Anti-PD)
+118,_selection,excluded,included,,,"Anti-PD Month 3 (N=45,50,37)",OG001,117.2,Concentrations of Antibodies Against Protein D (Anti-PD)
+119,_selection,excluded,included,,,"Anti-PD Month 3 (N=45,50,37)",OG002,143.2,Concentrations of Antibodies Against Protein D (Anti-PD)
+120,_selection,excluded,included,,,"Anti-PD Month 11 (N=45,42,37)",OG000,3658.5,Concentrations of Antibodies Against Protein D (Anti-PD)
+121,_selection,excluded,included,,,"Anti-PD Month 11 (N=45,42,37)",OG001,791,Concentrations of Antibodies Against Protein D (Anti-PD)
+122,_selection,excluded,included,,,"Anti-PD Month 11 (N=45,42,37)",OG002,219.7,Concentrations of Antibodies Against Protein D (Anti-PD)
+123,_selection,excluded,included,,,OPA-1 Month 3,OG000,58.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+124,_selection,excluded,included,,,OPA-1 Month 3,OG001,51.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+125,_selection,excluded,included,,,OPA-1 Month 3,OG002,96.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+126,_selection,excluded,included,,,OPA-1 Month 10,OG000,10.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+127,_selection,excluded,included,,,OPA-1 Month 10,OG001,8.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+128,_selection,excluded,included,,,OPA-1 Month 10,OG002,9.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+129,_selection,excluded,included,,,OPA-1 Month 11,OG000,311.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+130,_selection,excluded,included,,,OPA-1 Month 11,OG001,139.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+131,_selection,excluded,included,,,OPA-1 Month 11,OG002,240.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+132,_selection,excluded,included,,,OPA-3 Month 3,OG000,5.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+133,_selection,excluded,included,,,OPA-3 Month 3,OG001,50.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+134,_selection,excluded,included,,,OPA-3 Month 3,OG002,190.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+135,_selection,excluded,included,,,OPA-3 Month 10,OG000,18.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+136,_selection,excluded,included,,,OPA-3 Month 10,OG001,33.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+137,_selection,excluded,included,,,OPA-3 Month 10,OG002,41.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+138,_selection,excluded,included,,,OPA-3 Month 11,OG000,11.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+139,_selection,excluded,included,,,OPA-3 Month 11,OG001,22.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+140,_selection,excluded,included,,,OPA-3 Month 11,OG002,29.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+141,_selection,excluded,included,,,OPA-4 Month 3,OG000,1327.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+142,_selection,excluded,included,,,OPA-4 Month 3,OG001,812.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+143,_selection,excluded,included,,,OPA-4 Month 3,OG002,1391.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+144,_selection,excluded,included,,,OPA-4 Month 10,OG000,128.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+145,_selection,excluded,included,,,OPA-4 Month 10,OG001,123.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+146,_selection,excluded,included,,,OPA-4 Month 10,OG002,91.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+147,_selection,excluded,included,,,OPA-4 Month 11,OG000,2729.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+148,_selection,excluded,included,,,OPA-4 Month 11,OG001,1583.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+149,_selection,excluded,included,,,OPA-4 Month 11,OG002,3033.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+150,_selection,excluded,included,,,OPA-5 Month 3,OG000,335.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+151,_selection,excluded,included,,,OPA-5 Month 3,OG001,132.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+152,_selection,excluded,included,,,OPA-5 Month 3,OG002,250.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+153,_selection,excluded,included,,,OPA-5 Month 10,OG000,68.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+154,_selection,excluded,included,,,OPA-5 Month 10,OG001,29.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+155,_selection,excluded,included,,,OPA-5 Month 10,OG002,37.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+156,_selection,excluded,included,,,OPA-5 Month 11,OG000,669.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+157,_selection,excluded,included,,,OPA-5 Month 11,OG001,266.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+158,_selection,excluded,included,,,OPA-5 Month 11,OG002,379.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+159,_selection,excluded,included,,,OPA-6A Month 3,OG000,60.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+160,_selection,excluded,included,,,OPA-6A Month 3,OG001,91.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+161,_selection,excluded,included,,,OPA-6A Month 3,OG002,1185.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+162,_selection,excluded,included,,,OPA-6A Month 10,OG000,96.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+163,_selection,excluded,included,,,OPA-6A Month 10,OG001,73.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+164,_selection,excluded,included,,,OPA-6A Month 10,OG002,112.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+165,_selection,excluded,included,,,OPA-6A Month 11,OG000,480.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+166,_selection,excluded,included,,,OPA-6A Month 11,OG001,216.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+167,_selection,excluded,included,,,OPA-6A Month 11,OG002,363.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+168,_selection,excluded,included,,,OPA-6B Month 3,OG000,603.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+169,_selection,excluded,included,,,OPA-6B Month 3,OG001,107.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+170,_selection,excluded,included,,,OPA-6B Month 3,OG002,331.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+171,_selection,excluded,included,,,OPA-6B Month 10,OG000,182.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+172,_selection,excluded,included,,,OPA-6B Month 10,OG001,131.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+173,_selection,excluded,included,,,OPA-6B Month 10,OG002,60.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+174,_selection,excluded,included,,,OPA-6B Month 11,OG000,1868.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+175,_selection,excluded,included,,,OPA-6B Month 11,OG001,958.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+176,_selection,excluded,included,,,OPA-6B Month 11,OG002,1202.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+177,_selection,excluded,included,,,OPA-7F Month 3,OG000,2595.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+178,_selection,excluded,included,,,OPA-7F Month 3,OG001,1702.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+179,_selection,excluded,included,,,OPA-7F Month 3,OG002,4654.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+180,_selection,excluded,included,,,OPA-7F Month 10,OG000,654.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+181,_selection,excluded,included,,,OPA-7F Month 10,OG001,676.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+182,_selection,excluded,included,,,OPA-7F Month 10,OG002,858.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+183,_selection,excluded,included,,,OPA-7F Month 11,OG000,3557.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+184,_selection,excluded,included,,,OPA-7F Month 11,OG001,2337.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+185,_selection,excluded,included,,,OPA-7F Month 11,OG002,2178.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+186,_selection,excluded,included,,,OPA-9V Month 3,OG000,1904.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+187,_selection,excluded,included,,,OPA-9V Month 3,OG001,1141.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+188,_selection,excluded,included,,,OPA-9V Month 3,OG002,2916.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+189,_selection,excluded,included,,,OPA-9V Month 10,OG000,424.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+190,_selection,excluded,included,,,OPA-9V Month 10,OG001,441.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+191,_selection,excluded,included,,,OPA-9V Month 10,OG002,353.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+192,_selection,excluded,included,,,OPA-9V Month 11,OG000,5130.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+193,_selection,excluded,included,,,OPA-9V Month 11,OG001,2391.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+194,_selection,excluded,included,,,OPA-9V Month 11,OG002,1720.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+195,_selection,excluded,included,,,OPA-14 Month 3,OG000,1497.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+196,_selection,excluded,included,,,OPA-14 Month 3,OG001,924.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+197,_selection,excluded,included,,,OPA-14 Month 3,OG002,1391.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+198,_selection,excluded,included,,,OPA-14 Month 10,OG000,303.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+199,_selection,excluded,included,,,OPA-14 Month 10,OG001,270.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+200,_selection,excluded,included,,,OPA-14 Month 10,OG002,342.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+201,_selection,excluded,included,,,OPA-14 Month 11,OG000,3132.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+202,_selection,excluded,included,,,OPA-14 Month 11,OG001,2043.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+203,_selection,excluded,included,,,OPA-14 Month 11,OG002,1413.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+204,_selection,excluded,included,,,OPA-18C Month 3,OG000,965.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+205,_selection,excluded,included,,,OPA-18C Month 3,OG001,685.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+206,_selection,excluded,included,,,OPA-18C Month 3,OG002,1114.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+207,_selection,excluded,included,,,OPA-18C Month 10,OG000,116.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+208,_selection,excluded,included,,,OPA-18C Month 10,OG001,72.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+209,_selection,excluded,included,,,OPA-18C Month 10,OG002,61.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+210,_selection,excluded,included,,,OPA-18C Month 11,OG000,6271.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+211,_selection,excluded,included,,,OPA-18C Month 11,OG001,4731.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+212,_selection,excluded,included,,,OPA-18C Month 11,OG002,4358.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+213,_selection,excluded,included,,,OPA-19A Month 3,OG000,85.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+214,_selection,excluded,included,,,OPA-19A Month 3,OG001,173.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+215,_selection,excluded,included,,,OPA-19A Month 3,OG002,677.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+216,_selection,excluded,included,,,OPA-19A Month 10,OG000,37.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+217,_selection,excluded,included,,,OPA-19A Month 10,OG001,71.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+218,_selection,excluded,included,,,OPA-19A Month 10,OG002,69.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+219,_selection,excluded,included,,,OPA-19A Month 11,OG000,748.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+220,_selection,excluded,included,,,OPA-19A Month 11,OG001,642.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+221,_selection,excluded,included,,,OPA-19A Month 11,OG002,1061.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+222,_selection,excluded,included,,,OPA-19F Month 3,OG000,1306.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+223,_selection,excluded,included,,,OPA-19F Month 3,OG001,1492.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+224,_selection,excluded,included,,,OPA-19F Month 3,OG002,842.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+225,_selection,excluded,included,,,OPA-19F Month 10,OG000,127.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+226,_selection,excluded,included,,,OPA-19F Month 10,OG001,158.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+227,_selection,excluded,included,,,OPA-19F Month 10,OG002,42.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+228,_selection,excluded,included,,,OPA-19F Month 11,OG000,2900.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+229,_selection,excluded,included,,,OPA-19F Month 11,OG001,2749.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+230,_selection,excluded,included,,,OPA-19F Month 11,OG002,3696.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+231,_selection,excluded,included,,,OPA-23F Month 3,OG000,633.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+232,_selection,excluded,included,,,OPA-23F Month 3,OG001,143.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+233,_selection,excluded,included,,,OPA-23F Month 3,OG002,1089.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+234,_selection,excluded,included,,,OPA-23F Month 10,OG000,234.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+235,_selection,excluded,included,,,OPA-23F Month 10,OG001,199.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+236,_selection,excluded,included,,,OPA-23F Month 10,OG002,164.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+237,_selection,excluded,included,,,OPA-23F Month 11,OG000,1500.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+238,_selection,excluded,included,,,OPA-23F Month 11,OG001,1005.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+239,_selection,excluded,included,,,OPA-23F Month 11,OG002,1097.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes

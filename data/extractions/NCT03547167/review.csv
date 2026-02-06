@@ -1,0 +1,61 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG000,268.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+1,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG001,267.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+2,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG000,199.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+3,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG001,150.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+4,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG000,1416.0,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+5,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG001,2576.1,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+6,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG000,564.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+7,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG001,731.1,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+8,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG000,12928.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+9,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG001,11282.4,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+10,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG000,10336.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+11,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG001,6995.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+12,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG000,5756.4,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+13,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG001,7588.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+14,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG000,3355.1,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+15,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG001,3983.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+16,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG000,5228.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+17,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG001,5889.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+18,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG000,5709.0,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+19,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG001,3063.2,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+20,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG000,5369.9,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+21,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG001,5888.0,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+22,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG000,3266.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+23,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG001,3272.7,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+24,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG000,4853.5,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+25,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG001,3887.3,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+26,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG000,3926.5,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+27,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG001,291.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+28,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG000,11627.8,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+29,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG001,2180.6,Geometric Mean Titer of Serotype-specific Opsonophagocytic Activity Day 30 Following V114 or Prevnar 13™
+30,outcome_overview_assay,Unknown,GMC,,,Serotype 1 (Shared),OG000,3.56,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+31,outcome_overview_assay,Unknown,GMC,,,Serotype 1 (Shared),OG001,4.59,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+32,outcome_overview_assay,Unknown,GMC,,,Serotype 3 (Shared),OG000,0.77,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+33,outcome_overview_assay,Unknown,GMC,,,Serotype 3 (Shared),OG001,0.63,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+34,outcome_overview_assay,Unknown,GMC,,,Serotype 4 (Shared),OG000,1.53,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+35,outcome_overview_assay,Unknown,GMC,,,Serotype 4 (Shared),OG001,2.71,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+36,outcome_overview_assay,Unknown,GMC,,,Serotype 5 (Shared),OG000,3.43,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+37,outcome_overview_assay,Unknown,GMC,,,Serotype 5 (Shared),OG001,4.48,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+38,outcome_overview_assay,Unknown,GMC,,,Serotype 6A (Shared),OG000,11.84,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+39,outcome_overview_assay,Unknown,GMC,,,Serotype 6A (Shared),OG001,10.87,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+40,outcome_overview_assay,Unknown,GMC,,,Serotype 6B (Shared),OG000,17.90,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+41,outcome_overview_assay,Unknown,GMC,,,Serotype 6B (Shared),OG001,11.36,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+42,outcome_overview_assay,Unknown,GMC,,,Serotype 7F (Shared),OG000,5.18,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+43,outcome_overview_assay,Unknown,GMC,,,Serotype 7F (Shared),OG001,6.88,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+44,outcome_overview_assay,Unknown,GMC,,,Serotype 9V (Shared),OG000,4.44,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+45,outcome_overview_assay,Unknown,GMC,,,Serotype 9V (Shared),OG001,5.31,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+46,outcome_overview_assay,Unknown,GMC,,,Serotype 14 (Shared),OG000,15.91,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+47,outcome_overview_assay,Unknown,GMC,,,Serotype 14 (Shared),OG001,17.35,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+48,outcome_overview_assay,Unknown,GMC,,,Serotype 18C (Shared),OG000,14.57,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+49,outcome_overview_assay,Unknown,GMC,,,Serotype 18C (Shared),OG001,9.32,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+50,outcome_overview_assay,Unknown,GMC,,,Serotype 19A (Shared),OG000,19.41,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+51,outcome_overview_assay,Unknown,GMC,,,Serotype 19A (Shared),OG001,21.79,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+52,outcome_overview_assay,Unknown,GMC,,,Serotype 19F (Shared),OG000,13.98,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+53,outcome_overview_assay,Unknown,GMC,,,Serotype 19F (Shared),OG001,13.35,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+54,outcome_overview_assay,Unknown,GMC,,,Serotype 23F (Shared),OG000,13.57,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+55,outcome_overview_assay,Unknown,GMC,,,Serotype 23F (Shared),OG001,10.98,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+56,outcome_overview_assay,Unknown,GMC,,,Serotype 22F (Unique to V114),OG000,6.22,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+57,outcome_overview_assay,Unknown,GMC,,,Serotype 22F (Unique to V114),OG001,0.52,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+58,outcome_overview_assay,Unknown,GMC,,,Serotype 33F (Unique to V114),OG000,7.79,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30
+59,outcome_overview_assay,Unknown,GMC,,,Serotype 33F (Unique to V114),OG001,0.88,Geometric Mean Concentration of Serotype-specific Immunoglobulin G at Day 30

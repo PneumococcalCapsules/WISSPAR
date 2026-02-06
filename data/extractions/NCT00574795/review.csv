@@ -1,0 +1,53 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 4,OG000,6.76,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+0,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 4,OG000,6.76,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+1,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 6B,OG000,4.77,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+1,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 6B,OG000,4.77,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+2,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 9V,OG000,3.39,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+2,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 9V,OG000,3.39,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+3,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 14,OG000,14.69,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+3,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 14,OG000,14.69,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+4,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 18C,OG000,3.68,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+4,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 18C,OG000,3.68,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+5,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 19F,OG000,5.71,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+5,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 19F,OG000,5.71,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+6,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Common Serotypes - Serotype 23F,OG000,2.57,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+6,outcome_overview_time_frame_weeks,28,30,,,Common Serotypes - Serotype 23F,OG000,2.57,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+7,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 1,OG000,5.11,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+7,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 1,OG000,5.11,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+8,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 3,OG000,2.87,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+8,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 3,OG000,2.87,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+9,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 5,OG000,3.85,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+9,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 5,OG000,3.85,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+10,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 6A,OG000,3.77,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+10,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 6A,OG000,3.77,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+11,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 7F,OG000,5.78,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+11,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 7F,OG000,5.78,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+12,outcome_overview_dose_description,28w post dose 1 child,30w post dose 1 child,,,Additional Serotypes - Serotype 19A,OG000,6.97,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+12,outcome_overview_time_frame_weeks,28,30,,,Additional Serotypes - Serotype 19A,OG000,6.97,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the 3-Dose Infant Series
+13,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 4,OG000,9.70,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+13,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 4,OG000,9.70,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+14,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 6B,OG000,14.61,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+14,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 6B,OG000,14.61,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+15,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 9V,OG000,4.49,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+15,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 9V,OG000,4.49,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+16,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 14,OG000,16.33,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+16,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 14,OG000,16.33,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+17,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 18C,OG000,6.09,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+17,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 18C,OG000,6.09,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+18,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 19F,OG000,12.20,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+18,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 19F,OG000,12.20,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+19,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Common Serotypes - Serotype 23F,OG000,6.55,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+19,outcome_overview_time_frame_weeks,60,65,,,Common Serotypes - Serotype 23F,OG000,6.55,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+20,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 1,OG000,9.85,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+20,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 1,OG000,9.85,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+21,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 3,OG000,2.06,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+21,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 3,OG000,2.06,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+22,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 5,OG000,7.31,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+22,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 5,OG000,7.31,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+23,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 6A,OG000,11.03,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+23,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 6A,OG000,11.03,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+24,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 7F,OG000,8.31,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+24,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 7F,OG000,8.31,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+25,outcome_overview_dose_description,60w post dose 1 child,65w post dose 1 child,,,Additional Serotypes - Serotype 19A,OG000,15.97,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
+25,outcome_overview_time_frame_weeks,60,65,,,Additional Serotypes - Serotype 19A,OG000,15.97,Geometric Mean Antibody Concentration (GMC) in 13vPnC Group Relative After the Toddler Dose
