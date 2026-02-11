@@ -44,16 +44,7 @@ Groups:
   OG002: "Lot 3" - Three doses of Pneumosil Lot 3
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 1: "Number and Percentage of Subjects With Serotype-specific IgG Antibody Responses ≥ 0.35 μg/mL"
-Description: Number and Percentage of subjects with serotype-specific IgG Antibody Responses ≥ 0.35 μg/mL
-Timeframe: 4 weeks after the third dose
-ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
-Groups:
-  OG000: "Pneumosil" - Three doses of Pneumosil
-  OG001: "Synflorix" - Three doses of Synflorix
-  Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
-
-### Outcome 2: "Serotype-specific Geometric Mean Concentration of IgG Antibody"
+### Outcome 1: "Serotype-specific Geometric Mean Concentration of IgG Antibody"
 Description: Serotype-specific immunoglobulin G (IgG) geometric mean concentration (GMC) 4 weeks after the primary series of PNEUMOSIL/Synflorix co-administered with pentavalent, RV and polio vaccines.
 Timeframe: 4 weeks after the third dose
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -62,25 +53,7 @@ Groups:
   OG001: "Synflorix" - IgG GMC after three doses of Synflorix
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 3: "Anti-pertussis Toxoid GMCs for the Pertussis Antigen"
-Description: Anti-pertussis toxoid GMCs for the pertussis antigen
-Timeframe: 4 weeks after the third dose
-ParamType: GEOMETRIC_MEAN | Unit: IU/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Pneumosil" - EPI vaccine immune responses after three doses of Pneumosil
-  OG001: "Synflorix" - EPI vaccine immune responses after three doses of Synflorix
-  Serotypes (1): ""
-
-### Outcome 4: "Anti Fimbriae 2/3 IgG GMCs for the Pertussis Antigen"
-Description: Anti fimbriae 2/3 IgG GMCs for the pertussis antigen
-Timeframe: 4 weeks after the third dose
-ParamType: GEOMETRIC_MEAN | Unit: U/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Pneumosil" - EPI vaccine immune responses after three doses of Pneumosil
-  OG001: "Synflorix" - EPI vaccine immune responses after three doses of Synflorix
-  Serotypes (1): ""
-
-### Outcome 5: "6A and 19A Serotype Specific Geometric Mean Concentration of IgG Antibody"
+### Outcome 2: "6A and 19A Serotype Specific Geometric Mean Concentration of IgG Antibody"
 Description: 6A and 19A Serotype Specific Immune Responses in terms of IgG GMCs measured by ELISA
 Timeframe: 4 weeks after the third dose
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -89,7 +62,7 @@ Groups:
   OG001: "Synflorix" - Three doses of Synflorix
   Serotypes (2): "Pn IgG Type 6A", "Pn IgG Type 19A"
 
-### Outcome 6: "Serotype-specific OPA Geometric Mean Titer"
+### Outcome 3: "Serotype-specific OPA Geometric Mean Titer"
 Description: Serotype-specific functional antibody titer measured by OPA and expressed as OPA GMT in a subset
 Timeframe: 4 weeks after the third dose
 ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
@@ -98,7 +71,7 @@ Groups:
   OG001: "Synflorix" - Three doses of Synflorix
   Serotypes (10): "OPA Type 1", "OPA Type 5", "OPA Type 6A", "OPA Type 6B", "OPA Type 7F", ... +5 more
 
-### Outcome 7: "Comparison of Serotype-specific Geometric Mean Concentration of IgG Antibody Response 4 Weeks After a 3-dose Primary Series to 4 Weeks After a Booster Dose"
+### Outcome 4: "Comparison of Serotype-specific Geometric Mean Concentration of IgG Antibody Response 4 Weeks After a 3-dose Primary Series to 4 Weeks After a Booster Dose"
 Description: Comparison of Serotype-specific booster responses (antibody concentrations) measured by ELISA from 4 weeks after a 3-dose primary series to 4 weeks after a booster dose
 Timeframe: 4 weeks post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -109,7 +82,7 @@ Groups:
   OG003: "4 Weeks Post Booster-Synflorix" - Three doses + 1 booster dose of Synflorix in a subset
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 8: "Serotype-specific Geometric Mean Concentration of IgG Antibody Response and Treatment-Group GMC Ratios 4 Weeks After a Booster Dose"
+### Outcome 5: "Serotype-specific Geometric Mean Concentration of IgG Antibody Response and Treatment-Group GMC Ratios 4 Weeks After a Booster Dose"
 Description: Comparison of Serotype-specific booster responses (antibody concentrations) to PNEUMOSIL in comparison to Synflorix 4 weeks after a booster dose
 Timeframe: 4 weeks post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -118,7 +91,7 @@ Groups:
   OG001: "Synflorix" - Three doses + 1 booster dose of Synflorix
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 9: "Comparison of Functional Response (OPA) From 4 Weeks After a 3-dose Primary Series to 4 Weeks After a Booster Dose"
+### Outcome 6: "Comparison of Functional Response (OPA) From 4 Weeks After a 3-dose Primary Series to 4 Weeks After a Booster Dose"
 Description: Comparison of Serotype-specific booster responses (functional response-OPA) from 4 weeks after a 3-dose primary series to 4 weeks after a booster dose
 Timeframe: 4 weeks post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
@@ -129,7 +102,7 @@ Groups:
   OG003: "4 Weeks Post Booster-Synflorix" - Three doses + 1 booster dose of Synflorix in a subset
   Serotypes (10): "OPA Type 1", "OPA Type 5", "OPA Type 6A", "OPA Type 6B", "OPA Type 7F", ... +5 more
 
-### Outcome 10: "Serotype-specific OPA GMT and Treatment-Group GMT Ratios 4 Weeks After a Booster Dose"
+### Outcome 7: "Serotype-specific OPA GMT and Treatment-Group GMT Ratios 4 Weeks After a Booster Dose"
 Description: Comparison of Serotype-specific booster responses (functional response) to PNEUMOSIL in comparison to Synflorix 4 weeks after a booster dose
 Timeframe: 4 weeks post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
@@ -138,7 +111,7 @@ Groups:
   OG001: "Synflorix" - Three doses + 1 booster dose of Synflorix
   Serotypes (10): "OPA Type 1", "OPA Type 5", "OPA Type 6A", "OPA Type 6B", "OPA Type 7F", ... +5 more
 
-### Outcome 11: "Proportions and Treatment Group Difference in Proportions of IgG Responders 1 Year Post Booster"
+### Outcome 8: "Proportions and Treatment Group Difference in Proportions of IgG Responders 1 Year Post Booster"
 Description: Treatment group proportions and treatment-group difference in proportions of IgG responders (IgG concentration ≥ 0.35 μg/mL)
 Timeframe: One Year Post Booster Vaccination
 ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
@@ -147,7 +120,7 @@ Groups:
   OG001: "Synflorix" - Three doses + 1 booster dose of Synflorix
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 12: "Serotype-specific Geometric Mean Concentration of IgG Antibody Response and Treatment-Group GMC Ratios One Year Post Booster"
+### Outcome 9: "Serotype-specific Geometric Mean Concentration of IgG Antibody Response and Treatment-Group GMC Ratios One Year Post Booster"
 Description: Comparison of Serotype-specific immune persistence responses (antibody concentrations) to PNEUMOSIL in comparison to Synflorix one year post booster
 Timeframe: One year post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -156,7 +129,7 @@ Groups:
   OG001: "Synflorix" - Three primary doses + 1 booster dose of Synflorix
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 13: "Comparison of Serotype-specific Geometric Mean Concentration of IgG Antibody Response 4 Weeks After a Booster Dose to One Year After a Booster Dose"
+### Outcome 10: "Comparison of Serotype-specific Geometric Mean Concentration of IgG Antibody Response 4 Weeks After a Booster Dose to One Year After a Booster Dose"
 Description: Comparison of Serotype-specific responses (antibody concentrations) measured by ELISA from 4 weeks after a booster dose to one year after a booster dose
 Timeframe: One year post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -167,7 +140,7 @@ Groups:
   OG003: "One Year Post Booster-Synflorix" - Three doses + 1 booster dose of Synflorix in a subset
   Serotypes (10): "Pn IgG Type 1", "Pn IgG Type 5", "Pn IgG Type 6A", "Pn IgG Type 6B", "Pn IgG Type 7F", ... +5 more
 
-### Outcome 14: "Treatment Group Proportions and Treatment-group Difference in Proportions of Functional Antibody Responders (OPA) One Year Post Booster"
+### Outcome 11: "Treatment Group Proportions and Treatment-group Difference in Proportions of Functional Antibody Responders (OPA) One Year Post Booster"
 Description: Serotype-specific functional antibody titer measured by OPA
 Timeframe: One year post booster vaccination
 ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
@@ -176,7 +149,7 @@ Groups:
   OG001: "Synflorix" - Three primary doses + 1 booster dose of Synflorix
   Serotypes (10): "OPA Type 1", "OPA Type 5", "OPA Type 6A", "OPA Type 6B", "OPA Type 7F", ... +5 more
 
-### Outcome 15: "Serotype-specific OPA Geometric Mean Titer One Year Post Booster"
+### Outcome 12: "Serotype-specific OPA Geometric Mean Titer One Year Post Booster"
 Description: Serotype-specific functional antibody titer measured by OPA and expressed as OPA GMT in a subset one year post booster
 Timeframe: One year post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: Titer | Dispersion: 95% Confidence Interval
@@ -185,7 +158,7 @@ Groups:
   OG001: "Synflorix" - Three primary doses + 1 booster dose of Synflorix
   Serotypes (10): "OPA Type 1", "OPA Type 5", "OPA Type 6A", "OPA Type 6B", "OPA Type 7F", ... +5 more
 
-### Outcome 16: "Comparison of Functional Response (OPA) From 4 Weeks After a Booster Dose to One Year Post Booster Dose"
+### Outcome 13: "Comparison of Functional Response (OPA) From 4 Weeks After a Booster Dose to One Year Post Booster Dose"
 Description: Comparison of Serotype-specific booster responses (functional response-OPA) from 4 weeks after a booster dose to one year post booster
 Timeframe: One year post booster vaccination
 ParamType: GEOMETRIC_MEAN | Unit: Titer | Dispersion: 95% Confidence Interval
@@ -217,7 +190,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -240,10 +213,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -269,7 +243,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

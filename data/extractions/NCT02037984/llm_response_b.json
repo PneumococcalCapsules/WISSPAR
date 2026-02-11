@@ -328,27 +328,6 @@
           "dose_description": "1m post dose 1 adult"
         }
       }
-    },
-    {
-      "outcome_index": 14,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "1 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "1 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        }
-      }
     }
   ]
 }

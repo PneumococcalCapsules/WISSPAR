@@ -3,84 +3,156 @@
     {
       "outcome_index": 0,
       "assay": "GMC",
-      "time_frame_weeks": null,
       "groups": {
-        "OG000": {
+        "OG000_Anti-1 Month 3": {
           "vaccine": "PCV10 (Synflorix)",
           "manufacturer": "GSK",
-          "dose_number": null,
+          "dose_number": 2,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
         },
-        "OG001": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
+        "OG000_Anti-1 Month 10": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
         },
-        "OG002": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
+        "OG000_Anti-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
+        },
+        "OG001_Anti-1 Month 3": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
+        },
+        "OG001_Anti-1 Month 10": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
+        },
+        "OG001_Anti-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
+        },
+        "OG002_Anti-1 Month 3": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
+        },
+        "OG002_Anti-1 Month 10": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
+        },
+        "OG002_Anti-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
         }
       }
     },
     {
       "outcome_index": 1,
-      "assay": "GMC",
-      "time_frame_weeks": null,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV10 (Synflorix)",
-          "manufacturer": "GSK",
-          "dose_number": null,
-          "schedule": "2+1 child",
-          "dose_description": null
-        },
-        "OG001": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
-          "schedule": "2+1 child",
-          "dose_description": null
-        },
-        "OG002": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
-          "schedule": "2+1 child",
-          "dose_description": null
-        }
-      }
-    },
-    {
-      "outcome_index": 2,
       "assay": "OPA",
-      "time_frame_weeks": null,
       "groups": {
-        "OG000": {
+        "OG000_OPA-1 Month 3": {
           "vaccine": "PCV10 (Synflorix)",
           "manufacturer": "GSK",
-          "dose_number": null,
+          "dose_number": 2,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
         },
-        "OG001": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
+        "OG000_OPA-1 Month 10": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
         },
-        "OG002": {
-          "vaccine": null,
-          "manufacturer": null,
-          "dose_number": null,
+        "OG000_OPA-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
           "schedule": "2+1 child",
-          "dose_description": null
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
+        },
+        "OG001_OPA-1 Month 3": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
+        },
+        "OG001_OPA-1 Month 10": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
+        },
+        "OG001_OPA-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
+        },
+        "OG002_OPA-1 Month 3": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post dose 2 child"
+        },
+        "OG002_OPA-1 Month 10": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 2,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 0,
+          "dose_description": "pre boost child"
+        },
+        "OG002_OPA-1 Month 11": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": 3,
+          "schedule": "2+1 child",
+          "time_frame_weeks": 4,
+          "dose_description": "1m post boost child"
         }
       }
     }

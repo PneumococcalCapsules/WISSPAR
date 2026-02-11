@@ -48,55 +48,7 @@ Groups:
   OG001: "7vPnC/13vPnC After Toddler Dose" - Subjects received one single 0.5 mL dose of 7vPnC coadministered with Pentavac at 2, 3, and 4 months. One single 0.5 mL dose of 13vPnC was coadministered with Pentavac at 12 months of age.
   Serotypes (6): "Additional Serotypes - Serotype 1", "Additional Serotypes - Serotype 3", "Additional Serotypes - Serotype 5", "Additional Serotypes - Serotype 6A", "Additional Serotypes - Serotype 7F", ... +1 more
 
-### Outcome 2: "Geometric Mean Concentration (GMC) as Measured by Enzyme-linked Immunosorbent Assay (ELISA) for Diphtheria Toxoid and Tetanus Toxoid in 13vPnC Group Relative to 7vPnC Group"
-Timeframe: One month after the 3-Dose Infant Series (at 5 months of age) and the Toddler Dose (at 13 months of age)
-ParamType: GEOMETRIC_MEAN | Unit: IU/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series).
-  OG001: "7vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series).
-  OG002: "13vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 12 months of age (toddler dose).
-  OG003: "7vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 12 months of age (toddler dose).
-  Serotypes (2): "Diphtheria", "Tetanus"
-
-### Outcome 3: "Geometric Mean Concentration (GMC) for Haemophilus Influenzae Type b (Hib) in 13vPnC Group Relative to 7vPnC Group"
-Timeframe: One month after the 3-Dose Infant Series (at 5 months of age) and the Toddler Dose (at 13 months of age)
-ParamType: NUMBER | Unit: μg/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG001: "7vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG002: "13vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG003: "7vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  Serotypes (1): ""
-
-### Outcome 4: "Geometric Mean Concentration (GMC) as Measured by Enzyme-linked Immunosorbent Assay (ELISA) for Poliomyelitis (Type 1, Type 2 and Type 3) in 13vPnC Group Relative to 7vPnC Group"
-Timeframe: One month after the 3-Dose Infant Series (at 5 months of age) and the Toddler Dose (at 13 months of age)
-ParamType: NUMBER | Unit: titer | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG001: "7vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG002: "13vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG003: "7vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  Serotypes (3): "Polio Type 1", "Polio Type 2", "Polio Type 3"
-
-### Outcome 5: "Geometric Mean Concentration (GMC) as Measured by ELISA for Pertussis Toxin (PT) and Pertussis Filamentous Hemagglutinin (FHA) in 13vPnC Group Relative to 7vPnC Group"
-Timeframe: One month after the 3-Dose Infant Series (at 5 months of age) and the Toddler Dose (at 13 months of age)
-ParamType: NUMBER | Unit: EU/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG001: "7vPnC After the Infant Series" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG002: "13vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  OG003: "7vPnC After the Toddler Dose" - Participants received one single 0.5 mL dose of 7vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series) and 12 months of age (toddler dose).
-  Serotypes (2): "Pertussis - FHA", "Pertussis - PT"
-
-### Outcome 6: "Percentage of Participants Achieving a Pneumococcal Antibody Level ≥0.35µg/mL (ELISA) After the 3-Dose Infant Series of 13vPnC"
-Description: Percentages of participants achieving World Health Organization (WHO) predefined antibody threshold ≥0.35μg/mL along with the corresponding 95% CI for the 7 common pneumococcal serotypes (serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F) and 6 additional pneumococcal serotypes specific to 13vPnC (serotype
-Timeframe: One month after the 3-Dose Infant Series (at 5 months of age)
-ParamType: GEOMETRIC_MEAN | Unit: percentage of participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC" - Participants received one single 0.5 mL dose of 13vPnC coadministered with a vaccine containing Pentavac at 2, 3, and 4 months of age (infant series).
-  Serotypes (13): "Common Serotypes - Serotype 4 (n=244)", "Common Serotypes - Serotype 6B (n=241)", "Common Serotypes - Serotype 9V (n=238)", "Common Serotypes - Serotype 14 (n=236)", "Common Serotypes - Serotype 18C (n=242)", ... +8 more
-
-### Outcome 7: "Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After the 3-Dose Infant Series of 13vPnC"
+### Outcome 2: "Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After the 3-Dose Infant Series of 13vPnC"
 Description: Antibody GMC for 7 common pneumococcal serotypes (serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F) and 6 additional pneumococcal serotypes specific to 13vPnC (Serotypes 1, 3, 5, 6A, 7F, and 19A) are presented. GMC (13vPnC) and corresponding 2-sided 95% confidence intervals (CI) were evaluated.
 Timeframe: One month after the 3-Dose Infant Series (at 5 months of age)
 ParamType: GEOMETRIC_MEAN | Unit: μg/mL | Dispersion: 95% Confidence Interval
@@ -125,7 +77,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -148,10 +100,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -177,7 +130,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

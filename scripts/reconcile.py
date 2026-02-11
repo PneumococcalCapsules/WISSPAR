@@ -191,6 +191,117 @@ def compare_fields(row_a, row_b):
 
 
 # ---------------------------------------------------------------------------
+# Auto-resolution rules for trivial disagreements
+# ---------------------------------------------------------------------------
+
+# Canonical manufacturer short names and their known long-form variants
+_MANUFACTURER_CANONICAL = {
+    "GLAXOSMITHKLINE": "GSK",
+    "GLAXOSMITHKLINE BIOLOGICALS": "GSK",
+    "GLAXOSMITHKLINE LLC": "GSK",
+    "MERCK": "MSD",
+    "MERCK & CO": "MSD",
+    "MERCK SHARP & DOHME": "MSD",
+    "MERCK SHARP & DOHME LLC": "MSD",
+    "MERCK SHARP & DOHME CORP": "MSD",
+    "PFIZER INC": "Pfizer",
+    "WYETH": "Pfizer",
+    "WYETH-LEDERLE": "Pfizer",
+    "WYETH PHARMACEUTICALS": "Pfizer",
+    "SERUM INSTITUTE OF INDIA PVT. LTD.": "Serum Institute of India",
+}
+
+_CANONICAL_NAMES = {"Pfizer", "GSK", "MSD", "Vaxcyte", "Inventprise",
+                    "Serum Institute of India", "Walvax"}
+
+
+def _normalize_manufacturer(val):
+    """Return canonical short name if val is a known variant, else val."""
+    upper = val.strip().upper()
+    return _MANUFACTURER_CANONICAL.get(upper, val.strip())
+
+
+def _strip_redundant_mfr_suffix(vaccine_name):
+    """Strip redundant manufacturer suffix from vaccine name.
+
+    e.g. 'PCV21(Merck V116) (MSD)' -> 'PCV21(Merck V116)'
+         'PPV23 (MSD)' -> 'PPV23'
+    """
+    import re
+    # Remove trailing ' (Pfizer)', ' (MSD)', ' (GSK)' etc. when already named
+    stripped = re.sub(r'\s+\((?:Pfizer|GSK|MSD|Vaxcyte|Inventprise|Walvax'
+                      r'|Serum Institute of India)\)$', '', vaccine_name)
+    return stripped
+
+
+def auto_resolve_disagreements(disagreements, row_a, row_b):
+    """Try to auto-resolve trivial disagreements.
+
+    Returns (resolved_fields, remaining_disagreements) where resolved_fields
+    is a dict of {field: chosen_value} for fields that were auto-resolved.
+    """
+    resolved = {}
+    remaining = []
+
+    for d in disagreements:
+        field = d["field"]
+        val_a = d["agent_a_value"]
+        val_b = d["agent_b_value"]
+        auto = None
+
+        # Rule 1: Manufacturer normalization
+        if field == "outcome_overview_manufacturer":
+            norm_a = _normalize_manufacturer(val_a)
+            norm_b = _normalize_manufacturer(val_b)
+            if norm_a == norm_b:
+                auto = norm_a
+            elif norm_a in _CANONICAL_NAMES and norm_b not in _CANONICAL_NAMES:
+                auto = norm_a
+            elif norm_b in _CANONICAL_NAMES and norm_a not in _CANONICAL_NAMES:
+                auto = norm_b
+
+        # Rule 2: Assay — accept the non-Unknown value
+        elif field == "outcome_overview_assay":
+            if val_a == "Unknown" and val_b in ("OPA", "GMC"):
+                auto = val_b
+            elif val_b == "Unknown" and val_a in ("OPA", "GMC"):
+                auto = val_a
+
+        # Rule 3: Vaccine — strip redundant manufacturer suffix
+        elif field == "outcome_overview_vaccine":
+            stripped_a = _strip_redundant_mfr_suffix(val_a)
+            stripped_b = _strip_redundant_mfr_suffix(val_b)
+            if stripped_a == stripped_b:
+                auto = stripped_a
+            # "None" vs a real vaccine name: accept the real name
+            elif val_a == "None" and val_b not in ("None", ""):
+                auto = val_b
+            elif val_b == "None" and val_a not in ("None", ""):
+                auto = val_a
+
+        # Rule 4: dose_description — normalize "4w" to "1m"
+        elif field == "outcome_overview_dose_description":
+            norm_a = val_a.replace("4w post", "1m post")
+            norm_b = val_b.replace("4w post", "1m post")
+            if norm_a == norm_b:
+                auto = norm_a
+
+        # Rule 5: time_frame_weeks — prefer non-empty when one is empty
+        elif field == "outcome_overview_time_frame_weeks":
+            if val_a == "" and val_b != "":
+                auto = val_b
+            elif val_b == "" and val_a != "":
+                auto = val_a
+
+        if auto is not None:
+            resolved[field] = auto
+        else:
+            remaining.append(d)
+
+    return resolved, remaining
+
+
+# ---------------------------------------------------------------------------
 # Reconciliation
 # ---------------------------------------------------------------------------
 
@@ -228,23 +339,43 @@ def reconcile(rows_a, rows_b, nct_id):
             final_row = {k: row_a[k] for k in CSV_FIELDNAMES}
             resolution = "auto_accepted"
         else:
-            # Classify by worst disagreement type
-            has_numeric = any(d["type"] == "numeric" for d in disagreements)
-            has_categorical = any(d["type"] == "categorical" for d in disagreements)
-            has_metadata = any(d["type"] == "metadata" for d in disagreements)
+            # Try auto-resolution of trivial disagreements
+            resolved_fields, remaining = auto_resolve_disagreements(
+                disagreements, row_a, row_b
+            )
 
-            if has_numeric:
-                status = "NUMERIC_DISAGREE"
-                counts["numeric_disagreements"] += 1
-            elif has_categorical:
-                status = "CATEGORICAL_DISAGREE"
-                counts["categorical_disagreements"] += 1
+            if not remaining:
+                # All disagreements were auto-resolved
+                status = "AGREE"
+                counts["agreements"] += 1
+                final_row = {k: row_a[k] for k in CSV_FIELDNAMES}
+                for field, value in resolved_fields.items():
+                    final_row[field] = value
+                resolution = "auto_resolved"
+                disagreements = []  # Clear for audit trail
             else:
-                status = "METADATA_DISAGREE"
-                counts["metadata_disagreements"] += 1
+                # Some disagreements remain — classify by worst type
+                has_numeric = any(d["type"] == "numeric" for d in remaining)
+                has_categorical = any(d["type"] == "categorical" for d in remaining)
+                has_metadata = any(d["type"] == "metadata" for d in remaining)
 
-            final_row = None
-            resolution = "pending_review"
+                if has_numeric:
+                    status = "NUMERIC_DISAGREE"
+                    counts["numeric_disagreements"] += 1
+                elif has_categorical:
+                    status = "CATEGORICAL_DISAGREE"
+                    counts["categorical_disagreements"] += 1
+                else:
+                    status = "METADATA_DISAGREE"
+                    counts["metadata_disagreements"] += 1
+
+                # Build partial final_row with auto-resolved fields applied
+                if resolved_fields:
+                    final_row = None  # Still needs review for remaining
+                else:
+                    final_row = None
+                resolution = "pending_review"
+                disagreements = remaining  # Only keep unresolved for review
 
         result_rows.append({
             "row_index": idx,
@@ -255,8 +386,8 @@ def reconcile(rows_a, rows_b, nct_id):
             "agent_b_row": {k: row_b[k] for k in CSV_FIELDNAMES},
             "disagreements": disagreements,
             "resolution": resolution,
-            "resolved_by": "reconciler" if resolution == "auto_accepted" else None,
-            "resolved_at": now_iso() if resolution == "auto_accepted" else None,
+            "resolved_by": "reconciler" if resolution in ("auto_accepted", "auto_resolved") else None,
+            "resolved_at": now_iso() if resolution in ("auto_accepted", "auto_resolved") else None,
         })
 
     # Process unmatched A rows (selection disagreements)

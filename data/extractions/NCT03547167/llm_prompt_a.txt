@@ -44,43 +44,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
   Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
 
-### Outcome 2: "Geometric Mean Fold Rise in Serotype-specific OPA Day 1 to Day 30"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a Multiplex Opsonophagocytic Assay. Geometric mean fold rise (GMFR) is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Day 1 (Baseline) and Day 30
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 3: "GMFR in Serotype-specific IgG Day 1 to Day 30"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. GMFR is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Day 1 (Baseline) and Day 30
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 4: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific OPA Day 1 to Day 30"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a Multiplexed Opsonophagocytic Assay. The percentage of participants who had ≥4-fold rise in OPA titers were calculated from baseline to postvaccina
-Timeframe: Day 1 (Baseline) and Day 30
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 5: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific IgG Day 1 to Day 30"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. The percentage of participants who had ≥ 4-fold rise in IgG concentration are calculated from baseline to postvaccinat
-Timeframe: Day 1 (Baseline) and Day 30
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 6: "Geometric Mean Titer of Serotype-specific OPA at Month 7"
+### Outcome 2: "Geometric Mean Titer of Serotype-specific OPA at Month 7"
 Description: The geometric mean titer (GMT) of serotype-specific OPA for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a multiplex opsonophagocytic assay. The within-group 95% CIs are obtained by exponentiating the CIs o
 Timeframe: Month 7
 ParamType: GEOMETRIC_MEAN | Unit: Titers | Dispersion: 95% Confidence Interval
@@ -89,85 +53,13 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
   Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
 
-### Outcome 7: "Geometric Mean Concentration of Serotype-specific IgG at Month 7"
+### Outcome 3: "Geometric Mean Concentration of Serotype-specific IgG at Month 7"
 Description: The geometric mean concentration (GMC) of serotype-specific immunoglobulin G (IgG) for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay.
 Timeframe: Month 7
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
 Groups:
   OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and were to receive a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 8: "GMFR in Serotype-specific OPA Day 1 to Month 7"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a Multiplexed Opsonophagocytic Assay. Geometric mean fold rise (GMFR) is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Day 1 (Baseline) and Month 7
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 9: "GMFR in Serotype-specific IgG Day 1 to Month 7"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. GMFR is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Day 1 (Baseline) and Month 7
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 10: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific OPA Day 1 to Month 7"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a Multiplexed Opsonophagocytic Assay. The percentage of participants who had ≥4-fold rise in OPA titers were calculated from baseline to postvaccina
-Timeframe: Day 1 (Baseline) and Month 7
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 11: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific IgG Day 1 to Month 7"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. The percentage of participants who had ≥ 4-fold rise in IgG concentration are calculated from baseline to postvaccinat
-Timeframe: Day 1 (Baseline) and Month 7
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 12: "GMFR in Serotype-specific OPA Month 6 to Month 7"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using the Multiplexed Opsonophagocytic Assay. Geometric mean fold rise (GMFR) is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Month 6 (Baseline before Vaccination 2) and Month 7
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 13: "GMFR in Serotype-specific IgG Month 6 to Month 7"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 and (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. GMFR is the geometric mean of fold rise from baseline to postvaccination.
-Timeframe: Month 6 (Baseline before Vaccination 2) and Month 7
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 14: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific OPA Month 6 to Month 7"
-Description: Activity for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using a Multiplexed Opsonophagocytic Assay. The percentage of participants who had ≥4-fold rise in OPA titers were calculated from baseline to postvaccina
-Timeframe: Month 6 (Baseline before Vaccination 2) and Month 7
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
-
-### Outcome 15: "Percentage of Participants With ≥4-Fold Rise in Serotype-specific IgG Month 6 to Month 7"
-Description: IgG for the serotypes contained in Prevnar 13™ and V114 (13 serotypes shared with Prevnar 13™ and 2 serotypes unique to V114) was determined using an electrochemiluminescence assay. The percentage of participants who had ≥ 4-fold rise in IgG concentration are calculated from baseline to postvaccinat
-Timeframe: Month 6 (Baseline before Vaccination 2) and Month 7
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 (Vaccination 1) and a single 0.5 mL IM injection of PNEUMOVAX™23 at Month 6 (Vaccination 2).
   Serotypes (15): "Serotype 1 (Shared)", "Serotype 3 (Shared)", "Serotype 4 (Shared)", "Serotype 5 (Shared)", "Serotype 6A (Shared)", ... +10 more
 
 ## Vaccine Reference (use these standardized names)
@@ -191,7 +83,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -214,10 +106,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -243,7 +136,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

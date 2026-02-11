@@ -1,6 +1,6 @@
 {
   "nct_id": "NCT06151288",
-  "extraction_timestamp": "2026-02-07T18:45:27.575411+00:00",
+  "extraction_timestamp": "2026-02-11T11:53:54.234006+00:00",
   "agent_a_version": "1.0.0",
   "agent_b_version": "1.0.0",
   "summary": {
@@ -9,9 +9,9 @@
     "matched_pairs": 248,
     "unmatched_a": 0,
     "unmatched_b": 0,
-    "agreements": 248,
+    "agreements": 186,
     "numeric_disagreements": 0,
-    "categorical_disagreements": 0,
+    "categorical_disagreements": 62,
     "metadata_disagreements": 0,
     "selection_disagreements": 0,
     "status": "FULLY_AGREED"
@@ -124,7 +124,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.229905+00:00"
     },
     {
       "row_index": 1,
@@ -233,7 +233,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.229905+00:00"
     },
     {
       "row_index": 2,
@@ -342,7 +342,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.229905+00:00"
     },
     {
       "row_index": 3,
@@ -354,7 +354,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -408,7 +408,7 @@
         "outcome_overview_upper_limit": "490.06",
         "outcome_overview_lower_limit": "343.55",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -448,10 +448,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 4,
@@ -560,7 +567,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230901+00:00"
     },
     {
       "row_index": 5,
@@ -669,7 +676,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230901+00:00"
     },
     {
       "row_index": 6,
@@ -778,7 +785,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230901+00:00"
     },
     {
       "row_index": 7,
@@ -790,7 +797,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -844,7 +851,7 @@
         "outcome_overview_upper_limit": "189.01",
         "outcome_overview_lower_limit": "136.23",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -884,10 +891,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 8,
@@ -996,7 +1010,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230901+00:00"
     },
     {
       "row_index": 9,
@@ -1105,7 +1119,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 10,
@@ -1214,7 +1228,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 11,
@@ -1226,7 +1240,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -1280,7 +1294,7 @@
         "outcome_overview_upper_limit": "404.18",
         "outcome_overview_lower_limit": "305.59",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -1320,10 +1334,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 12,
@@ -1432,7 +1453,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 13,
@@ -1541,7 +1562,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 14,
@@ -1650,7 +1671,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 15,
@@ -1662,7 +1683,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -1716,7 +1737,7 @@
         "outcome_overview_upper_limit": "2149.82",
         "outcome_overview_lower_limit": "1696.64",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -1756,10 +1777,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 16,
@@ -1868,7 +1896,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 17,
@@ -1977,7 +2005,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 18,
@@ -2086,7 +2114,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 19,
@@ -2098,7 +2126,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -2152,7 +2180,7 @@
         "outcome_overview_upper_limit": "642.29",
         "outcome_overview_lower_limit": "418.91",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -2192,10 +2220,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 20,
@@ -2304,7 +2339,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 21,
@@ -2413,7 +2448,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 22,
@@ -2522,7 +2557,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 23,
@@ -2534,7 +2569,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -2588,7 +2623,7 @@
         "outcome_overview_upper_limit": "6293.90",
         "outcome_overview_lower_limit": "4034.70",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -2628,10 +2663,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 24,
@@ -2740,7 +2782,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 25,
@@ -2849,7 +2891,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 26,
@@ -2958,7 +3000,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 27,
@@ -2970,7 +3012,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -3024,7 +3066,7 @@
         "outcome_overview_upper_limit": "4960.39",
         "outcome_overview_lower_limit": "3277.67",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -3064,10 +3106,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 28,
@@ -3176,7 +3225,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 29,
@@ -3285,7 +3334,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 30,
@@ -3394,7 +3443,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 31,
@@ -3406,7 +3455,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -3460,7 +3509,7 @@
         "outcome_overview_upper_limit": "743.90",
         "outcome_overview_lower_limit": "578.74",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -3500,10 +3549,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 32,
@@ -3612,7 +3668,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 33,
@@ -3721,7 +3777,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 34,
@@ -3830,7 +3886,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 35,
@@ -3842,7 +3898,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -3896,7 +3952,7 @@
         "outcome_overview_upper_limit": "5776.16",
         "outcome_overview_lower_limit": "4311.96",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -3936,10 +3992,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 36,
@@ -4048,7 +4111,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 37,
@@ -4157,7 +4220,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 38,
@@ -4266,7 +4329,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 39,
@@ -4278,7 +4341,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -4332,7 +4395,7 @@
         "outcome_overview_upper_limit": "2400.84",
         "outcome_overview_lower_limit": "1798.13",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -4372,10 +4435,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 40,
@@ -4484,7 +4554,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 41,
@@ -4593,7 +4663,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 42,
@@ -4702,7 +4772,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 43,
@@ -4714,7 +4784,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -4768,7 +4838,7 @@
         "outcome_overview_upper_limit": "1729.67",
         "outcome_overview_lower_limit": "1274.23",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -4808,10 +4878,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 44,
@@ -4920,7 +4997,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 45,
@@ -5029,7 +5106,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 46,
@@ -5138,7 +5215,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 47,
@@ -5150,7 +5227,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -5204,7 +5281,7 @@
         "outcome_overview_upper_limit": "4341.07",
         "outcome_overview_lower_limit": "3153.92",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -5244,10 +5321,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 48,
@@ -5356,7 +5440,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 49,
@@ -5465,7 +5549,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 50,
@@ -5574,7 +5658,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 51,
@@ -5586,7 +5670,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -5640,7 +5724,7 @@
         "outcome_overview_upper_limit": "5803.44",
         "outcome_overview_lower_limit": "4052.41",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -5680,10 +5764,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 52,
@@ -5792,7 +5883,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 53,
@@ -5901,7 +5992,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 54,
@@ -6010,7 +6101,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 55,
@@ -6022,7 +6113,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -6076,7 +6167,7 @@
         "outcome_overview_upper_limit": "1008.41",
         "outcome_overview_lower_limit": "887.55",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -6116,10 +6207,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 56,
@@ -6228,7 +6326,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 57,
@@ -6337,7 +6435,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 58,
@@ -6446,7 +6544,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.230971+00:00"
     },
     {
       "row_index": 59,
@@ -6458,7 +6556,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -6512,7 +6610,7 @@
         "outcome_overview_upper_limit": "1712.08",
         "outcome_overview_lower_limit": "1115.80",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -6552,10 +6650,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 60,
@@ -6664,7 +6769,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 61,
@@ -6773,7 +6878,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 62,
@@ -6882,7 +6987,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 63,
@@ -6894,7 +6999,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -6948,7 +7053,7 @@
         "outcome_overview_upper_limit": "5052.62",
         "outcome_overview_lower_limit": "3670.73",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -6988,10 +7093,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 64,
@@ -7100,7 +7212,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 65,
@@ -7209,7 +7321,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 66,
@@ -7318,7 +7430,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 67,
@@ -7330,7 +7442,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -7384,7 +7496,7 @@
         "outcome_overview_upper_limit": "3174.58",
         "outcome_overview_lower_limit": "2290.66",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -7424,10 +7536,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 68,
@@ -7536,7 +7655,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 69,
@@ -7645,7 +7764,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 70,
@@ -7754,7 +7873,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 71,
@@ -7766,7 +7885,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -7820,7 +7939,7 @@
         "outcome_overview_upper_limit": "3069.93",
         "outcome_overview_lower_limit": "2149.28",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -7860,10 +7979,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 72,
@@ -7972,7 +8098,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 73,
@@ -8081,7 +8207,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 74,
@@ -8190,7 +8316,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 75,
@@ -8202,7 +8328,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -8256,7 +8382,7 @@
         "outcome_overview_upper_limit": "2417.65",
         "outcome_overview_lower_limit": "1876.88",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -8296,10 +8422,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 76,
@@ -8408,7 +8541,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 77,
@@ -8517,7 +8650,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 78,
@@ -8626,7 +8759,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 79,
@@ -8638,7 +8771,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -8692,7 +8825,7 @@
         "outcome_overview_upper_limit": "459.08",
         "outcome_overview_lower_limit": "358.82",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -8732,10 +8865,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 80,
@@ -8844,7 +8984,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 81,
@@ -8953,7 +9093,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 82,
@@ -9062,7 +9202,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 83,
@@ -9074,7 +9214,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -9128,7 +9268,7 @@
         "outcome_overview_upper_limit": "2223.52",
         "outcome_overview_lower_limit": "1531.20",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -9168,10 +9308,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 84,
@@ -9280,7 +9427,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 85,
@@ -9389,7 +9536,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 86,
@@ -9498,7 +9645,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 87,
@@ -9510,7 +9657,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -9564,7 +9711,7 @@
         "outcome_overview_upper_limit": "4977.07",
         "outcome_overview_lower_limit": "3666.77",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -9604,10 +9751,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 88,
@@ -9716,7 +9870,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 89,
@@ -9825,7 +9979,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 90,
@@ -9934,7 +10088,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 91,
@@ -9946,7 +10100,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -10000,7 +10154,7 @@
         "outcome_overview_upper_limit": "1505.61",
         "outcome_overview_lower_limit": "1160.51",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -10040,10 +10194,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 92,
@@ -10152,7 +10313,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 93,
@@ -10261,7 +10422,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 94,
@@ -10370,7 +10531,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 95,
@@ -10382,7 +10543,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -10436,7 +10597,7 @@
         "outcome_overview_upper_limit": "509.66",
         "outcome_overview_lower_limit": "358.03",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -10476,10 +10637,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 96,
@@ -10588,7 +10756,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 97,
@@ -10697,7 +10865,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 98,
@@ -10806,7 +10974,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 99,
@@ -10818,7 +10986,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -10872,7 +11040,7 @@
         "outcome_overview_upper_limit": "11743.74",
         "outcome_overview_lower_limit": "8496.59",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -10912,10 +11080,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 100,
@@ -11024,7 +11199,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 101,
@@ -11133,7 +11308,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 102,
@@ -11242,7 +11417,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 103,
@@ -11254,7 +11429,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -11308,7 +11483,7 @@
         "outcome_overview_upper_limit": "219.49",
         "outcome_overview_lower_limit": "139.54",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -11348,10 +11523,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 104,
@@ -11460,7 +11642,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 105,
@@ -11569,7 +11751,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 106,
@@ -11678,7 +11860,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.232012+00:00"
     },
     {
       "row_index": 107,
@@ -11690,7 +11872,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -11744,7 +11926,7 @@
         "outcome_overview_upper_limit": "307.96",
         "outcome_overview_lower_limit": "200.25",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -11784,10 +11966,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 108,
@@ -11896,7 +12085,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 109,
@@ -12005,7 +12194,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 110,
@@ -12114,7 +12303,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 111,
@@ -12126,7 +12315,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -12180,7 +12369,7 @@
         "outcome_overview_upper_limit": "1776.33",
         "outcome_overview_lower_limit": "1156.18",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -12220,10 +12409,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 112,
@@ -12332,7 +12528,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 113,
@@ -12441,7 +12637,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 114,
@@ -12550,7 +12746,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 115,
@@ -12562,7 +12758,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -12616,7 +12812,7 @@
         "outcome_overview_upper_limit": "755.00",
         "outcome_overview_lower_limit": "515.16",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -12656,10 +12852,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 116,
@@ -12768,7 +12971,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 117,
@@ -12877,7 +13080,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 118,
@@ -12986,7 +13189,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 119,
@@ -12998,7 +13201,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -13052,7 +13255,7 @@
         "outcome_overview_upper_limit": "12109.97",
         "outcome_overview_lower_limit": "8815.38",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -13092,10 +13295,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 120,
@@ -13204,7 +13414,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 121,
@@ -13313,7 +13523,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 122,
@@ -13422,7 +13632,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 123,
@@ -13434,7 +13644,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -13488,7 +13698,7 @@
         "outcome_overview_upper_limit": "3223.64",
         "outcome_overview_lower_limit": "2511.80",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -13528,10 +13738,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 124,
@@ -13640,7 +13857,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 125,
@@ -13749,7 +13966,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 126,
@@ -13858,7 +14075,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 127,
@@ -13870,7 +14087,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -13924,7 +14141,7 @@
         "outcome_overview_upper_limit": "5.04",
         "outcome_overview_lower_limit": "3.71",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -13964,10 +14181,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 128,
@@ -14076,7 +14300,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 129,
@@ -14185,7 +14409,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 130,
@@ -14294,7 +14518,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 131,
@@ -14306,7 +14530,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -14360,7 +14584,7 @@
         "outcome_overview_upper_limit": "1.11",
         "outcome_overview_lower_limit": "0.78",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -14400,10 +14624,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 132,
@@ -14512,7 +14743,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 133,
@@ -14621,7 +14852,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 134,
@@ -14730,7 +14961,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 135,
@@ -14742,7 +14973,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -14796,7 +15027,7 @@
         "outcome_overview_upper_limit": "0.70",
         "outcome_overview_lower_limit": "0.52",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -14836,10 +15067,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 136,
@@ -14948,7 +15186,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 137,
@@ -15057,7 +15295,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 138,
@@ -15166,7 +15404,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 139,
@@ -15178,7 +15416,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -15232,7 +15470,7 @@
         "outcome_overview_upper_limit": "1.79",
         "outcome_overview_lower_limit": "1.26",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -15272,10 +15510,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 140,
@@ -15384,7 +15629,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 141,
@@ -15493,7 +15738,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 142,
@@ -15602,7 +15847,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 143,
@@ -15614,7 +15859,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -15668,7 +15913,7 @@
         "outcome_overview_upper_limit": "2.93",
         "outcome_overview_lower_limit": "2.08",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -15708,10 +15953,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 144,
@@ -15820,7 +16072,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 145,
@@ -15929,7 +16181,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 146,
@@ -16038,7 +16290,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 147,
@@ -16050,7 +16302,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -16104,7 +16356,7 @@
         "outcome_overview_upper_limit": "3.87",
         "outcome_overview_lower_limit": "2.55",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -16144,10 +16396,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 148,
@@ -16256,7 +16515,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 149,
@@ -16365,7 +16624,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 150,
@@ -16474,7 +16733,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 151,
@@ -16486,7 +16745,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -16540,7 +16799,7 @@
         "outcome_overview_upper_limit": "3.91",
         "outcome_overview_lower_limit": "2.43",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -16580,10 +16839,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 152,
@@ -16692,7 +16958,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 153,
@@ -16801,7 +17067,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 154,
@@ -16910,7 +17176,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 155,
@@ -16922,7 +17188,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -16976,7 +17242,7 @@
         "outcome_overview_upper_limit": "0.71",
         "outcome_overview_lower_limit": "0.44",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -17016,10 +17282,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 156,
@@ -17128,7 +17401,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 157,
@@ -17237,7 +17510,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 158,
@@ -17346,7 +17619,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 159,
@@ -17358,7 +17631,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -17412,7 +17685,7 @@
         "outcome_overview_upper_limit": "6.01",
         "outcome_overview_lower_limit": "4.39",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -17452,10 +17725,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 160,
@@ -17564,7 +17844,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 161,
@@ -17673,7 +17953,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 162,
@@ -17782,7 +18062,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 163,
@@ -17794,7 +18074,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -17848,7 +18128,7 @@
         "outcome_overview_upper_limit": "8.17",
         "outcome_overview_lower_limit": "5.97",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -17888,10 +18168,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 164,
@@ -18000,7 +18287,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 165,
@@ -18109,7 +18396,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 166,
@@ -18218,7 +18505,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 167,
@@ -18230,7 +18517,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -18284,7 +18571,7 @@
         "outcome_overview_upper_limit": "1.19",
         "outcome_overview_lower_limit": "0.84",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -18324,10 +18611,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 168,
@@ -18436,7 +18730,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 169,
@@ -18545,7 +18839,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 170,
@@ -18654,7 +18948,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 171,
@@ -18666,7 +18960,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -18720,7 +19014,7 @@
         "outcome_overview_upper_limit": "3.17",
         "outcome_overview_lower_limit": "2.18",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -18760,10 +19054,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 172,
@@ -18872,7 +19173,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 173,
@@ -18981,7 +19282,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.233009+00:00"
     },
     {
       "row_index": 174,
@@ -19090,7 +19391,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 175,
@@ -19102,7 +19403,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -19156,7 +19457,7 @@
         "outcome_overview_upper_limit": "13.69",
         "outcome_overview_lower_limit": "8.55",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -19196,10 +19497,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 176,
@@ -19308,7 +19616,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 177,
@@ -19417,7 +19725,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 178,
@@ -19526,7 +19834,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 179,
@@ -19538,7 +19846,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -19592,7 +19900,7 @@
         "outcome_overview_upper_limit": "4.48",
         "outcome_overview_lower_limit": "3.13",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -19632,10 +19940,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 180,
@@ -19744,7 +20059,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 181,
@@ -19853,7 +20168,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 182,
@@ -19962,7 +20277,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 183,
@@ -19974,7 +20289,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -20028,7 +20343,7 @@
         "outcome_overview_upper_limit": "1.68",
         "outcome_overview_lower_limit": "1.13",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -20068,10 +20383,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 184,
@@ -20180,7 +20502,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 185,
@@ -20289,7 +20611,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 186,
@@ -20398,7 +20720,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 187,
@@ -20410,7 +20732,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -20464,7 +20786,7 @@
         "outcome_overview_upper_limit": "11.27",
         "outcome_overview_lower_limit": "7.42",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -20504,10 +20826,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 188,
@@ -20616,7 +20945,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 189,
@@ -20725,7 +21054,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 190,
@@ -20834,7 +21163,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 191,
@@ -20846,7 +21175,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -20900,7 +21229,7 @@
         "outcome_overview_upper_limit": "5.12",
         "outcome_overview_lower_limit": "3.48",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -20940,10 +21269,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 192,
@@ -21052,7 +21388,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 193,
@@ -21161,7 +21497,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 194,
@@ -21270,7 +21606,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 195,
@@ -21282,7 +21618,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -21336,7 +21672,7 @@
         "outcome_overview_upper_limit": "16.19",
         "outcome_overview_lower_limit": "10.71",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -21376,10 +21712,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 196,
@@ -21488,7 +21831,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 197,
@@ -21597,7 +21940,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 198,
@@ -21706,7 +22049,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 199,
@@ -21718,7 +22061,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -21772,7 +22115,7 @@
         "outcome_overview_upper_limit": "1.12",
         "outcome_overview_lower_limit": "0.81",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -21812,10 +22155,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 200,
@@ -21924,7 +22274,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 201,
@@ -22033,7 +22383,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 202,
@@ -22142,7 +22492,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 203,
@@ -22154,7 +22504,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -22208,7 +22558,7 @@
         "outcome_overview_upper_limit": "0.66",
         "outcome_overview_lower_limit": "0.47",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -22248,10 +22598,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 204,
@@ -22360,7 +22717,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 205,
@@ -22469,7 +22826,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 206,
@@ -22578,7 +22935,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 207,
@@ -22590,7 +22947,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -22644,7 +23001,7 @@
         "outcome_overview_upper_limit": "8.03",
         "outcome_overview_lower_limit": "5.46",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -22684,10 +23041,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 208,
@@ -22796,7 +23160,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 209,
@@ -22905,7 +23269,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 210,
@@ -23014,7 +23378,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 211,
@@ -23026,7 +23390,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -23080,7 +23444,7 @@
         "outcome_overview_upper_limit": "10.38",
         "outcome_overview_lower_limit": "7.01",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -23120,10 +23484,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 212,
@@ -23232,7 +23603,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 213,
@@ -23341,7 +23712,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 214,
@@ -23450,7 +23821,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 215,
@@ -23462,7 +23833,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -23516,7 +23887,7 @@
         "outcome_overview_upper_limit": "5.40",
         "outcome_overview_lower_limit": "3.54",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -23556,10 +23927,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 216,
@@ -23668,7 +24046,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 217,
@@ -23777,7 +24155,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 218,
@@ -23886,7 +24264,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 219,
@@ -23898,7 +24276,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -23952,7 +24330,7 @@
         "outcome_overview_upper_limit": "4.60",
         "outcome_overview_lower_limit": "3.33",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -23992,10 +24370,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 220,
@@ -24104,7 +24489,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 221,
@@ -24213,7 +24598,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 222,
@@ -24322,7 +24707,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 223,
@@ -24334,7 +24719,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -24388,7 +24773,7 @@
         "outcome_overview_upper_limit": "5.16",
         "outcome_overview_lower_limit": "3.71",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -24428,10 +24813,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 224,
@@ -24540,7 +24932,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 225,
@@ -24649,7 +25041,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 226,
@@ -24758,7 +25150,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 227,
@@ -24770,7 +25162,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -24824,7 +25216,7 @@
         "outcome_overview_upper_limit": "0.66",
         "outcome_overview_lower_limit": "0.42",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -24864,10 +25256,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 228,
@@ -24976,7 +25375,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 229,
@@ -25085,7 +25484,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 230,
@@ -25194,7 +25593,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 231,
@@ -25206,7 +25605,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -25260,7 +25659,7 @@
         "outcome_overview_upper_limit": "13.29",
         "outcome_overview_lower_limit": "9.56",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -25300,10 +25699,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 232,
@@ -25412,7 +25818,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 233,
@@ -25521,7 +25927,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 234,
@@ -25630,7 +26036,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 235,
@@ -25642,7 +26048,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -25696,7 +26102,7 @@
         "outcome_overview_upper_limit": "5.56",
         "outcome_overview_lower_limit": "3.81",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -25736,10 +26142,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 236,
@@ -25848,7 +26261,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 237,
@@ -25957,7 +26370,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 238,
@@ -26066,7 +26479,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 239,
@@ -26078,7 +26491,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -26132,7 +26545,7 @@
         "outcome_overview_upper_limit": "0.53",
         "outcome_overview_lower_limit": "0.36",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -26172,10 +26585,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 240,
@@ -26284,7 +26704,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 241,
@@ -26393,7 +26813,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 242,
@@ -26502,7 +26922,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 243,
@@ -26514,7 +26934,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -26568,7 +26988,7 @@
         "outcome_overview_upper_limit": "14.43",
         "outcome_overview_lower_limit": "10.39",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -26608,10 +27028,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     },
     {
       "row_index": 244,
@@ -26720,7 +27147,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 245,
@@ -26829,7 +27256,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 246,
@@ -26938,7 +27365,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "resolved_at": "2026-02-11T11:53:54.234006+00:00"
     },
     {
       "row_index": 247,
@@ -26950,7 +27377,7 @@
         "group_id": "OG003",
         "outcome_title": "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
       },
-      "status": "AGREE",
+      "status": "CATEGORICAL_DISAGREE",
       "final_row": {
         "clinical_trial_study_name": "A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older",
         "clinical_trial_study_id": "NCT06151288",
@@ -27004,7 +27431,7 @@
         "outcome_overview_upper_limit": "3.60",
         "outcome_overview_lower_limit": "2.58",
         "outcome_overview_ratio": "",
-        "outcome_overview_vaccine": "PCV20",
+        "outcome_overview_vaccine": "PCV20 (manufacturer: Pfizer)",
         "outcome_overview_immunocompromised_population": "",
         "outcome_overview_manufacturer": "Pfizer",
         "outcome_overview_dose_description": "1m post dose 1 adult",
@@ -27044,10 +27471,17 @@
         "outcome_overview_confidence_interval": "",
         "outcome_overview_percent_responders": "0"
       },
-      "disagreements": [],
-      "resolution": "auto_accepted",
-      "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:45:27.575411+00:00"
+      "disagreements": [
+        {
+          "field": "outcome_overview_vaccine",
+          "agent_a_value": "PCV20 (manufacturer: Pfizer)",
+          "agent_b_value": "PCV20",
+          "type": "categorical"
+        }
+      ],
+      "resolution": "human_adjudicated",
+      "resolved_by": "review_all.csv",
+      "resolved_at": "2026-02-11T13:42:20.207204+00:00"
     }
   ]
 }

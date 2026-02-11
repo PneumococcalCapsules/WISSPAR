@@ -62,24 +62,6 @@ Groups:
   OG001: "PNEUMOVAX™23" - Participants received a single 0.5 mL IM injection of PNEUMOVAX™23 on Day 1.
   Serotypes (9): "Serotype 6A", "Serotype 15A", "Serotype 15C", "Serotype 16F", "Serotype 23A", ... +4 more
 
-### Outcome 4: "Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA"
-Description: GMTs for the serotypes in V116 and PNEUMOVAX™23 were determined using the MOPA at baseline and 30 days post vaccination and derived from a cLDA model. The GMFR (Day 30 GMT/Day 1 GMT) from baseline (Day 1) to Day 30 of each pneumococcal serotype was calculated.
-Timeframe: Baseline (Day 1) and Day 30 postvaccination
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V116" - Participants received a single 1.0 mL intramuscular (IM) injection of V116 on Day 1.
-  OG001: "PNEUMOVAX™23" - Participants received a single 0.5 mL IM injection of PNEUMOVAX™23 on Day 1.
-  Serotypes (24): "Serotype 3", "Serotype 7F", "Serotype 19A", "Serotype 22F", "Serotype 33F", ... +19 more
-
-### Outcome 5: "GMFR From Baseline in Serotype-specific IgG GMCs"
-Description: GMCs for the serotypes in V116 and PNEUMOVAX™23 were measured by PnECL at baseline and 30 days post vaccination and derived from a cLDA model. The GMFR (Day 30 GMC/Day 1 GMC) from baseline (Day 1) to Day 30 of each pneumococcal serotype was calculated.
-Timeframe: Baseline (Day 1) and Day 30 postvaccination
-ParamType: GEOMETRIC_MEAN | Unit: Ratio | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V116" - Participants received a single 1.0 mL intramuscular (IM) injection of V116 on Day 1.
-  OG001: "PNEUMOVAX™23" - Participants received a single 0.5 mL IM injection of PNEUMOVAX™23 on Day 1.
-  Serotypes (23): "Serotype 3", "Serotype 7F", "Serotype 19A", "Serotype 22F", "Serotype 33F", ... +18 more
-
 ## Vaccine Reference (use these standardized names)
   - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
   - PCV10 (Synflorix) (manufacturer: GSK)
@@ -101,7 +83,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -124,10 +106,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -153,7 +136,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

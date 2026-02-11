@@ -113,7 +113,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object \
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -136,12 +136,23 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, \
-52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use \
+4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from \
 study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer \
+for EVERY outcome — never return null. The timeFrame field in every \
+outcome measure contains enough information to derive this value. \
+Common patterns: "1 month after" = 4, "one month after" = 4, \
+"approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, \
+"6 months" = 26, "1 year" = 52. For pre-vaccination/baseline \
+measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., \
+"before and after the toddler dose"), determine which specific \
+timepoint THIS outcome measures based on the serotype classes \
+(PRE/POST labels) or outcome context, and return the weeks for \
+that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME \
@@ -183,11 +194,16 @@ ONE vaccine at a time. Assign the vaccine that group received, not a combo.
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", \
-"Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co."""
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, \
+Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, \
+you MUST convert to the short name. This is a strict requirement."""
 
 
 # ── Helpers ─────────────────────────────────────────────────────────
@@ -204,13 +220,61 @@ def get_vaccine_reference(vaccine_lookup):
 
 
 def is_immuno_outcome(outcome):
-    """Check if an outcome measure is immunogenicity-related."""
+    """Check if an outcome measure is pneumococcal immunogenicity-related.
+
+    Excludes non-pneumococcal antibodies (polio, diphtheria, tetanus, etc.),
+    fold-rise/GMFR outcomes, and percentage/threshold outcomes to match
+    the curated dataset scope.
+    """
     title = outcome.get("title", "").upper()
-    if any(kw in title for kw in IMMUNO_KEYWORDS):
-        return True
-    if "GEOMETRIC" in outcome.get("paramType", "").upper():
-        return True
-    return False
+    param_type = outcome.get("paramType", "").upper()
+
+    # Step 1: Must be immunogenicity-related
+    is_immuno = (
+        any(kw in title for kw in IMMUNO_KEYWORDS)
+        or "GEOMETRIC" in param_type
+    )
+    if not is_immuno:
+        return False
+
+    # Step 2: Exclude non-pneumococcal antibody outcomes
+    NON_PNEUMO_KEYWORDS = [
+        "DIPHTHERIA", "TETANUS", "PERTUSSIS", "PERTACTIN",
+        "HEPATITIS", "POLIO", "POLIOVIRUS",
+        "ANTI-PRP", "POLYRIBOSYL", "ANTI-D ", "ANTI-T ",
+        "ANTI-PT", "ANTI-FHA", "ANTI-PRN", "ANTI-FIM",
+        "ANTI-HBS", "PROTEIN D", "ANTI-PD",
+        "HAEMOPHILUS",
+    ]
+    for kw in NON_PNEUMO_KEYWORDS:
+        if kw in title:
+            return False
+
+    # Step 3: Exclude fold-rise / GMFR outcomes
+    FOLD_RISE_KEYWORDS = [
+        "FOLD RISE", "FOLD-RISE", "GMFR",
+        "GEOMETRIC MEAN FOLD",
+    ]
+    for kw in FOLD_RISE_KEYWORDS:
+        if kw in title:
+            return False
+
+    # Step 4: Exclude percentage/proportion/threshold outcomes
+    PERCENTAGE_KEYWORDS = [
+        "PERCENTAGE OF PARTICIPANTS",
+        "PROPORTION OF PARTICIPANTS",
+        "PERCENTAGE OF SUBJECTS",
+        "PROPORTION OF SUBJECTS",
+        "PERCENTAGE OF INFANTS",
+        "SEROCONVERSION",
+        "SEROPROTECTION",
+        "RESPONDER RATE",
+    ]
+    for kw in PERCENTAGE_KEYWORDS:
+        if kw in title:
+            return False
+
+    return True
 
 
 def get_all_trial_ids():

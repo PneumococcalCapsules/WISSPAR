@@ -1,6 +1,6 @@
 {
   "nct_id": "NCT00452790",
-  "extraction_timestamp": "2026-02-07T18:11:48.303949+00:00",
+  "extraction_timestamp": "2026-02-11T11:28:45.509572+00:00",
   "agent_a_version": "1.0.0",
   "agent_b_version": "1.0.0",
   "summary": {
@@ -124,7 +124,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 1,
@@ -233,7 +233,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 2,
@@ -342,7 +342,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 3,
@@ -451,7 +451,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 4,
@@ -560,7 +560,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 5,
@@ -669,7 +669,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 6,
@@ -778,7 +778,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 7,
@@ -887,7 +887,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 8,
@@ -996,7 +996,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 9,
@@ -1105,7 +1105,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 10,
@@ -1214,7 +1214,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 11,
@@ -1323,7 +1323,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.302949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 12,
@@ -1432,7 +1432,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 13,
@@ -1541,7 +1541,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 14,
@@ -1650,7 +1650,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 15,
@@ -1759,7 +1759,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 16,
@@ -1868,7 +1868,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 17,
@@ -1977,7 +1977,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 18,
@@ -2086,7 +2086,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 19,
@@ -2195,7 +2195,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 20,
@@ -2304,7 +2304,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 21,
@@ -2413,7 +2413,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 22,
@@ -2522,7 +2522,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 23,
@@ -2631,7 +2631,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 24,
@@ -2740,7 +2740,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 25,
@@ -2849,7 +2849,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 26,
@@ -2958,7 +2958,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 27,
@@ -3067,7 +3067,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 28,
@@ -3176,7 +3176,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 29,
@@ -3285,7 +3285,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 30,
@@ -3394,7 +3394,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 31,
@@ -3503,7 +3503,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 32,
@@ -3612,7 +3612,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 33,
@@ -3721,7 +3721,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 34,
@@ -3830,7 +3830,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 35,
@@ -3939,7 +3939,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 36,
@@ -4048,7 +4048,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 37,
@@ -4157,7 +4157,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 38,
@@ -4266,7 +4266,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 39,
@@ -4375,7 +4375,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 40,
@@ -4484,7 +4484,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 41,
@@ -4593,7 +4593,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 42,
@@ -4702,7 +4702,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 43,
@@ -4811,7 +4811,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 44,
@@ -4920,7 +4920,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 45,
@@ -5029,7 +5029,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 46,
@@ -5138,7 +5138,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 47,
@@ -5247,7 +5247,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 48,
@@ -5356,7 +5356,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 49,
@@ -5465,7 +5465,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 50,
@@ -5574,7 +5574,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.508575+00:00"
     },
     {
       "row_index": 51,
@@ -5683,7 +5683,7 @@
       "disagreements": [],
       "resolution": "auto_accepted",
       "resolved_by": "reconciler",
-      "resolved_at": "2026-02-07T18:11:48.303949+00:00"
+      "resolved_at": "2026-02-11T11:28:45.509572+00:00"
     }
   ]
 }

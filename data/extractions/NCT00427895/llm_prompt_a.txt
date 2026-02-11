@@ -57,16 +57,7 @@ Groups:
   OG003: "13vPnC, Cohort 3" - Participants 18-49 years of age received 13vPnC administered as a 0.5 mL single dose intramuscularly (Vaccination 1).
   Serotypes (13): "1", "3", "4", "5", "6A", ... +8 more
 
-### Outcome 1: "Percentage of Participants Achieving At Least a 4-fold Rise in OPA Titer for Serotype 6A 1 Month After Vaccination 1 in Cohort 1"
-Description: For serotype 6A the percentage of participants achieving at least a 4-fold rise on the serotype-specific antibody titer from pre-vaccination to 1 month post-vaccination was computed along with exact, 2-sided 95% confidence interval for the proportion.
-Timeframe: One month after vaccination 1
-ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC, Cohort 1" - Participants 60-64 years of age received 13-valent pneumococcal conjugate vaccine (13vPnC) administered as a 0.5 milliliter (mL) single dose intramuscularly (Vaccination 1 \[Vax1\]).
-  OG001: "23vPS, Cohort 1" - Participants 60-64 years of age received 23-valent pneumococcal polysaccharide vaccine (23vPS) administered as a 0.5 mL single dose intramuscularly (Vaccination 1).
-  Serotypes (1): ""
-
-### Outcome 2: "Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) 1 Month After Vaccination for 12 Common Serotypes in 13vPnC/23vPS Group Relative to 23vPS Group and 23vPS/23vPS Group"
+### Outcome 1: "Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) 1 Month After Vaccination for 12 Common Serotypes in 13vPnC/23vPS Group Relative to 23vPS Group and 23vPS/23vPS Group"
 Description: Serotype-specific OPA GMTs for the 12 pneumococcal common serotypes (1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F) were determined in the blood samples of all the participants using mcOPA assay. CIs for GMT are back transformations of a CI based on the Student t distribution for the mean l
 Timeframe: One month after vaccination 1 and One month after vaccination 2/Year 3 to 4
 ParamType: GEOMETRIC_MEAN | Unit: titers | Dispersion: 95% Confidence Interval
@@ -76,29 +67,7 @@ Groups:
   OG002: "23vPs/23vPS, Cohort 1" - Participants 60-64 years of age who received 23vPS at vaccination 1, received a 0.5 mL single dose intramuscularly of open-label 23vPS (Vaccination 2) at Year 3 to 4.
   Serotypes (12): "1", "3", "4", "5", "6B", ... +7 more
 
-### Outcome 3: "Percentage of Participants Achieving OPA Titers With at Least Lower Limit of Quantification (LLOQ) 1 Month After Vaccination 1"
-Description: Percentage of participants achieving OPA GMTs with at least LLOQ for 13 pneumococcal serotypes (1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F) determined in blood samples of all participants using mcOPA assay. Exact 2-sided CI based on observed proportion of participants. LLOQ for each serot
-Timeframe: One month after vaccination 1
-ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC, Cohort 1" - Participants 60-64 years of age received 13-valent pneumococcal conjugate vaccine (13vPnC) administered as a 0.5 milliliter (mL) single dose intramuscularly (Vaccination 1 \[Vax1\]).
-  OG001: "23vPS, Cohort 1" - Participants 60-64 years of age received 23-valent pneumococcal polysaccharide vaccine (23vPS) administered as a 0.5 mL single dose intramuscularly (Vaccination 1).
-  OG002: "13vPnC, Cohort 2" - Participants 50-59 years of age received 13vPnC administered as a 0.5 mL single dose intramuscularly (Vaccination 1).
-  OG003: "13vPnC, Cohort 3" - Participants 18-49 years of age received 13vPnC administered as a 0.5 mL single dose intramuscularly (Vaccination 1).
-  Serotypes (13): "1", "3", "4", "5", "6A", ... +8 more
-
-### Outcome 4: "Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Fold Rises (GMFRs) for the 13 Serotypes From Prevaccination 1 to 1 Month After Vaccination 2 in Cohort 1 and Cohort 2"
-Description: Geometric mean fold rises (GMFRs) for the 13 serotypes (1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F) from prevaccination to 1 month postvaccination were computed using the logarithmically transformed assay results. CI for the GMFRs are back transformations of a CI based on the Student t d
-Timeframe: Prevaccination 1 to 1 month after vaccination 2/Year 3 to 4
-ParamType: GEOMETRIC_MEAN | Unit: Fold Rise | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "13vPnC/13vPnC, Cohort 1" - Participants 60-64 years of age who received 13vPnC at vaccination 1, received a 0.5 mL single dose intramuscularly of open-label 13vPnC (Vaccination 2 \[Vax2\]) at Year 3 to 4.
-  OG001: "13vPnC/23vPS, Cohort 1" - Participants 60-64 years of age who received 13vPnC at vaccination 1, received a 0.5 mL single dose intramuscularly of open-label 23vPS (Vaccination 2) at Year 3 to 4.
-  OG002: "23vPS/23vPS, Cohort 1" - Participants 60-64 years of age who received 23vPS at vaccination 1, received a 0.5 mL single dose intramuscularly of open-label 23vPS (Vaccination 2) at Year 3 to 4.
-  OG003: "13vPnC/13vPnC, Cohort 2" - Participants 50-59 years of age who received 13vPnC at vaccination 1 received a 0.5 mL single dose intramuscularly of open-label 13vPnC (Vaccination 2) at Year 3 to 4.
-  Serotypes (13): "1", "3", "4", "5", "6A", ... +8 more
-
-### Outcome 5: "Serotype-specific Pneumococcal Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) for 12 Common Serotypes in 13vPnC/23vPS Group Relative to 23vPS and 23vPS/23vPS Groups in Cohort 1; and in 13vPnC/13vPnC Group in Cohort 2, 1 Month After Vaccination"
+### Outcome 2: "Serotype-specific Pneumococcal Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) for 12 Common Serotypes in 13vPnC/23vPS Group Relative to 23vPS and 23vPS/23vPS Groups in Cohort 1; and in 13vPnC/13vPnC Group in Cohort 2, 1 Month After Vaccination"
 Description: Antibody geometric mean concentration (GMC) as measured by microgram/milliliter (mcg/mL) for 12 common pneumococcal serotypes (1, 3, 4, 5, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F) are presented. GMC and corresponding 2-sided 95% confidence intervals (CI) were evaluated. Geometric means (GMs) were cal
 Timeframe: One month after vaccination 1 and One month after vaccination 2/Year 3 to 4
 ParamType: GEOMETRIC_MEAN | Unit: mcg/mL | Dispersion: 95% Confidence Interval
@@ -130,7 +99,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -153,10 +122,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -182,7 +152,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

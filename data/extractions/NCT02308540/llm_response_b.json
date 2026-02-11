@@ -71,42 +71,21 @@
         "OG000": {
           "vaccine": "PCV10 (Pneumosil)",
           "manufacturer": "Serum Institute of India",
-          "dose_number": 1,
-          "schedule": "1 dose child",
-          "dose_description": "1m post dose 1 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "1 dose child",
-          "dose_description": "1m post dose 1 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         }
       }
     },
     {
       "outcome_index": 4,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV10 (Pneumosil)",
-          "manufacturer": "Serum Institute of India",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "1m post dose 3 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "1m post dose 3 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 5,
       "assay": "OPA",
       "time_frame_weeks": 4,
       "groups": {
@@ -155,8 +134,29 @@
       }
     },
     {
-      "outcome_index": 6,
+      "outcome_index": 5,
       "assay": "OPA",
+      "time_frame_weeks": 12,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV10 (Pneumosil)",
+          "manufacturer": "Serum Institute of India",
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
+        },
+        "OG001": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
+        }
+      }
+    },
+    {
+      "outcome_index": 6,
+      "assay": "GMC",
       "time_frame_weeks": 12,
       "groups": {
         "OG000": {
@@ -178,27 +178,6 @@
     {
       "outcome_index": 7,
       "assay": "GMC",
-      "time_frame_weeks": 12,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV10 (Pneumosil)",
-          "manufacturer": "Serum Institute of India",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "1m post dose 3 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "1m post dose 3 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 8,
-      "assay": "GMC",
       "time_frame_weeks": 4,
       "groups": {
         "OG000": {
@@ -221,6 +200,27 @@
           "dose_number": 4,
           "schedule": "3+1 child",
           "dose_description": "1m post boost child"
+        }
+      }
+    },
+    {
+      "outcome_index": 8,
+      "assay": "GMC",
+      "time_frame_weeks": 0,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV10 (Pneumosil)",
+          "manufacturer": "Serum Institute of India",
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "pre boost child"
+        },
+        "OG001": {
+          "vaccine": "PCV13",
+          "manufacturer": "Pfizer",
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "pre boost child"
         }
       }
     },
@@ -228,55 +228,6 @@
       "outcome_index": 9,
       "assay": "GMC",
       "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV10 (Pneumosil)",
-          "manufacturer": "Serum Institute of India",
-          "dose_number": 4,
-          "schedule": "3+1 child",
-          "dose_description": "1m post boost child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 4,
-          "schedule": "3+1 child",
-          "dose_description": "1m post boost child"
-        },
-        "OG002": {
-          "vaccine": "PCV10 (Pneumosil)",
-          "manufacturer": "Serum Institute of India",
-          "dose_number": 4,
-          "schedule": "3+1 child",
-          "dose_description": "1m post boost child"
-        }
-      }
-    },
-    {
-      "outcome_index": 10,
-      "assay": "GMC",
-      "time_frame_weeks": 21,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV10 (Pneumosil)",
-          "manufacturer": "Serum Institute of India",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "pre boost child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "3+1 child",
-          "dose_description": "pre boost child"
-        }
-      }
-    },
-    {
-      "outcome_index": 11,
-      "assay": "GMC",
-      "time_frame_weeks": 25,
       "groups": {
         "OG000": {
           "vaccine": "PCV10 (Pneumosil)",

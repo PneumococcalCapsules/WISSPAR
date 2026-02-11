@@ -3,42 +3,42 @@
     {
       "outcome_index": 0,
       "assay": "OPA",
-      "time_frame_weeks": 56,
+      "time_frame_weeks": 4,
       "groups": {
         "OG000": {
           "vaccine": "PPV23",
           "manufacturer": "MSD",
           "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "1m post dose 2 adult"
         },
         "OG001": {
           "vaccine": "PPV23",
           "manufacturer": "MSD",
           "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "1m post dose 2 adult"
         }
       }
     },
     {
       "outcome_index": 1,
       "assay": "GMC",
-      "time_frame_weeks": 56,
+      "time_frame_weeks": 4,
       "groups": {
         "OG000": {
           "vaccine": "PPV23",
           "manufacturer": "MSD",
           "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "1m post dose 2 adult"
         },
         "OG001": {
           "vaccine": "PPV23",
           "manufacturer": "MSD",
           "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "1m post dose 2 adult"
         }
       }
     },
@@ -51,14 +51,14 @@
           "vaccine": "PCV15",
           "manufacturer": "MSD",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "1m post dose 1 adult"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "1m post dose 1 adult"
         }
       }
@@ -72,14 +72,14 @@
           "vaccine": "PCV15",
           "manufacturer": "MSD",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "1m post dose 1 adult"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "1m post dose 1 adult"
         }
       }
@@ -87,378 +87,42 @@
     {
       "outcome_index": 4,
       "assay": "OPA",
-      "time_frame_weeks": 4,
+      "time_frame_weeks": 52,
       "groups": {
         "OG000": {
           "vaccine": "PCV15",
           "manufacturer": "MSD",
           "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "52w post dose 1 adult"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
+          "schedule": "1+1 adult",
+          "dose_description": "52w post dose 1 adult"
         }
       }
     },
     {
       "outcome_index": 5,
       "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 6,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 7,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 8,
-      "assay": "OPA",
       "time_frame_weeks": 52,
       "groups": {
         "OG000": {
           "vaccine": "PCV15",
           "manufacturer": "MSD",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "52w post dose 1 adult"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 1,
-          "schedule": "2 dose adult",
+          "schedule": "1+1 adult",
           "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 9,
-      "assay": "GMC",
-      "time_frame_weeks": 52,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 10,
-      "assay": "OPA",
-      "time_frame_weeks": 52,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 11,
-      "assay": "GMC",
-      "time_frame_weeks": 52,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 12,
-      "assay": "OPA",
-      "time_frame_weeks": 52,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 13,
-      "assay": "GMC",
-      "time_frame_weeks": 52,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV15",
-          "manufacturer": "MSD",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 1,
-          "schedule": "2 dose adult",
-          "dose_description": "52w post dose 1 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 14,
-      "assay": "OPA",
-      "time_frame_weeks": 56,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 15,
-      "assay": "GMC",
-      "time_frame_weeks": 56,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 16,
-      "assay": "OPA",
-      "time_frame_weeks": 56,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 17,
-      "assay": "GMC",
-      "time_frame_weeks": 56,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "4w post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 18,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 19,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 20,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        }
-      }
-    },
-    {
-      "outcome_index": 21,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
-        },
-        "OG001": {
-          "vaccine": "PPV23",
-          "manufacturer": "MSD",
-          "dose_number": 2,
-          "schedule": "2 dose adult",
-          "dose_description": "1m post dose 2 adult"
         }
       }
     }

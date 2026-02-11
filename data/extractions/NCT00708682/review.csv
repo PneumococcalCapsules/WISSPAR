@@ -1,27 +1,79 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-65,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,4,OG000,5.10,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-65,outcome_overview_time_frame_weeks,8,52,,,4,OG000,5.10,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-66,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,6B,OG000,15.41,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-66,outcome_overview_time_frame_weeks,8,52,,,6B,OG000,15.41,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-67,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,9V,OG000,3.76,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-67,outcome_overview_time_frame_weeks,8,52,,,9V,OG000,3.76,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-68,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,14,OG000,10.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-68,outcome_overview_time_frame_weeks,8,52,,,14,OG000,10.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-69,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,18C,OG000,3.93,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-69,outcome_overview_time_frame_weeks,8,52,,,18C,OG000,3.93,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-70,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,19F,OG000,11.33,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-70,outcome_overview_time_frame_weeks,8,52,,,19F,OG000,11.33,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-71,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,23F,OG000,5.70,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-71,outcome_overview_time_frame_weeks,8,52,,,23F,OG000,5.70,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-72,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,1,OG000,5.86,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-72,outcome_overview_time_frame_weeks,8,52,,,1,OG000,5.86,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-73,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,3,OG000,1.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-73,outcome_overview_time_frame_weeks,8,52,,,3,OG000,1.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-74,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,5,OG000,4.75,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-74,outcome_overview_time_frame_weeks,8,52,,,5,OG000,4.75,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-75,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,6A,OG000,11.64,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-75,outcome_overview_time_frame_weeks,8,52,,,6A,OG000,11.64,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-76,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,7F,OG000,5.81,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-76,outcome_overview_time_frame_weeks,8,52,,,7F,OG000,5.81,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-77,outcome_overview_dose_description,8w post dose 3 child,52w post dose 3 child,,,19A,OG000,8.95,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
-77,outcome_overview_time_frame_weeks,8,52,,,19A,OG000,8.95,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+0,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,4,OG000,3.54,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+0,outcome_overview_time_frame_weeks,4,0,,,4,OG000,3.54,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+1,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,6B,OG000,0.84,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+1,outcome_overview_time_frame_weeks,4,0,,,6B,OG000,0.84,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+2,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,9V,OG000,1.82,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+2,outcome_overview_time_frame_weeks,4,0,,,9V,OG000,1.82,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+3,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,14,OG000,5.54,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+3,outcome_overview_time_frame_weeks,4,0,,,14,OG000,5.54,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+4,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,18C,OG000,1.80,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+4,outcome_overview_time_frame_weeks,4,0,,,18C,OG000,1.80,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+5,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,19F,OG000,4.14,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+5,outcome_overview_time_frame_weeks,4,0,,,19F,OG000,4.14,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+6,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,23F,OG000,0.84,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+6,outcome_overview_time_frame_weeks,4,0,,,23F,OG000,0.84,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+7,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,1,OG000,3.41,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+7,outcome_overview_time_frame_weeks,4,0,,,1,OG000,3.41,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+8,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,3,OG000,1.11,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+8,outcome_overview_time_frame_weeks,4,0,,,3,OG000,1.11,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+9,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,5,OG000,1.89,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+9,outcome_overview_time_frame_weeks,4,0,,,5,OG000,1.89,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+10,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,6A,OG000,1.86,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+10,outcome_overview_time_frame_weeks,4,0,,,6A,OG000,1.86,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+11,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,7F,OG000,2.98,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+11,outcome_overview_time_frame_weeks,4,0,,,7F,OG000,2.98,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+12,outcome_overview_dose_description,1m post dose 2 child,post dose 2 child,,,19A,OG000,3.52,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+12,outcome_overview_time_frame_weeks,4,0,,,19A,OG000,3.52,Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal IgG Antibody After Dose 2 of the Infant Series
+13,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,4,OG000,3.48,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+13,outcome_overview_time_frame_weeks,4,0,,,4,OG000,3.48,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+14,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,6B,OG000,5.02,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+14,outcome_overview_time_frame_weeks,4,0,,,6B,OG000,5.02,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+15,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,9V,OG000,2.34,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+15,outcome_overview_time_frame_weeks,4,0,,,9V,OG000,2.34,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+16,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,14,OG000,9.35,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+16,outcome_overview_time_frame_weeks,4,0,,,14,OG000,9.35,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+17,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,18C,OG000,2.50,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+17,outcome_overview_time_frame_weeks,4,0,,,18C,OG000,2.50,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+18,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,19F,OG000,3.75,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+18,outcome_overview_time_frame_weeks,4,0,,,19F,OG000,3.75,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+19,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,23F,OG000,1.83,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+19,outcome_overview_time_frame_weeks,4,0,,,23F,OG000,1.83,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+20,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,1,OG000,4.23,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+20,outcome_overview_time_frame_weeks,4,0,,,1,OG000,4.23,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+21,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,3,OG000,1.17,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+21,outcome_overview_time_frame_weeks,4,0,,,3,OG000,1.17,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+22,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,5,OG000,3.11,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+22,outcome_overview_time_frame_weeks,4,0,,,5,OG000,3.11,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+23,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,6A,OG000,4.08,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+23,outcome_overview_time_frame_weeks,4,0,,,6A,OG000,4.08,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+24,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,7F,OG000,3.71,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+24,outcome_overview_time_frame_weeks,4,0,,,7F,OG000,3.71,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+25,outcome_overview_dose_description,1m post dose 3 child,post dose 3 child,,,19A,OG000,4.19,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+25,outcome_overview_time_frame_weeks,4,0,,,19A,OG000,4.19,GMC for Serotype-specific Pneumococcal IgG Antibody After Dose 3 of the Infant Series
+26,outcome_overview_dose_description,1m post boost child,post boost child,,,4,OG000,5.10,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+26,outcome_overview_time_frame_weeks,4,0,,,4,OG000,5.10,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+27,outcome_overview_dose_description,1m post boost child,post boost child,,,6B,OG000,15.41,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+27,outcome_overview_time_frame_weeks,4,0,,,6B,OG000,15.41,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+28,outcome_overview_dose_description,1m post boost child,post boost child,,,9V,OG000,3.76,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+28,outcome_overview_time_frame_weeks,4,0,,,9V,OG000,3.76,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+29,outcome_overview_dose_description,1m post boost child,post boost child,,,14,OG000,10.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+29,outcome_overview_time_frame_weeks,4,0,,,14,OG000,10.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+30,outcome_overview_dose_description,1m post boost child,post boost child,,,18C,OG000,3.93,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+30,outcome_overview_time_frame_weeks,4,0,,,18C,OG000,3.93,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+31,outcome_overview_dose_description,1m post boost child,post boost child,,,19F,OG000,11.33,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+31,outcome_overview_time_frame_weeks,4,0,,,19F,OG000,11.33,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+32,outcome_overview_dose_description,1m post boost child,post boost child,,,23F,OG000,5.70,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+32,outcome_overview_time_frame_weeks,4,0,,,23F,OG000,5.70,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+33,outcome_overview_dose_description,1m post boost child,post boost child,,,1,OG000,5.86,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+33,outcome_overview_time_frame_weeks,4,0,,,1,OG000,5.86,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+34,outcome_overview_dose_description,1m post boost child,post boost child,,,3,OG000,1.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+34,outcome_overview_time_frame_weeks,4,0,,,3,OG000,1.62,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+35,outcome_overview_dose_description,1m post boost child,post boost child,,,5,OG000,4.75,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+35,outcome_overview_time_frame_weeks,4,0,,,5,OG000,4.75,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+36,outcome_overview_dose_description,1m post boost child,post boost child,,,6A,OG000,11.64,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+36,outcome_overview_time_frame_weeks,4,0,,,6A,OG000,11.64,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+37,outcome_overview_dose_description,1m post boost child,post boost child,,,7F,OG000,5.81,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+37,outcome_overview_time_frame_weeks,4,0,,,7F,OG000,5.81,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+38,outcome_overview_dose_description,1m post boost child,post boost child,,,19A,OG000,8.95,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose
+38,outcome_overview_time_frame_weeks,4,0,,,19A,OG000,8.95,GMC for Serotype-specific Pneumococcal IgG Antibody After the Toddler Dose

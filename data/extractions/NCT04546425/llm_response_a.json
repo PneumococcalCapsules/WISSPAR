@@ -9,14 +9,14 @@
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 2,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 2 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 2,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 2 child"
         }
       }
@@ -29,16 +29,16 @@
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         }
       }
     },
@@ -51,14 +51,14 @@
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }
@@ -72,14 +72,14 @@
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }
@@ -93,14 +93,14 @@
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }
@@ -114,14 +114,14 @@
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }
@@ -134,16 +134,16 @@
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
+          "dose_number": 2,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 2 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
+          "dose_number": 2,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 2 child"
         }
       }
     },
@@ -155,79 +155,79 @@
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
+          "dose_number": 3,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 3 child"
         }
       }
     },
     {
       "outcome_index": 8,
-      "assay": "GMC",
+      "assay": "OPA",
       "time_frame_weeks": 4,
       "groups": {
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 2,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 2 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 2,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 2 child"
         }
       }
     },
     {
       "outcome_index": 9,
-      "assay": "GMC",
+      "assay": "OPA",
       "time_frame_weeks": 4,
       "groups": {
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }
     },
     {
       "outcome_index": 10,
-      "assay": "GMC",
+      "assay": "OPA",
       "time_frame_weeks": 4,
       "groups": {
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
+          "dose_number": 2,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 2 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
+          "dose_number": 2,
+          "schedule": "3+1 child",
+          "dose_description": "1m post dose 2 child"
         }
       }
     },
@@ -239,120 +239,15 @@
         "OG000": {
           "vaccine": "PCV20",
           "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 12,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV20",
-          "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         },
         "OG001": {
           "vaccine": "PCV13",
           "manufacturer": "Pfizer",
           "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 13,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV20",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 14,
-      "assay": "GMC",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV20",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 15,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV20",
-          "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 2,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 2 child"
-        }
-      }
-    },
-    {
-      "outcome_index": 16,
-      "assay": "OPA",
-      "time_frame_weeks": 4,
-      "groups": {
-        "OG000": {
-          "vaccine": "PCV20",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
-          "dose_description": "1m post dose 3 child"
-        },
-        "OG001": {
-          "vaccine": "PCV13",
-          "manufacturer": "Pfizer",
-          "dose_number": 3,
-          "schedule": "2+1 child",
+          "schedule": "3+1 child",
           "dose_description": "1m post dose 3 child"
         }
       }

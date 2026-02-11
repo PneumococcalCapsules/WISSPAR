@@ -26,16 +26,7 @@ ARM: Prevnar 13™ (ACTIVE_COMPARATOR)
 
 ## Immunogenicity Outcome Measures
 
-### Outcome 0: "Percentage of Participants With Anti-Pneumococcal Polysaccharide (Anti-PnP) Immunoglobulin G (IgG) Antibody (Ab) ≥0.35 ug/mL One Month After Vaccination 3"
-Description: Anti-PnP serotype-specific IgG response rates for the 15 serotypes contained in V114 were measured with pneumococcal electrochemiluminescence (PnECL). The percentage of participants with IgG Ab ≥0.35 ug/mL are reported for each serotype.
-Timeframe: One month after Vaccination 3 (Month 7)
-ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 da...
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
-  Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
-
-### Outcome 1: "Geometric Mean Concentration (GMC) of Anti-PnP IgG Ab One Month After Vaccination 3"
+### Outcome 0: "Geometric Mean Concentration (GMC) of Anti-PnP IgG Ab One Month After Vaccination 3"
 Description: The GMC of anti-PnP IgG Ab were measured with PnECL one month after vaccination 3 and reported for the 15 serotypes contained in V114. IgG GMCs were compared to the lowest in recipients of Prevnar 13™ excluding serotype 3 for the 2 serotypes unique to V114, and compared to the same serotypes for the
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -44,7 +35,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
 
-### Outcome 2: "GMC of Anti-PnP IgG Ab One Month After Vaccination 4"
+### Outcome 1: "GMC of Anti-PnP IgG Ab One Month After Vaccination 4"
 Description: The GMC of anti-PnP IgG Ab were measured with PnECL one month after vaccination 4 and reported for the 15 serotypes contained in V114. IgG GMCs were compared to the lowest in recipients of Prevnar 13™ excluding serotype 3 for the 2 serotypes unique to V114, and compared to the same serotypes for the
 Timeframe: One month after Vaccination 4 (Month 13 to Month 16)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -53,25 +44,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
 
-### Outcome 3: "Percentage of Participants Meeting Response Rate Criteria for Pentacel™-Specific (Anti-Diptheria Toxoid, Tetanus Toxoid, and Pertussis Antigens) Immunoglobulin G (IgG) Antibody (Ab) Geometric Mean Concentration (GMC) One Month After Vaccination 3"
-Description: Antibody responses to diphtheria toxoid, tetanus toxoid, and pertussis antigens were measured using Luminex Assay. The percentage of participants meeting specific criteria are summarized for each serotype. The serotype-specific response rate criteria are as follows: diphtheria toxoid: % ≥0.1 IU/mL; 
-Timeframe: One month after Vaccination 3 (Month 7)
-ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 da...
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
-  Serotypes (10): "Diphtheria toxoid", "Tetanus toxoid", "Pertussis toxin", "Pertussis filamentous hemagglutinin", "Pertussis fimbrae types 2/3", ... +5 more
-
-### Outcome 4: "Pertussis Antigen Immunoglobulin G (IgG) Antibody (Ab) Geometric Mean Concentration (GMC) One Month After Vaccination 3"
-Description: Pertussis antibody GMCs were measured using Luminex Assay.
-Timeframe: One month after Vaccination 3 (Month 7)
-ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114" - Participants received a single 0.5 mL intramuscular (IM) injection of V114 on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 da...
-  OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
-  Serotypes (4): "Pertussis - PT", "Pertussis - FHA", "Pertussis - FIM 2/3", "Pertussis - PRN"
-
-### Outcome 5: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 3 for 2 Unique V114 Seroptypes"
+### Outcome 2: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 3 for 2 Unique V114 Seroptypes"
 Description: Serotype-specific anti-PnP IgG GMCs for the 2 unique V114 serotypes were measured with PnECL. The GMCs for each serotype are reported.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -80,7 +53,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (2): "22F", "33F"
 
-### Outcome 6: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Response Rates One Month After Vaccination 3 for 2 Unique V114 Seroptypes"
+### Outcome 3: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Response Rates One Month After Vaccination 3 for 2 Unique V114 Seroptypes"
 Description: Serotype-specific anti-PnP IgG response rates for the 2 unique V114 serotypes were measured with PnECL. The percentage of participants with IgG Ab ≥0.35 ug/mL are reported for each serotype.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 
@@ -89,7 +62,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (2): "Serotype 22F", "Serotype 33F"
 
-### Outcome 7: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMC) One Month After Vaccination 4 for 2 Unique V114 Seroptypes"
+### Outcome 4: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMC) One Month After Vaccination 4 for 2 Unique V114 Seroptypes"
 Description: Serotype-specific anti-PnP GMCs were measured with PnECL. The GMC for each serotype is reported.
 Timeframe: One month after Vaccination 4 (Month 13 to Month 16)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -98,7 +71,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (2): "22F", "33F"
 
-### Outcome 8: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMT) One Month After Vaccination 3"
+### Outcome 5: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMT) One Month After Vaccination 3"
 Description: Serotype-specific anti-PnP OPA GMTs were measured with multiplex opsonophagocytic assay (MOPA). The GMTs for each serotype are summarized.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: GEOMETRIC_MEAN | Unit: Titers | Dispersion: 95% Confidence Interval
@@ -107,7 +80,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
 
-### Outcome 9: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Opsonophagocytic Activity (OPA) Response Rates One Month After Vaccination 3"
+### Outcome 6: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype-Specific Opsonophagocytic Activity (OPA) Response Rates One Month After Vaccination 3"
 Description: Serotype-specific anti-PnP OPA GMTs were measured with MOPA. The percentage of participants meeting ≥0.35 ug/mL are reported for each serotype.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 95% Confidence Interval
@@ -116,7 +89,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
 
-### Outcome 10: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Response Rate One Month After Vaccination 3"
+### Outcome 7: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Response Rate One Month After Vaccination 3"
 Description: Serotype 3-specific anti-PnP IgG response rates were measured with PnECL. The percentage of participants with IgG Ab ≥0.35 ug/mL are reported for Serotype 3.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: NUMBER | Unit: Percentage of participants | Dispersion: 
@@ -125,7 +98,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (1): ""
 
-### Outcome 11: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 3"
+### Outcome 8: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 3"
 Description: Serotype 3-specific anti-PnP GMC was measured with PnECL.
 Timeframe: One month after Vaccination 3 (Month 7)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -134,7 +107,7 @@ Groups:
   OG001: "Prevnar 13™" - Participants received a single 0.5 mL IM injection of Prevnar 13™ on Day 1 from 42-90 days of age inclusive (Vaccination 1), Month 4 from 4 months of age to 1 day prior to 5 months of age (Vaccination 2), Month 6 from 6 months of age to 1 day prior t...
   Serotypes (1): ""
 
-### Outcome 12: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 4"
+### Outcome 9: "Anti-Pneumococcal Polysaccharide (Anti-PnP) Serotype 3-Specific Immunoglobulin G (IgG) Geometric Mean Concentration (GMC) One Month After Vaccination 4"
 Description: Serotype 3-specific anti-PnP GMC were measured with PnECL.
 Timeframe: One month after Vaccination 4 (Month 13 to Month 16)
 ParamType: GEOMETRIC_MEAN | Unit: ug/mL | Dispersion: 95% Confidence Interval
@@ -164,7 +137,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -187,10 +160,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -216,7 +190,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

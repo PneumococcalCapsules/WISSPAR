@@ -69,33 +69,6 @@ Groups:
   OG001: "Prevnar 13®, Schedule C: Participants 2-17 Years" - Each participant received a 0.5 mL IM injection for 2 to 17 years of age (PCV-naïve or PCV-experienced)(1 dose). Single dose administered at randomization and at least 8 weeks after previous PCV for participants who were PCV-experienced.
   Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
 
-### Outcome 3: "Percentage of Participants Meeting Serotype-specific IgG Threshold Value of ≥0.35 μg/mL for Each of the 15 Serotypes - Schedule A: 7-11 Months"
-Description: Sera from participants was used to measure vaccine-induced anti-PnPs serotype-specific IgG for all the 15 serotypes using PnECL assay. The percentage that achieved the IgG threshold value of ≥0.35 μg/mL was summarized. Estimated within-group CIs are calculated based on the exact binomial method prop
-Timeframe: 30 days post final vaccination
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114, Schedule A: Participants 7-11 Months" - Each participant received a 0.5 mL intramuscular (IM) injection for 7 to 11 months of age (Pneumococcal conjugate vaccine \[PCV\]-naïve)(3 doses). Dose 1: at randomization, Dose 2: 4 to 8 weeks after Dose 1, and Dose 3: 8 to 12 weeks after Dose 2 and...
-  OG001: "Prevnar 13®, Schedule A: Participants 7-11 Months" - Each participant received a 0.5 mL IM injection for 7 to 11 months of age (PCV-naïve)(3 doses). Dose 1: at randomization, Dose 2: 4 to 8 weeks after Dose 1, and Dose 3: 8 to 12 weeks after Dose 2 and ≥12 months of age.
-  Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
-
-### Outcome 4: "Percentage of Participants Meeting Serotype-specific IgG Threshold Value of ≥0.35 μg/mL for Each of the 15 Serotypes - Schedule B: 12-23 Months"
-Description: Sera from participants was used to measure vaccine-induced anti-PnPs serotype-specific IgG for all the 15 serotypes using PnECL assay. The percentage that achieved the IgG threshold value of ≥0.35 μg/mL was summarized. Estimated within-group CIs are calculated based on the exact binomial method prop
-Timeframe: 30 days post final vaccination
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114, Schedule B: Participants 12-23 Months" - Each participant received a 0.5 mL IM injection for 12 to 23 months of age (PCV-naïve)(2 doses). Dose 1: at randomization, and Dose 2: 8 to 12 weeks after Dose 1.
-  OG001: "Prevnar 13®, Schedule B: Participants 12-23 Months" - Each participant received a 0.5 mL IM injection for 12 to 23 months of age (PCV-naïve)(2 doses). Dose 1: at randomization, and Dose 2: 8 to 12 weeks after Dose 1.
-  Serotypes (15): "Serotype 1", "Serotype 3 (n=56,60)", "Serotype 4 (n=56,60)", "Serotype 5 (n=56,60)", "Serotype 6A (n=56,60)", ... +10 more
-
-### Outcome 5: "Percentage of Participants Meeting Serotype-specific IgG Threshold Value of ≥0.35 μg/mL for Each of the 15 Serotypes - Schedule C: 2-17 Years"
-Description: Sera from participants was used to measure vaccine-induced anti-PnPs serotype-specific IgG for all the 15 serotypes using PnECL assay. The percentage that achieved the IgG threshold value of ≥0.35 μg/mL was summarized. Estimated within-group CIs are calculated based on the exact binomial method prop
-Timeframe: 30 days post vaccination
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114, Schedule C: Participants 2-17 Years" - Each participant received a 0.5 mL IM injection for 2 to 17 years of age (PCV-naïve or PCV-experienced) (1 dose). Single dose administered at randomization and at least 8 weeks after previous PCV for participants who were PCV-experienced.
-  OG001: "Prevnar 13®, Schedule C: Participants 2-17 Years" - Each participant received a 0.5 mL IM injection for 2 to 17 years of age (PCV-naïve or PCV-experienced)(1 dose). Single dose administered at randomization and at least 8 weeks after previous PCV for participants who were PCV-experienced.
-  Serotypes (15): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +10 more
-
 ## Vaccine Reference (use these standardized names)
   - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
   - PCV10 (Synflorix) (manufacturer: GSK)
@@ -117,7 +90,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -140,10 +113,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -169,7 +143,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

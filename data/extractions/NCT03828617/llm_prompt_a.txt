@@ -44,36 +44,6 @@ Groups:
   OG002: "20vPnC Lot 3" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 3 on Day 1. Participants were followed up to 6 months after vaccination.
   Serotypes (20): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +15 more
 
-### Outcome 1: "Serotype-specific Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination"
-Description: Fold rises are the ratios of the 1 month after vaccination to before vaccination OPA titers. OPA GMFRs from before to 1 month after vaccination were calculated along with corresponding 2-sided 95% CIs for pneumococcal serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F, 8, 10A, 11A, 12F, 15
-Timeframe: Before vaccination to 1 month after vaccination
-ParamType: GEOMETRIC_MEAN | Unit: fold rise | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "20vPnC Lot 1" - Participants were randomized to receive a single 0.5 milliliter (mL) intramuscular injection of 20-valent pneumococcal vaccine (20vPnC) from Lot 1 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG001: "20vPnC Lot 2" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 2 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG002: "20vPnC Lot 3" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 3 on Day 1. Participants were followed up to 6 months after vaccination.
-  Serotypes (20): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +15 more
-
-### Outcome 2: "Percentage of Participants With Greater Than or Equal to (>=) 4 -Fold Rise in Serotype-specific Pneumococcal Opsonophagocytic Activity (OPA) Titers From Before Vaccination to 1 Month After Vaccination"
-Description: Percentage of participants with a \>=4-fold rise in serotype-specific pneumococcal OPA titers from before vaccination to 1 month after vaccination along with corresponding 2-sided 95% CIs were calculated for pneumococcal serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, 23F, 8, 10A, 11A, 12F,
-Timeframe: Before vaccination to 1 month after vaccination
-ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "20vPnC Lot 1" - Participants were randomized to receive a single 0.5 milliliter (mL) intramuscular injection of 20-valent pneumococcal vaccine (20vPnC) from Lot 1 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG001: "20vPnC Lot 2" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 2 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG002: "20vPnC Lot 3" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 3 on Day 1. Participants were followed up to 6 months after vaccination.
-  Serotypes (20): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +15 more
-
-### Outcome 3: "Percentage of Participants With Serotype-specific Opsonophagocytic Activity (OPA) Titers Greater Than or Equal to Lower Limit of Quantitation (>= LLOQ) at 1 Month After Vaccination"
-Description: The percentage of participants with OPA titers \>=LLOQ were calculated along with corresponding 2-sided 95% CIs for pneumococcal serotypes 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, and 33F. Data for this outcome measure was planned to be analyzed for the 20vPnC 
-Timeframe: 1 month after vaccination
-ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "20vPnC Lot 1" - Participants were randomized to receive a single 0.5 milliliter (mL) intramuscular injection of 20-valent pneumococcal vaccine (20vPnC) from Lot 1 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG001: "20vPnC Lot 2" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 2 on Day 1. Participants were followed up to 6 months after vaccination.
-  OG002: "20vPnC Lot 3" - Participants were randomized to receive a single 0.5 mL intramuscular injection of 20vPnC from Lot 3 on Day 1. Participants were followed up to 6 months after vaccination.
-  Serotypes (20): "Serotype 1", "Serotype 3", "Serotype 4", "Serotype 5", "Serotype 6A", ... +15 more
-
 ## Vaccine Reference (use these standardized names)
   - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
   - PCV10 (Synflorix) (manufacturer: GSK)
@@ -95,7 +65,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -118,10 +88,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -147,7 +118,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

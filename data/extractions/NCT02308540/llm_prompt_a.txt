@@ -77,16 +77,7 @@ Groups:
   OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Day 0, 28 and 56
   Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
 
-### Outcome 3: "Geometric Mean Fold Rise (GMFR) of Immunoglobulin G (IgG) in Toddlers, by Serotype"
-Description: Serum samples were collected before the first vaccination and 28 days after the last vaccination for adults and toddlers and 28 days after the completion of the primary series for infants to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10. Blood samples were also co
-Timeframe: 4 weeks after vaccination (28 days)
-ParamType: GEOMETRIC_MEAN | Unit: fold change | Dispersion: 90% Confidence Interval
-Groups:
-  OG000: "Toddler--PCV 10" - Single dose of SIILPCV 10 on Day 0
-  OG001: "Toddler--Prevenar 13" - Single dose of Prevenar 13 on Day 0
-  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
-
-### Outcome 4: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Among Infants, by Serotype"
+### Outcome 3: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Among Infants, by Serotype"
 Description: Seroresponse was defined as ≥ 0.35 µg/mL. In infants, serum samples were collected 28 days after receipt of three doses of the vaccine to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10.
 Timeframe: 4 weeks after third dose
 ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
@@ -95,7 +86,7 @@ Groups:
   OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
   Serotypes (10): "Pn-IgG-ELISA type 1", "Pn-IgG-ELISA type 5", "Pn-IgG-ELISA type 6A", "Pn-IgG-ELISA type 6B", "Pn-IgG-ELISA type 7F", ... +5 more
 
-### Outcome 5: "Functional Antibody (OPA) Geometric Mean Titers"
+### Outcome 4: "Functional Antibody (OPA) Geometric Mean Titers"
 Description: The functional activity of the IgG response to the 10 serotypes contained in SIILPCV10 was determined in randomly selected subsets of the infant and toddler cohorts and all adult subjects in the same serum samples collected 28 days after the last vaccinations. This activity was determined using the 
 Timeframe: 4 weeks after last vaccination
 ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 90% Confidence Interval
@@ -108,7 +99,7 @@ Groups:
   OG005: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
   Serotypes (10): "MOPA - Pn 1", "MOPA - Pn 5", "MOPA - Pn 6A", "MOPA - 6B", "MOPA - 7F", ... +5 more
 
-### Outcome 6: "Number and Percentage of Functional (OPA) Infant Seroresponders, by Serotype"
+### Outcome 5: "Number and Percentage of Functional (OPA) Infant Seroresponders, by Serotype"
 Description: The functional activity of the immune response to the 10 serotypes contained in SIILPCV10 was determined in randomly selected subsets of the infant cohort in the same serum samples collected 28 days after the completion of the primary series. This activity was determined using the 4-fold multiplexed
 Timeframe: 84 days
 ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
@@ -117,7 +108,7 @@ Groups:
   OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
   Serotypes (10): "MOPA - Pn 1", "MOPA - Pn 5", "MOPA - Pn 6A", "MOPA - 6B", "MOPA - 7F", ... +5 more
 
-### Outcome 7: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Against Pentavalent Vaccine Components"
+### Outcome 6: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Against Pentavalent Vaccine Components"
 Description: Serum samples were collected 28 days after the third vaccination for infants to determine the ELISA IgG concentration for each component of the co administered pentavalent vaccine (DTwP-HepB-Hib) . Seroresponse was defined as equal to or greater concentrations for:
 
 * Diptheria toxoid: 0.1 IU/mL
@@ -129,7 +120,7 @@ Groups:
   OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
   Serotypes (4): "Diphtheria toxoid", "Hepatitis B", "Hib (anti-PRP antibodies)", "Tetanus toxoid"
 
-### Outcome 8: "Geometric Mean Concentration (GMC) of Immunoglobulin G (IgG) by Time Point (4 Weeks Post Vaccination 3, Pre Booster, 4 Weeks Post Booster) Among Infants Receiving Booster Dose"
+### Outcome 7: "Geometric Mean Concentration (GMC) of Immunoglobulin G (IgG) by Time Point (4 Weeks Post Vaccination 3, Pre Booster, 4 Weeks Post Booster) Among Infants Receiving Booster Dose"
 Description: Using enzyme-linked immunosorbent assay (ELISA). Blood samples were collected for immunogenicity testing at 4 weeks post vaccination 3, and before and 28 days after the booster dose for infants.
 Timeframe: 4 weeks (28 days)
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 90% Confidence Interval
@@ -139,17 +130,7 @@ Groups:
   OG002: "Treatment Comparison (GMC Ratio)" - This column is the GMC Ratio between the SIILPCV 10 and the Prevenar 13 groups
   Serotypes (30): "PnC-IgG-ELISA Type 1: 4 weeks post Vac 3", "PnC-IgG-ELISA Type 1: Pre Booster", "PnC-IgG-ELISA Type 1: Post Booster", "PnC-IgG-ELISA Type 5: 4 weeks post Vac 3", "PnC-IgG-ELISA Type 5: Pre Booster", ... +25 more
 
-### Outcome 9: "Geometric Mean Fold Rise (GMFR) in Immunoglobulin G (IgG) Among Infants Receiving a Booster Dose"
-Description: Using enzyme-linked immunosorbent assay (ELISA). Blood samples were collected for immunogenicity testing before and 28 days after the booster dose for infants.
-Timeframe: 4 weeks (28 days)
-ParamType: GEOMETRIC_MEAN | Unit: fold change | Dispersion: 90% Confidence Interval
-Groups:
-  OG000: "Infant--PCV 10" - Booster dose of SIILPCV 10 at 10 months of age
-  OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
-  OG002: "GMFR Ratio" - This column is the GMFR ratio between the SIILPCV 10 group and the Prevenar 13 group.
-  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
-
-### Outcome 10: "Antibody Persistence of Immunoglobulin G (IgG) Geometric Mean Concentration Among Infants Receiving a Booster Dose"
+### Outcome 8: "Antibody Persistence of Immunoglobulin G (IgG) Geometric Mean Concentration Among Infants Receiving a Booster Dose"
 Description: Defined as the ratio of IgG geometric mean concentration (GMC) measured prior to the infant booster dose, to GMC measured 4 weeks after the 3-dose primary series. Infants received the booster dose at least four weeks after they received routine Expanded Program on Immunization (EPI) vaccines, which 
 Timeframe: 20-23 weeks
 ParamType: GEOMETRIC_MEAN | Unit: concentration ratio | Dispersion: 90% Confidence Interval
@@ -158,7 +139,7 @@ Groups:
   OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
   Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
 
-### Outcome 11: "Booster Effect: Ratio of Immunoglobulin G (IgG) Geometric Mean Concentration 4 Weeks Post Vaccination 3 Versus 4 Weeks Post Booster Among Infants Receiving a Booster Dose"
+### Outcome 9: "Booster Effect: Ratio of Immunoglobulin G (IgG) Geometric Mean Concentration 4 Weeks Post Vaccination 3 Versus 4 Weeks Post Booster Among Infants Receiving a Booster Dose"
 Description: Defined as the ratio of IgG geometric mean concentration (GMC) measured 4 weeks post-infant booster dose, to GMC measured 4 weeks after the 3-dose primary series. Infants received the booster dose at least four weeks after they received routine Expanded Program on Immunization (EPI) vaccines, which 
 Timeframe: 24-26 weeks
 ParamType: GEOMETRIC_MEAN | Unit: concentration ratio | Dispersion: 90% Confidence Interval
@@ -188,7 +169,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -211,10 +192,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -240,7 +222,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

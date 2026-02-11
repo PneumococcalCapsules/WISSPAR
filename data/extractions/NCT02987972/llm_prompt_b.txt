@@ -30,17 +30,7 @@ ARM: Prevnar 13™ (ACTIVE_COMPARATOR)
 
 ## Immunogenicity Outcome Measures
 
-### Outcome 0: "Percentage of Participants Achieving the Serotype-specific Pneumococcal Immunoglobulin G (IgG) Antibody Threshold Value of ≥0.35 µg/mL for the 13 Common Serotypes in V114 and Prevnar 13™: 1 Month Post Vaccination 3"
-Description: Serotype-specific pneumococcal IgG antibody was measured using the Meso-Scale Discovery (MSD) Pneumococcal electrochemiluminescence assay (Pn ECL). The percentage of participants with serotype-specific IgG ≥0.35 µg/mL was summarized for each serotype.
-Timeframe: 1 month post vaccination 3 (Month 5)
-ParamType: NUMBER | Unit: Percentage of Participants | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "V114 Lot 1" - Infants received a 0.5 mL intramuscular injection of V114 Lot 1 at 2, 4, 6, and 12-15 months of age (Study Day 1, Month 2, Month 4, and Month 10-13)
-  OG001: "V114 Lot 2" - Infants received a 0.5 mL intramuscular injection of V114 Lot 2 at 2, 4, 6, and 12-15 months of age (Study Day 1, Month 2, Month 4, and Month 10-13)
-  OG002: "Prevnar 13™" - Infants received a 0.5 mL intramuscular injection of Prevnar 13™ at 2, 4, 6, and 12-15 months of age (Study Day 1, Month 2, Month 4, and Month 10-13)
-  Serotypes (13): "Type 1", "Type 3", "Type 4", "Type 5", "Type 6A", ... +8 more
-
-### Outcome 1: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar 13™ and the 2 Serotypes Unique to V114: 1 Month Post Vaccination 3"
+### Outcome 0: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar 13™ and the 2 Serotypes Unique to V114: 1 Month Post Vaccination 3"
 Description: Serotype-specific pneumococcal IgG antibody will be assayed using the Meso-Scale Discovery (MSD) Pn electrochemiluminescence assay. The geometric mean concentration (GMC) of serotype-specific IgG will be assessed.
 Timeframe: 1 month post Vaccination 3 (Month 5)
 ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -50,7 +40,7 @@ Groups:
   OG002: "Prevnar 13™" - Infants received a 0.5 mL intramuscular injection of Prevnar 13™ at 2, 4, 6, and 12-15 months of age (Study Day 1, Month 2, Month 4, and Month 10-13)
   Serotypes (15): "Type 1", "Type 3", "Type 4", "Type 5", "Type 6A", ... +10 more
 
-### Outcome 2: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar and the 2 Serotypes Unique to V114: Pre-vaccination 4"
+### Outcome 1: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar and the 2 Serotypes Unique to V114: Pre-vaccination 4"
 Description: Serotype-specific pneumococcal IgG antibody was assayed using the MSD Pn electrochemiluminescence assay.
 Timeframe: Before Vaccination 4 (Month 10 to 13)
 ParamType: MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -60,7 +50,7 @@ Groups:
   OG002: "Prevnar 13™" - Infants received a 0.5 mL intramuscular injection of Prevnar 13™ at 2, 4, 6, and 12-15 months of age (Study Day 1, Month 2, Month 4, and Month 10-13)
   Serotypes (15): "Type 1", "Type 3", "Type 4", "Type 5", "Type 6A", ... +10 more
 
-### Outcome 3: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar and the 2 Serotypes Unique to V114: 1 Month Post Vaccination 4"
+### Outcome 2: "Geometric Mean Concentration of Serotype-specific Pneumococcal IgG Antibody for the 13 Common Serotypes in V114 and Prevnar and the 2 Serotypes Unique to V114: 1 Month Post Vaccination 4"
 Description: Serotype-specific pneumococcal IgG antibody was assayed using the MSD Pn electrochemiluminescence assay.
 Timeframe: 1 month post vaccination 4 (Month 11-14)
 ParamType: MEAN | Unit: µg/mL | Dispersion: 95% Confidence Interval
@@ -91,7 +81,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -114,10 +104,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -143,7 +134,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.

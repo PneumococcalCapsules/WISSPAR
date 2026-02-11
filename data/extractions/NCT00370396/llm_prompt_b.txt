@@ -50,66 +50,6 @@ Groups:
   OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
   Serotypes (20): "Opsono-1 PRE", "Opsono-1 Month 1", "Opsono-4 PRE", "Opsono-4 Month 1", "Opsono-5 PRE", ... +15 more
 
-### Outcome 2: "Antibody Concentrations to Protein D (Anti-PD) - by Enzyme-Linked Immunosorbent Assay (ELISA)"
-Description: Anti-protein D (Anti-PD) antibody concentrations by Enzyme-Linked Immunosorbent Assay (ELISA) were calculated, expressed as geometric mean concentrations (GMCs) in ELISA unit per milli-liter (EL.U/mL) and tabulated. The seropositivity cut-off for the assay was ≥ 100 EL.U/mL. Antibody concentrations 
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: EL.U/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (2): "Anti-PD, PRE", "Anti-PD, Month 1"
-
-### Outcome 3: "Anti-polyribosyl Ribitol Phosphate (Anti-PRP) Antibody Concentrations"
-Description: Anti-PRP antibody concentrations were calculated, expressed as geometric mean concentrations (GMCs), in microgram per milliliter (µg/mL), and tabulated. The seroprotection cut-off for the assay for the purpose of this endpoint was ≥ 0.15 µg/mL. Antibody concentrations below the cut-off of the assay 
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: μg/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (2): "Anti-PRP, PRE", "Anti-PRP, Month 1"
-
-### Outcome 4: "Anti-pertussis Toxoid (Anti-PT), Anti- Filamentous Haemagglutinin (Anti-FHA) and Anti-pertactin (Anti-PRN) Antibody Concentrations"
-Description: Anti-PT, Anti-FHA and Anti-PRN concentrations measured by Enzyme-Linked Immunosorbent Assay (ELISA) were calculated, expressed as geometric mean concentrations (GMCs) in ELISA unit per milli-liter (EL.U/mL) and tabulated. The seropositivity cut-off for the assay was ≥ 5 EL.U/mL. Antibody concentrati
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: EL.U/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (6): "Anti-PT, PRE", "Anti-PT, Month 1", "Anti-FHA, PRE", "Anti-FHA, Month 1", "Anti-PRN, PRE", ... +1 more
-
-### Outcome 5: "Anti-diphtheria (Anti-D) and Anti-tetanus Toxoids (Anti-TT) Antibody Concentrations"
-Description: Anti-D and Anti-TT antibody concentrations were calculated, expressed as geometric mean concentrations (GMCs), in International units per milliliter (IU/mL), and tabulated. The seropositivity cut-off for the assay was ≥ 0.1 IU/mL. Antibody concentrations below the cut-off of the assay were given an 
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: EL.U/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (4): "Anti-D, PRE", "Anti-D, Month 1", "Anti-TT, PRE", "Anti-TT, Month 1"
-
-### Outcome 6: "Anti-hepatitis B Surface Antigen (HBs) Antibody Concentrations"
-Description: Anti-HBs antibody concentrations were calculated, expressed as geometric mean concentrations (GMCs), in milli-International unit per milliliter (IU/mL), and tabulated. The seropositivity cut-off for the assay was ≥ 10 mIU/mL. Antibody concentrations below the cut-off of the assay were given an arbit
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: mIU/mL | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (2): "Anti-HBs, PRE", "Anti-HBs, Month 1"
-
-### Outcome 7: "Anti-polio Type 1, 2 and 3 (Anti-Polio 1, 2 and 3) Antibody Titers"
-Description: Anti-Polio 1, 2 and 3 antibody titers were calculated, expressed as geometric mean titers (GMTs) and tabulated. The seroprotection cut-off for the assay was ≥ 8. Antibody titers below the cut-off of the assay were given an arbitrary value of half the cut-off for the purpose of GMT calculation. For t
-Timeframe: Prior to (PRE) and one month (Month 1) post booster vaccination
-ParamType: GEOMETRIC_MEAN | Unit: Titers | Dispersion: 95% Confidence Interval
-Groups:
-  OG000: "Synflorix-Synflorix Group" - This group consisted of subjects previously vaccinated with the Synflorix™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receiv...
-  OG001: "Prevenar-Prevenar Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  OG002: "Prevenar-Synflorix Group" - This group consisted of subjects previously vaccinated with the Prevenar™ vaccine as part of a previous study by GSK Biologicals - the 10PN-PD-DIT-001 (105553) study (EuDRA-CT number: 2005-003300-11). As part of the 105553 study, subjects had receive...
-  Serotypes (6): "Anti-Polio 1, PRE", "Anti-Polio 1, Month 1", "Anti-Polio 2, PRE", "Anti-Polio 2 , Month 1", "Anti-Polio 3, PRE", ... +1 more
-
 ## Vaccine Reference (use these standardized names)
   - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
   - PCV10 (Synflorix) (manufacturer: GSK)
@@ -131,7 +71,7 @@ Analyze each outcome measure and its groups. Return ONLY a JSON object (no markd
     {
       "outcome_index": 0,
       "assay": "OPA" or "GMC",
-      "time_frame_weeks": <integer or null>,
+      "time_frame_weeks": <integer>,
       "groups": {
         "<group_id>": {
           "vaccine": "<standardized vaccine name>",
@@ -154,10 +94,11 @@ ASSAY:
 - "Unknown" only if truly unclear.
 
 TIME_FRAME_WEEKS:
-- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- Integer weeks from the most recent dose to the measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
 - "1 month after vaccination" = 4. "6 months after dose 3" = 26.
 - This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
-- null only if truly not determinable from the timeframe text.
+- IMPORTANT: Every outcome has a timeframe. You MUST return an integer for EVERY outcome — never return null. The timeFrame field in every outcome measure contains enough information to derive this value. Common patterns: "1 month after" = 4, "one month after" = 4, "approximately 1 month" = 4, "28 days" = 4, "4 weeks" = 4, "6 months" = 26, "1 year" = 52. For pre-vaccination/baseline measurements, use 0.
+- If the timeframe text spans multiple timepoints (e.g., "before and after the toddler dose"), determine which specific timepoint THIS outcome measures based on the serotype classes (PRE/POST labels) or outcome context, and return the weeks for that specific timepoint.
 
 DOSE_NUMBER:
 - The total number of vaccine doses the participant has received AT THE TIME of this measurement.
@@ -183,7 +124,11 @@ VACCINE:
 - For new/unknown vaccines: use "PCV{valency} ({brand/company})".
 
 MANUFACTURER:
-- Use these EXACT short names (matching the vaccine reference list):
+- You MUST use ONLY these exact short names — no other forms are accepted:
   Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
-- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
-- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.
+- Mapping (use the SHORT NAME on the left, never the long form on the right):
+  GSK = GlaxoSmithKline, GlaxoSmithKline Biologicals, GlaxoSmithKline LLC
+  MSD = Merck, Merck & Co, Merck Sharp & Dohme, Merck Sharp & Dohme LLC, Merck Sharp & Dohme Corp
+  Pfizer = Pfizer Inc, Wyeth, Wyeth-Lederle, Wyeth Pharmaceuticals
+  Serum Institute of India = Serum Institute of India Pvt. Ltd.
+- If the sponsor or intervention text contains ANY of the long forms above, you MUST convert to the short name. This is a strict requirement.
