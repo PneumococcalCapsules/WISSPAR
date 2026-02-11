@@ -1,0 +1,521 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,70.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+1,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,84.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+2,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,58.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+3,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,75.8,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+4,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,68.6,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+5,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,79.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+6,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,63.4,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+7,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,76.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+8,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,59.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+9,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,73.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+10,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,20.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+11,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,36.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+12,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,87.6,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+13,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,90.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+14,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,60.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+15,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,74.6,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+16,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,78.6,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+17,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,81.9,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+18,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,71.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+19,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,76.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+20,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,92.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+21,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,94.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+22,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,94.3,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+23,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,95.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+24,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,23.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+25,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,41.8,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+26,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,96.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+27,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,2.9,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+28,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,28.9,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+29,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,2.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+30,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,94.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+31,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,2.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+32,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,30.3,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+33,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.2,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+34,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,94.3,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+35,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,8.5,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+36,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,94.4,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+37,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,2.0,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+38,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,46.8,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+39,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,2.7,Percentage of Participants With Predefined Pneumococcal Immunoglobulin G (IgG) Antibody 1 Month After Dose 2: Primary Study Population
+40,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,0.57,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+41,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,0.93,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+42,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,0.41,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+43,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,0.58,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+44,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,0.55,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+45,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,0.92,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+46,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,0.34,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+47,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,0.56,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+48,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,0.45,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+49,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,0.84,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+50,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,0.03,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+51,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,0.06,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+52,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,1.02,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+53,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,1.41,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+54,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,0.45,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+55,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,0.77,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+56,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,1.05,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+57,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,1.28,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+58,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,0.69,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+59,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,0.87,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+60,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,0.67,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+61,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,1.13,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+62,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,2.21,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+63,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,3.06,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+64,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,0.13,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+65,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,0.25,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+66,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,1.62,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+67,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,0.02,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+68,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,0.16,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+69,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,0.02,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+70,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,1.62,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+71,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,0.02,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+72,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,0.15,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+73,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.01,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+74,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,3.33,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+75,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,0.04,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+76,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,2.25,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+77,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,0.01,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+78,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,0.31,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+79,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,0.03,Geometric Mean Concentration (GMC) of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Primary Study Population
+80,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,1.71,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+81,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,2.53,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+82,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,0.72,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+83,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,1.09,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+84,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,4.11,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+85,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,5.36,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+86,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,1.74,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+87,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,2.41,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+88,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,7.75,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+89,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,11.82,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+90,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,2.64,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+91,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,4.63,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+92,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,3.61,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+93,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,4.93,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+94,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,3.68,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+95,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,5.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+96,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,4.52,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+97,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,5.66,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+98,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,2.71,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+99,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,3.61,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+100,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,4.51,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+101,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,5.49,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+102,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,6.19,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+103,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,8.08,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+104,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,2.64,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+105,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,4.40,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+106,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,3.57,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+107,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,0.03,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+108,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,4.86,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+109,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,0.01,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+110,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,3.74,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+111,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+112,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,1.86,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+113,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.01,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+114,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,13.09,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+115,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+116,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,9.27,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+117,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,0.00,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+118,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,6.37,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+119,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,0.01,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+120,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,70.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+121,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,77.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+122,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,37.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+123,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,59.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+124,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,75.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+125,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,74.1,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+126,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,66.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+127,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,81.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+128,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,54.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+129,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,81.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+130,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,20.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+131,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,59.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+132,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,95.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+133,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,92.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+134,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,41.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+135,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,81.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+136,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,83.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+137,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,85.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+138,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,66.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+139,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,81.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+140,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,87.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+141,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,92.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+142,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,79.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+143,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,96.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+144,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,37.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+145,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,70.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+146,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,75.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+147,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,33.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+148,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,41.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+149,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,18.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+150,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,83.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+151,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,18.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+152,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,12.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+153,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,14.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+154,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,66.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+155,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,33.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+156,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,66.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+157,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,14.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+158,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,45.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+159,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,25.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+160,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,0.76,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+161,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,1.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+162,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,0.28,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+163,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,0.47,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+164,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,0.67,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+165,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,1.00,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+166,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,0.53,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+167,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,0.75,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+168,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,0.45,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+169,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,1.57,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+170,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,0.07,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+171,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,0.27,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+172,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,1.06,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+173,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,1.89,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+174,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,0.44,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+175,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,1.22,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+176,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,1.56,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+177,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,2.66,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+178,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,0.94,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+179,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,0.94,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+180,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,1.15,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+181,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,1.21,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+182,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,1.51,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+183,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,3.32,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+184,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,0.25,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+185,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,0.73,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+186,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,0.79,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+187,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,0.07,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+188,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,0.31,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+189,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,0.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+190,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,0.83,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+191,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,0.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+192,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,0.06,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+193,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+194,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,1.19,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+195,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,0.16,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+196,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,0.48,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+197,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+198,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,0.40,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+199,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,0.07,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 2: Russian Cohort
+200,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,1.61,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+201,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,1.65,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+202,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,0.84,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+203,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,0.57,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+204,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,3.05,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+205,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,3.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+206,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,1.50,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+207,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,1.72,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+208,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,6.63,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+209,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,5.63,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+210,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,1.94,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+211,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,1.49,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+212,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,3.53,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+213,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,4.14,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+214,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,2.32,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+215,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,2.27,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+216,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,4.01,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+217,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,5.06,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+218,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,2.60,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+219,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,2.64,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+220,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,4.81,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+221,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,2.69,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+222,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,4.97,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+223,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,4.58,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+224,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,3.52,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+225,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,2.96,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+226,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,1.33,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+227,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,0.09,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+228,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,1.99,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+229,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,0.03,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+230,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,1.50,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+231,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,0.06,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+232,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,0.17,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+233,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+234,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,4.90,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+235,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,0.07,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+236,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,1.52,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+237,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,0.02,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+238,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,1.38,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+239,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,0.04,GMC of Serotype-specific Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+240,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,97.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+241,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,98.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+242,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,82.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+243,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,93.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+244,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+245,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+246,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,98.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+247,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,98.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+248,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,98.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+249,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,98.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+250,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,98.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+251,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,97.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+252,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,99.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+253,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+254,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+255,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,98.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+256,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,96.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+257,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,98.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+258,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+259,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,98.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+260,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,99.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+261,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,99.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+262,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,99.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+263,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,99.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+264,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,96.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+265,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,97.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+266,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+267,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,3.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+268,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,97.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+269,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,1.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+270,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,98.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+271,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,4.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+272,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,96.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+273,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,0.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+274,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,99.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+275,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,4.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+276,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,99.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+277,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,1.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+278,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,98.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+279,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,1.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Primary Study Population
+280,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,14,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+281,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,23,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+282,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,31,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+283,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,40,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+284,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,333,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+285,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,391,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+286,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,21,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+287,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,27,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+288,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,347,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+289,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,409,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+290,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,54,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+291,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,105,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+292,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,858,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+293,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,895,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+294,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,233,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+295,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,285,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+296,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,287,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+297,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,360,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+298,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,588,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+299,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,719,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+300,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,57,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+301,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,91,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+302,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,97,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+303,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,117,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+304,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,59,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+305,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,68,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+306,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,164,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+307,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,17,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+308,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,855,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+309,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,39,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+310,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,327,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+311,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,49,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+312,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,4788,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+313,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,26,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+314,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,846,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+315,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,17,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+316,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,4444,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+317,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,10,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+318,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,2373,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+319,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,178,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 2: Primary Study Population
+320,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,54,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+321,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,101,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+322,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,99,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+323,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,129,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+324,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,904,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+325,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,992,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+326,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,60,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+327,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,82,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+328,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,1101,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+329,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,1304,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+330,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,537,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+331,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,864,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+332,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,1811,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+333,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,2197,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+334,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,3254,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+335,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,4544,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+336,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,738,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+337,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,926,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+338,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,1296,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+339,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,1870,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+340,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,754,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+341,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,707,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+342,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,183,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+343,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,258,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+344,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,697,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+345,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,975,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+346,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,1398,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+347,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,31,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+348,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,3403,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+349,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,69,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+350,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,2966,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+351,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,66,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+352,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,5501,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+353,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,29,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+354,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,2676,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+355,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,23,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+356,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,6523,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+357,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,17,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+358,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,11315,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+359,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,708,Geometric Mean Titers (GMTs) of Serotype-specific Opsonophagocytic Activity (OPA) 1 Month After Dose 3: Primary Study Population
+360,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,13.9,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+361,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,13.9,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+362,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,13.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+363,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,15.2,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+364,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,29.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+365,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,27.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+366,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,14.0,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+367,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,13.6,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+368,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,26.9,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+369,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,28.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+370,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,36.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+371,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,40.2,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+372,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,8.5,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+373,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,9.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+374,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,22.5,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+375,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,19.9,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+376,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,9.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+377,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,8.4,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+378,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,15.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+379,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,17.0,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+380,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,39.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+381,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,40.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+382,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,20.5,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+383,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,21.4,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+384,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,32.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+385,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,38.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+386,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,12.7,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+387,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,1.4,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+388,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,14.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+389,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,1.1,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+390,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,13.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+391,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,1.1,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+392,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,16.5,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+393,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,1.0,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+394,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,13.4,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+395,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,1.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+396,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,12.8,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+397,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,1.3,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+398,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,12.9,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+399,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,1.1,Geometric Mean Fold Rise (GMFRs) of IgG Concentrations From Before Dose 3 to 1 Month After Dose 3: Primary Study Population
+400,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+401,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,83.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+402,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,68.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+403,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,50.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+404,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,95.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+405,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+406,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+407,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,91.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+408,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,95.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+409,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+410,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+411,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,91.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+412,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,95.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+413,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+414,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+415,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,83.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+416,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+417,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+418,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+419,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,95.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+420,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+421,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,95.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+422,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,100.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+423,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,91.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+424,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+425,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,79.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+426,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,68.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+427,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,25.0,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+428,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,68.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+429,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,16.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+430,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,77.3,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+431,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,20.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+432,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,36.4,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+433,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,4.2,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+434,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,90.9,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+435,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,20.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+436,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,63.6,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+437,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,12.5,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+438,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,72.7,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+439,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,20.8,Percentage of Participants With Predefined Pneumococcal IgG Antibody 1 Month After Dose 3: Russian Cohort
+440,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,17,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+441,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,33,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+442,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,79,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+443,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,31,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+444,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,166,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+445,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,163,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+446,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,28,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+447,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,31,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+448,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,222,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+449,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,247,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+450,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,314,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+451,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,216,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+452,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,809,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+453,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,717,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+454,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,218,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+455,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,293,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+456,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,984,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+457,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,247,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+458,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,968,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+459,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,268,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+460,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,314,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+461,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,31,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+462,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,120,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+463,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,230,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+464,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,35,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+465,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,56,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+466,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,203,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+467,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,38,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+468,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,559,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+469,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,232,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+470,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,3537,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+471,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,2717,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+472,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,698,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+473,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,198,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+474,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,142,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+475,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,242,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+476,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,413,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+477,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,499,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+478,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,3508,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+479,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,3961,GMTs of Serotype-specific OPA at 1 Month After Dose 2: Russian Cohort
+480,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG000,85,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+481,outcome_overview_schedule,2+1 child,3+1 child,,,1,OG001,93,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+482,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG000,126,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+483,outcome_overview_schedule,2+1 child,3+1 child,,,3,OG001,107,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+484,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG000,310,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+485,outcome_overview_schedule,2+1 child,3+1 child,,,4,OG001,429,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+486,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG000,116,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+487,outcome_overview_schedule,2+1 child,3+1 child,,,5,OG001,108,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+488,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG000,2922,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+489,outcome_overview_schedule,2+1 child,3+1 child,,,6A,OG001,1580,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+490,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG000,4417,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+491,outcome_overview_schedule,2+1 child,3+1 child,,,6B,OG001,1397,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+492,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG000,1039,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+493,outcome_overview_schedule,2+1 child,3+1 child,,,7F,OG001,1411,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+494,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG000,1574,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+495,outcome_overview_schedule,2+1 child,3+1 child,,,9V,OG001,1067,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+496,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG000,1151,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+497,outcome_overview_schedule,2+1 child,3+1 child,,,14,OG001,628,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+498,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG000,583,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+499,outcome_overview_schedule,2+1 child,3+1 child,,,18C,OG001,973,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+500,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG000,652,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+501,outcome_overview_schedule,2+1 child,3+1 child,,,19A,OG001,435,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+502,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG000,1570,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+503,outcome_overview_schedule,2+1 child,3+1 child,,,19F,OG001,701,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+504,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG000,152,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+505,outcome_overview_schedule,2+1 child,3+1 child,,,23F,OG001,410,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+506,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG000,368,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+507,outcome_overview_schedule,2+1 child,3+1 child,,,8,OG001,149,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+508,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG000,2851,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+509,outcome_overview_schedule,2+1 child,3+1 child,,,10A,OG001,117,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+510,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG000,7137,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+511,outcome_overview_schedule,2+1 child,3+1 child,,,11A,OG001,1789,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+512,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG000,757,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+513,outcome_overview_schedule,2+1 child,3+1 child,,,12F,OG001,241,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+514,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG000,822,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+515,outcome_overview_schedule,2+1 child,3+1 child,,,15B,OG001,147,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+516,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG000,1983,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+517,outcome_overview_schedule,2+1 child,3+1 child,,,22F,OG001,1635,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+518,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG000,5903,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort
+519,outcome_overview_schedule,2+1 child,3+1 child,,,33F,OG001,3619,GMTs of Serotype-specific OPA at 1 Month After Dose 3: Russian Cohort

@@ -1,159 +1,183 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-0,_selection,excluded,included,,,Anti-Ply-PIII (Month 5),OG000,24206.23,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-1,_selection,excluded,included,,,Anti-Ply-PIII (Month 5),OG001,1063.15,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-2,_selection,excluded,included,,,Anti-Ply-Pre-booster (Month 10),OG000,13108.68,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-3,_selection,excluded,included,,,Anti-Ply-Pre-booster (Month 10),OG001,2245.92,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-4,_selection,excluded,included,,,Anti-Ply-Post-booster (Month 11),OG000,36234.97,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-5,_selection,excluded,included,,,Anti-Ply-Post-booster (Month 11),OG001,2658.05,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-6,_selection,excluded,included,,,Anti-Ply-Post-booster (Month 22),OG000,19390.01,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-7,_selection,excluded,included,,,Anti-Ply-Post-booster (Month 22),OG001,4639.15,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-8,_selection,excluded,included,,,Anti-PhtD-PIII (Month 5),OG000,4144.62,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-9,_selection,excluded,included,,,Anti-PhtD-PIII (Month 5),OG001,989.65,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-10,_selection,excluded,included,,,Anti-PhtD-Pre-booster (Month 10),OG000,2625.77,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-11,_selection,excluded,included,,,Anti-PhtD-Pre-booster (Month 10),OG001,2271.53,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-12,_selection,excluded,included,,,Anti-PhtD-Post-booster (Month 11),OG000,8680.76,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-13,_selection,excluded,included,,,Anti-PhtD-Post-booster (Month 11),OG001,2324.28,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-14,_selection,excluded,included,,,Anti-PhtD-Post-booster (Month 22),OG000,5248.38,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-15,_selection,excluded,included,,,Anti-PhtD-Post-booster (Month 22),OG001,5535.93,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
-16,_selection,excluded,included,,,Anti-PRP PIII (Month 5),OG000,4.65,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-17,_selection,excluded,included,,,Anti-PRP PIII (Month 5),OG001,6.66,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-18,_selection,excluded,included,,,Anti-PRP Pre-booster (Month 10),OG000,0.90,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-19,_selection,excluded,included,,,Anti-PRP Pre-booster (Month 10),OG001,1.12,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-20,_selection,excluded,included,,,Anti-PRP Post-booster (Month 11),OG000,12.32,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-21,_selection,excluded,included,,,Anti-PRP Post-booster (Month 11),OG001,17.28,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-22,_selection,excluded,included,,,Anti-PRP Post-booster (Month 22),OG000,1.51,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-23,_selection,excluded,included,,,Anti-PRP Post-booster (Month 22),OG001,1.84,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
-24,_selection,excluded,included,,,Anti-1 PIII(Month 5),OG000,3.35,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-25,_selection,excluded,included,,,Anti-1 PIII(Month 5),OG001,3.18,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-26,_selection,excluded,included,,,Anti-1 Pre-Booster (Month 10),OG000,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-27,_selection,excluded,included,,,Anti-1 Pre-Booster (Month 10),OG001,0.55,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-28,_selection,excluded,included,,,Anti-1 Post-Booster (Month 11),OG000,4.45,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-29,_selection,excluded,included,,,Anti-1 Post-Booster (Month 11),OG001,4.83,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-30,_selection,excluded,included,,,Anti-3 PIII(Month 5),OG000,0.59,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-31,_selection,excluded,included,,,Anti-3 PIII(Month 5),OG001,0.52,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-32,_selection,excluded,included,,,Anti-3 Pre-Booster (Month 10),OG000,0.16,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-33,_selection,excluded,included,,,Anti-3 Pre-Booster (Month 10),OG001,0.13,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-34,_selection,excluded,included,,,Anti-3 Post-Booster (Month 11),OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-35,_selection,excluded,included,,,Anti-3 Post-Booster (Month 11),OG001,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-36,_selection,excluded,included,,,Anti-4 PIII(Month 5),OG000,2.05,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-37,_selection,excluded,included,,,Anti-4 PIII(Month 5),OG001,1.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-38,_selection,excluded,included,,,Anti-4 Pre-Booster (Month 10),OG000,0.34,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-39,_selection,excluded,included,,,Anti-4 Pre-Booster (Month 10),OG001,0.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-40,_selection,excluded,included,,,Anti-4 Post-Booster (Month 11),OG000,3.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-41,_selection,excluded,included,,,Anti-4 Post-Booster (Month 11),OG001,3.85,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-42,_selection,excluded,included,,,Anti-5 PIII(Month 5),OG000,2.4,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-43,_selection,excluded,included,,,Anti-5 PIII(Month 5),OG001,2.41,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-44,_selection,excluded,included,,,Anti-5 Pre-Booster (Month 10),OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-45,_selection,excluded,included,,,Anti-5 Pre-Booster (Month 10),OG001,0.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-46,_selection,excluded,included,,,Anti-5 Post-Booster (Month 11),OG000,4.24,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-47,_selection,excluded,included,,,Anti-5 Post-Booster (Month 11),OG001,3.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-48,_selection,excluded,included,,,Anti-6A PIII(Month 5),OG000,5.27,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-49,_selection,excluded,included,,,Anti-6A PIII(Month 5),OG001,4.74,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-50,_selection,excluded,included,,,Anti-6A Pre-Booster (Month 10),OG000,0.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-51,_selection,excluded,included,,,Anti-6A Pre-Booster (Month 10),OG001,0.9,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-52,_selection,excluded,included,,,Anti-6A Post-Booster (Month 11),OG000,10.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-53,_selection,excluded,included,,,Anti-6A Post-Booster (Month 11),OG001,10.28,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-54,_selection,excluded,included,,,Anti-6B PIII(Month 5),OG000,3.5,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-55,_selection,excluded,included,,,Anti-6B PIII(Month 5),OG001,3.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-56,_selection,excluded,included,,,Anti-6B Pre-Booster (Month 10),OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-57,_selection,excluded,included,,,Anti-6B Pre-Booster (Month 10),OG001,0.64,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-58,_selection,excluded,included,,,Anti-6B Post-Booster (Month 11),OG000,10.03,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-59,_selection,excluded,included,,,Anti-6B Post-Booster (Month 11),OG001,9.62,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-60,_selection,excluded,included,,,Anti-7F PIII(Month 5),OG000,4.47,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-61,_selection,excluded,included,,,Anti-7F PIII(Month 5),OG001,4.35,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-62,_selection,excluded,included,,,Anti-7F Pre-Booster (Month 10),OG000,0.89,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-63,_selection,excluded,included,,,Anti-7F Pre-Booster (Month 10),OG001,0.87,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-64,_selection,excluded,included,,,Anti-7F Post-Booster (Month 11),OG000,6.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-65,_selection,excluded,included,,,Anti-7F Post-Booster (Month 11),OG001,6.65,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-66,_selection,excluded,included,,,Anti-9V PIII(Month 5),OG000,2.22,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-67,_selection,excluded,included,,,Anti-9V PIII(Month 5),OG001,2.24,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-68,_selection,excluded,included,,,Anti-9V Pre-Booster (Month 10),OG000,0.43,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-69,_selection,excluded,included,,,Anti-9V Pre-Booster (Month 10),OG001,0.45,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-70,_selection,excluded,included,,,Anti-9V Post-Booster (Month 11),OG000,4.14,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-71,_selection,excluded,included,,,Anti-9V Post-Booster (Month 11),OG001,4.38,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-72,_selection,excluded,included,,,Anti-14 PIII(Month 5),OG000,8.46,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-73,_selection,excluded,included,,,Anti-14 PIII(Month 5),OG001,8.78,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-74,_selection,excluded,included,,,Anti-14 Pre-Booster (Month 10),OG000,1.79,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-75,_selection,excluded,included,,,Anti-14 Pre-Booster (Month 10),OG001,1.83,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-76,_selection,excluded,included,,,Anti-14 Post-Booster (Month 11),OG000,13.22,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-77,_selection,excluded,included,,,Anti-14 Post-Booster (Month 11),OG001,13.14,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-78,_selection,excluded,included,,,Anti-18C PIII(Month 5),OG000,2.51,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-79,_selection,excluded,included,,,Anti-18C PIII(Month 5),OG001,2.33,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-80,_selection,excluded,included,,,Anti-18C Pre-Booster (Month 10),OG000,0.38,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-81,_selection,excluded,included,,,Anti-18C Pre-Booster (Month 10),OG001,0.34,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-82,_selection,excluded,included,,,Anti-18C Post-Booster (Month 11),OG000,5.41,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-83,_selection,excluded,included,,,Anti-18C Post-Booster (Month 11),OG001,5.28,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-84,_selection,excluded,included,,,Anti-19A PIII(Month 5),OG000,2.65,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-85,_selection,excluded,included,,,Anti-19A PIII(Month 5),OG001,2.86,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-86,_selection,excluded,included,,,Anti-19A Pre-Booster (Month 10),OG000,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-87,_selection,excluded,included,,,Anti-19A Pre-Booster (Month 10),OG001,0.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-88,_selection,excluded,included,,,Anti-19A Post-Booster (Month 11),OG000,7.64,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-89,_selection,excluded,included,,,Anti-19A Post-Booster (Month 11),OG001,8.07,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-90,_selection,excluded,included,,,Anti-19F PIII(Month 5),OG000,3.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-91,_selection,excluded,included,,,Anti-19F PIII(Month 5),OG001,3.60,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-92,_selection,excluded,included,,,Anti-19F Pre-Booster (Month 10),OG000,0.78,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-93,_selection,excluded,included,,,Anti-19F Pre-Booster (Month 10),OG001,0.84,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-94,_selection,excluded,included,,,Anti-19F Post-Booster (Month 11),OG000,7.96,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-95,_selection,excluded,included,,,Anti-19F Post-Booster (Month 11),OG001,8.23,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-96,_selection,excluded,included,,,Anti-23F PIII(Month 5),OG000,1.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-97,_selection,excluded,included,,,Anti-23F PIII(Month 5),OG001,2.04,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-98,_selection,excluded,included,,,Anti-23F Pre-Booster (Month 10),OG000,0.36,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-99,_selection,excluded,included,,,Anti-23F Pre-Booster (Month 10),OG001,0.39,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-100,_selection,excluded,included,,,Anti-23F Post-Booster (Month 11),OG000,3.71,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-101,_selection,excluded,included,,,Anti-23F Post-Booster (Month 11),OG001,3.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
-102,_selection,excluded,included,,,OPA-1 PIII(Month 5),OG000,76.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-103,_selection,excluded,included,,,OPA-1 PIII(Month 5),OG001,32.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-104,_selection,excluded,included,,,OPA-1 Post-Booster (Month 11),OG000,191.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-105,_selection,excluded,included,,,OPA-1 Post-Booster (Month 11),OG001,219.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-106,_selection,excluded,included,,,OPA-3 PIII(Month 5),OG000,319.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-107,_selection,excluded,included,,,OPA-3 PIII(Month 5),OG001,190.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-108,_selection,excluded,included,,,OPA-3 Post-Booster (Month 11),OG000,452.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-109,_selection,excluded,included,,,OPA-3 Post-Booster (Month 11),OG001,399.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-110,_selection,excluded,included,,,OPA-4 PIII(Month 5),OG000,1450.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-111,_selection,excluded,included,,,OPA-4 PIII(Month 5),OG001,1397.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-112,_selection,excluded,included,,,OPA-4 Post-Booster (Month 11),OG000,2657.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-113,_selection,excluded,included,,,OPA-4 Post-Booster (Month 11),OG001,2592.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-114,_selection,excluded,included,,,OPA-5 PIII(Month 5),OG000,792.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-115,_selection,excluded,included,,,OPA-5 PIII(Month 5),OG001,464.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-116,_selection,excluded,included,,,OPA-5 Post-Booster (Month 11),OG000,1541.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-117,_selection,excluded,included,,,OPA-5 Post-Booster (Month 11),OG001,1192.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-118,_selection,excluded,included,,,OPA-6A PIII(Month 5),OG000,4945.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-119,_selection,excluded,included,,,OPA-6A PIII(Month 5),OG001,5231.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-120,_selection,excluded,included,,,OPA-6A Post-Booster (Month 11),OG000,9149.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-121,_selection,excluded,included,,,OPA-6A Post-Booster (Month 11),OG001,10266.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-122,_selection,excluded,included,,,OPA-6B PIII(Month 5),OG000,2754.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-123,_selection,excluded,included,,,OPA-6B PIII(Month 5),OG001,2140.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-124,_selection,excluded,included,,,OPA-6B Post-Booster (Month 11),OG000,5909.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-125,_selection,excluded,included,,,OPA-6B Post-Booster (Month 11),OG001,5663.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-126,_selection,excluded,included,,,OPA-7F PIII(Month 5),OG000,8429.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-127,_selection,excluded,included,,,OPA-7F PIII(Month 5),OG001,7539.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-128,_selection,excluded,included,,,OPA-7F Post-Booster (Month 11),OG000,10746.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-129,_selection,excluded,included,,,OPA-7F Post-Booster (Month 11),OG001,9504.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-130,_selection,excluded,included,,,OPA-9V PIII(Month 5),OG000,2391.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-131,_selection,excluded,included,,,OPA-9V PIII(Month 5),OG001,2728.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-132,_selection,excluded,included,,,OPA-9V Post-Booster (Month 11),OG000,6001.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-133,_selection,excluded,included,,,OPA-9V Post-Booster (Month 11),OG001,6206.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-134,_selection,excluded,included,,,OPA-14 PIII(Month 5),OG000,2236.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-135,_selection,excluded,included,,,OPA-14 PIII(Month 5),OG001,1988.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-136,_selection,excluded,included,,,OPA-14 Post-Booster (Month 11),OG000,3981.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-137,_selection,excluded,included,,,OPA-14 Post-Booster (Month 11),OG001,3856.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-138,_selection,excluded,included,,,OPA-18C PIII(Month 5),OG000,1927.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-139,_selection,excluded,included,,,OPA-18C PIII(Month 5),OG001,1736.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-140,_selection,excluded,included,,,OPA-18C Post-Booster (Month 11),OG000,4240.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-141,_selection,excluded,included,,,OPA-18C Post-Booster (Month 11),OG001,4349.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-142,_selection,excluded,included,,,OPA-19A PIII(Month 5),OG000,2204.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-143,_selection,excluded,included,,,OPA-19A PIII(Month 5),OG001,2060.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-144,_selection,excluded,included,,,OPA-19A Post-Booster (Month 11),OG000,5630.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-145,_selection,excluded,included,,,OPA-19A Post-Booster (Month 11),OG001,6447.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-146,_selection,excluded,included,,,OPA-19F PIII(Month 5),OG000,1355.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-147,_selection,excluded,included,,,OPA-19F PIII(Month 5),OG001,1112.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-148,_selection,excluded,included,,,OPA-19F Post-Booster (Month 11),OG000,3222.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-149,_selection,excluded,included,,,OPA-19F Post-Booster (Month 11),OG001,2574.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-150,_selection,excluded,included,,,OPA-23F PIII(Month 5),OG000,3072.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-151,_selection,excluded,included,,,OPA-23F PIII(Month 5),OG001,2634.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-152,_selection,excluded,included,,,OPA-23F Post-Booster (Month 11),OG000,6240.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-153,_selection,excluded,included,,,OPA-23F Post-Booster (Month 11),OG001,5958.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
-154,_selection,excluded,included,,,OPA-6C PIII(Month 5),OG000,3161.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
-155,_selection,excluded,included,,,OPA-6C PIII(Month 5),OG001,2616.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
-156,_selection,excluded,included,,,OPA-6C Post-Booster (Month 11),OG000,5151.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
-157,_selection,excluded,included,,,OPA-6C Post-Booster (Month 11),OG001,5637.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
+0,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,Ply,OG000,24206.23,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+0,outcome_overview_manufacturer,GSK,Pfizer,,,Ply,OG000,24206.23,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+0,outcome_overview_time_frame_weeks,4,,,,Ply,OG000,24206.23,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+1,outcome_overview_time_frame_weeks,4,,,,Ply,OG001,1063.15,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+2,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,Ply,OG000,13108.68,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+2,outcome_overview_manufacturer,GSK,Pfizer,,,Ply,OG000,13108.68,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+2,outcome_overview_time_frame_weeks,4,,,,Ply,OG000,13108.68,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+3,outcome_overview_time_frame_weeks,4,,,,Ply,OG001,2245.92,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+4,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,Ply,OG000,36234.97,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+4,outcome_overview_manufacturer,GSK,Pfizer,,,Ply,OG000,36234.97,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+4,outcome_overview_time_frame_weeks,4,,,,Ply,OG000,36234.97,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+5,outcome_overview_time_frame_weeks,4,,,,Ply,OG001,2658.05,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+6,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,Ply,OG000,19390.01,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+6,outcome_overview_manufacturer,GSK,Pfizer,,,Ply,OG000,19390.01,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+6,outcome_overview_time_frame_weeks,4,,,,Ply,OG000,19390.01,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+7,outcome_overview_time_frame_weeks,4,,,,Ply,OG001,4639.15,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+8,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PhtD,OG000,4144.62,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+8,outcome_overview_manufacturer,GSK,Pfizer,,,PhtD,OG000,4144.62,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+8,outcome_overview_time_frame_weeks,4,,,,PhtD,OG000,4144.62,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+9,outcome_overview_time_frame_weeks,4,,,,PhtD,OG001,989.65,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+10,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PhtD,OG000,2625.77,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+10,outcome_overview_manufacturer,GSK,Pfizer,,,PhtD,OG000,2625.77,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+10,outcome_overview_time_frame_weeks,4,,,,PhtD,OG000,2625.77,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+11,outcome_overview_time_frame_weeks,4,,,,PhtD,OG001,2271.53,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+12,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PhtD,OG000,8680.76,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+12,outcome_overview_manufacturer,GSK,Pfizer,,,PhtD,OG000,8680.76,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+12,outcome_overview_time_frame_weeks,4,,,,PhtD,OG000,8680.76,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+13,outcome_overview_time_frame_weeks,4,,,,PhtD,OG001,2324.28,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+14,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PhtD,OG000,5248.38,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+14,outcome_overview_manufacturer,GSK,Pfizer,,,PhtD,OG000,5248.38,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+14,outcome_overview_time_frame_weeks,4,,,,PhtD,OG000,5248.38,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+15,outcome_overview_time_frame_weeks,4,,,,PhtD,OG001,5535.93,Antibody Concentrations Against Pneumococcal Pneumolysin Toxoid (Ply) and Pneumococcal Histidine Triad Protein D (PhtD) Proteins - Immuno/Reacto Sub-cohort
+16,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PRP,OG000,4.65,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+16,outcome_overview_manufacturer,GSK,Pfizer,,,PRP,OG000,4.65,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+16,outcome_overview_time_frame_weeks,4,,,,PRP,OG000,4.65,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+17,outcome_overview_time_frame_weeks,4,,,,PRP,OG001,6.66,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+18,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PRP,OG000,0.90,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+18,outcome_overview_manufacturer,GSK,Pfizer,,,PRP,OG000,0.90,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+18,outcome_overview_time_frame_weeks,4,,,,PRP,OG000,0.90,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+19,outcome_overview_time_frame_weeks,4,,,,PRP,OG001,1.12,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+20,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PRP,OG000,12.32,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+20,outcome_overview_manufacturer,GSK,Pfizer,,,PRP,OG000,12.32,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+20,outcome_overview_time_frame_weeks,4,,,,PRP,OG000,12.32,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+21,outcome_overview_time_frame_weeks,4,,,,PRP,OG001,17.28,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+22,outcome_overview_vaccine,PCV10 (Synflorix),PCV13,,,PRP,OG000,1.51,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+22,outcome_overview_manufacturer,GSK,Pfizer,,,PRP,OG000,1.51,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+22,outcome_overview_time_frame_weeks,4,,,,PRP,OG000,1.51,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+23,outcome_overview_time_frame_weeks,4,,,,PRP,OG001,1.84,Concentrations of Antibodies Against Polyribosyl Ribitol Phosphate (Anti-PRP) - Immuno/Reacto Sub-cohort
+24,outcome_overview_time_frame_weeks,4,,,,1,OG000,3.35,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+25,outcome_overview_time_frame_weeks,4,,,,1,OG001,3.18,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+26,outcome_overview_time_frame_weeks,4,,,,1,OG000,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+27,outcome_overview_time_frame_weeks,4,,,,1,OG001,0.55,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+28,outcome_overview_time_frame_weeks,4,,,,1,OG000,4.45,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+29,outcome_overview_time_frame_weeks,4,,,,1,OG001,4.83,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+30,outcome_overview_time_frame_weeks,4,,,,3,OG000,0.59,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+31,outcome_overview_time_frame_weeks,4,,,,3,OG001,0.52,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+32,outcome_overview_time_frame_weeks,4,,,,3,OG000,0.16,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+33,outcome_overview_time_frame_weeks,4,,,,3,OG001,0.13,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+34,outcome_overview_time_frame_weeks,4,,,,3,OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+35,outcome_overview_time_frame_weeks,4,,,,3,OG001,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+36,outcome_overview_time_frame_weeks,4,,,,4,OG000,2.05,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+37,outcome_overview_time_frame_weeks,4,,,,4,OG001,1.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+38,outcome_overview_time_frame_weeks,4,,,,4,OG000,0.34,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+39,outcome_overview_time_frame_weeks,4,,,,4,OG001,0.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+40,outcome_overview_time_frame_weeks,4,,,,4,OG000,3.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+41,outcome_overview_time_frame_weeks,4,,,,4,OG001,3.85,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+42,outcome_overview_time_frame_weeks,4,,,,5,OG000,2.4,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+43,outcome_overview_time_frame_weeks,4,,,,5,OG001,2.41,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+44,outcome_overview_time_frame_weeks,4,,,,5,OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+45,outcome_overview_time_frame_weeks,4,,,,5,OG001,0.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+46,outcome_overview_time_frame_weeks,4,,,,5,OG000,4.24,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+47,outcome_overview_time_frame_weeks,4,,,,5,OG001,3.98,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+48,outcome_overview_time_frame_weeks,4,,,,6A,OG000,5.27,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+49,outcome_overview_time_frame_weeks,4,,,,6A,OG001,4.74,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+50,outcome_overview_time_frame_weeks,4,,,,6A,OG000,0.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+51,outcome_overview_time_frame_weeks,4,,,,6A,OG001,0.9,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+52,outcome_overview_time_frame_weeks,4,,,,6A,OG000,10.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+53,outcome_overview_time_frame_weeks,4,,,,6A,OG001,10.28,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+54,outcome_overview_time_frame_weeks,4,,,,6B,OG000,3.5,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+55,outcome_overview_time_frame_weeks,4,,,,6B,OG001,3.31,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+56,outcome_overview_time_frame_weeks,4,,,,6B,OG000,0.66,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+57,outcome_overview_time_frame_weeks,4,,,,6B,OG001,0.64,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+58,outcome_overview_time_frame_weeks,4,,,,6B,OG000,10.03,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+59,outcome_overview_time_frame_weeks,4,,,,6B,OG001,9.62,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+60,outcome_overview_time_frame_weeks,4,,,,7F,OG000,4.47,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+61,outcome_overview_time_frame_weeks,4,,,,7F,OG001,4.35,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+62,outcome_overview_time_frame_weeks,4,,,,7F,OG000,0.89,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+63,outcome_overview_time_frame_weeks,4,,,,7F,OG001,0.87,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+64,outcome_overview_time_frame_weeks,4,,,,7F,OG000,6.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+65,outcome_overview_time_frame_weeks,4,,,,7F,OG001,6.65,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+66,outcome_overview_time_frame_weeks,4,,,,9V,OG000,2.22,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+67,outcome_overview_time_frame_weeks,4,,,,9V,OG001,2.24,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+68,outcome_overview_time_frame_weeks,4,,,,9V,OG000,0.43,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+69,outcome_overview_time_frame_weeks,4,,,,9V,OG001,0.45,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+70,outcome_overview_time_frame_weeks,4,,,,9V,OG000,4.14,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+71,outcome_overview_time_frame_weeks,4,,,,9V,OG001,4.38,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+72,outcome_overview_time_frame_weeks,4,,,,14,OG000,8.46,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+73,outcome_overview_time_frame_weeks,4,,,,14,OG001,8.78,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+74,outcome_overview_time_frame_weeks,4,,,,14,OG000,1.79,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+75,outcome_overview_time_frame_weeks,4,,,,14,OG001,1.83,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+76,outcome_overview_time_frame_weeks,4,,,,14,OG000,13.22,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+77,outcome_overview_time_frame_weeks,4,,,,14,OG001,13.14,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+78,outcome_overview_time_frame_weeks,4,,,,18C,OG000,2.51,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+79,outcome_overview_time_frame_weeks,4,,,,18C,OG001,2.33,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+80,outcome_overview_time_frame_weeks,4,,,,18C,OG000,0.38,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+81,outcome_overview_time_frame_weeks,4,,,,18C,OG001,0.34,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+82,outcome_overview_time_frame_weeks,4,,,,18C,OG000,5.41,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+83,outcome_overview_time_frame_weeks,4,,,,18C,OG001,5.28,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+84,outcome_overview_time_frame_weeks,4,,,,19A,OG000,2.65,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+85,outcome_overview_time_frame_weeks,4,,,,19A,OG001,2.86,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+86,outcome_overview_time_frame_weeks,4,,,,19A,OG000,0.57,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+87,outcome_overview_time_frame_weeks,4,,,,19A,OG001,0.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+88,outcome_overview_time_frame_weeks,4,,,,19A,OG000,7.64,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+89,outcome_overview_time_frame_weeks,4,,,,19A,OG001,8.07,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+90,outcome_overview_time_frame_weeks,4,,,,19F,OG000,3.61,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+91,outcome_overview_time_frame_weeks,4,,,,19F,OG001,3.60,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+92,outcome_overview_time_frame_weeks,4,,,,19F,OG000,0.78,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+93,outcome_overview_time_frame_weeks,4,,,,19F,OG001,0.84,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+94,outcome_overview_time_frame_weeks,4,,,,19F,OG000,7.96,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+95,outcome_overview_time_frame_weeks,4,,,,19F,OG001,8.23,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+96,outcome_overview_time_frame_weeks,4,,,,23F,OG000,1.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+97,outcome_overview_time_frame_weeks,4,,,,23F,OG001,2.04,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+98,outcome_overview_time_frame_weeks,4,,,,23F,OG000,0.36,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+99,outcome_overview_time_frame_weeks,4,,,,23F,OG001,0.39,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+100,outcome_overview_time_frame_weeks,4,,,,23F,OG000,3.71,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+101,outcome_overview_time_frame_weeks,4,,,,23F,OG001,3.97,"Antibody Concentrations Against Vaccine Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F and 23F"
+102,outcome_overview_time_frame_weeks,4,,,,1,OG000,76.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+103,outcome_overview_time_frame_weeks,4,,,,1,OG001,32.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+104,outcome_overview_time_frame_weeks,4,,,,1,OG000,191.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+105,outcome_overview_time_frame_weeks,4,,,,1,OG001,219.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+106,outcome_overview_time_frame_weeks,4,,,,3,OG000,319.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+107,outcome_overview_time_frame_weeks,4,,,,3,OG001,190.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+108,outcome_overview_time_frame_weeks,4,,,,3,OG000,452.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+109,outcome_overview_time_frame_weeks,4,,,,3,OG001,399.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+110,outcome_overview_time_frame_weeks,4,,,,4,OG000,1450.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+111,outcome_overview_time_frame_weeks,4,,,,4,OG001,1397.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+112,outcome_overview_time_frame_weeks,4,,,,4,OG000,2657.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+113,outcome_overview_time_frame_weeks,4,,,,4,OG001,2592.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+114,outcome_overview_time_frame_weeks,4,,,,5,OG000,792.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+115,outcome_overview_time_frame_weeks,4,,,,5,OG001,464.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+116,outcome_overview_time_frame_weeks,4,,,,5,OG000,1541.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+117,outcome_overview_time_frame_weeks,4,,,,5,OG001,1192.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+118,outcome_overview_time_frame_weeks,4,,,,6A,OG000,4945.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+119,outcome_overview_time_frame_weeks,4,,,,6A,OG001,5231.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+120,outcome_overview_time_frame_weeks,4,,,,6A,OG000,9149.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+121,outcome_overview_time_frame_weeks,4,,,,6A,OG001,10266.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+122,outcome_overview_time_frame_weeks,4,,,,6B,OG000,2754.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+123,outcome_overview_time_frame_weeks,4,,,,6B,OG001,2140.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+124,outcome_overview_time_frame_weeks,4,,,,6B,OG000,5909.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+125,outcome_overview_time_frame_weeks,4,,,,6B,OG001,5663.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+126,outcome_overview_time_frame_weeks,4,,,,7F,OG000,8429.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+127,outcome_overview_time_frame_weeks,4,,,,7F,OG001,7539.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+128,outcome_overview_time_frame_weeks,4,,,,7F,OG000,10746.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+129,outcome_overview_time_frame_weeks,4,,,,7F,OG001,9504.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+130,outcome_overview_time_frame_weeks,4,,,,9V,OG000,2391.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+131,outcome_overview_time_frame_weeks,4,,,,9V,OG001,2728.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+132,outcome_overview_time_frame_weeks,4,,,,9V,OG000,6001.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+133,outcome_overview_time_frame_weeks,4,,,,9V,OG001,6206.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+134,outcome_overview_time_frame_weeks,4,,,,14,OG000,2236.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+135,outcome_overview_time_frame_weeks,4,,,,14,OG001,1988.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+136,outcome_overview_time_frame_weeks,4,,,,14,OG000,3981.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+137,outcome_overview_time_frame_weeks,4,,,,14,OG001,3856.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+138,outcome_overview_time_frame_weeks,4,,,,18C,OG000,1927.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+139,outcome_overview_time_frame_weeks,4,,,,18C,OG001,1736.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+140,outcome_overview_time_frame_weeks,4,,,,18C,OG000,4240.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+141,outcome_overview_time_frame_weeks,4,,,,18C,OG001,4349.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+142,outcome_overview_time_frame_weeks,4,,,,19A,OG000,2204.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+143,outcome_overview_time_frame_weeks,4,,,,19A,OG001,2060.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+144,outcome_overview_time_frame_weeks,4,,,,19A,OG000,5630.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+145,outcome_overview_time_frame_weeks,4,,,,19A,OG001,6447.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+146,outcome_overview_time_frame_weeks,4,,,,19F,OG000,1355.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+147,outcome_overview_time_frame_weeks,4,,,,19F,OG001,1112.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+148,outcome_overview_time_frame_weeks,4,,,,19F,OG000,3222.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+149,outcome_overview_time_frame_weeks,4,,,,19F,OG001,2574.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+150,outcome_overview_time_frame_weeks,4,,,,23F,OG000,3072.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+151,outcome_overview_time_frame_weeks,4,,,,23F,OG001,2634.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+152,outcome_overview_time_frame_weeks,4,,,,23F,OG000,6240.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+153,outcome_overview_time_frame_weeks,4,,,,23F,OG001,5958.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes
+154,outcome_overview_time_frame_weeks,4,,,,6C,OG000,3161.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
+155,outcome_overview_time_frame_weeks,4,,,,6C,OG001,2616.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
+156,outcome_overview_time_frame_weeks,4,,,,6C,OG000,5151.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C
+157,outcome_overview_time_frame_weeks,4,,,,6C,OG001,5637.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 6C

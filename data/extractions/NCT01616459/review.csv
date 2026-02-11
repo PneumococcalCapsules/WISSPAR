@@ -1,273 +1,449 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-0,_selection,excluded,included,,,ANTI-1,OG000,1.54,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-1,_selection,excluded,included,,,ANTI-1,OG001,1.59,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-2,_selection,excluded,included,,,ANTI-1,OG002,1.37,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-3,_selection,excluded,included,,,ANTI-1,OG003,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-4,_selection,excluded,included,,,ANTI-3,OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-5,_selection,excluded,included,,,ANTI-3,OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-6,_selection,excluded,included,,,ANTI-3,OG002,0.05,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-7,_selection,excluded,included,,,ANTI-3,OG003,2.27,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-8,_selection,excluded,included,,,ANTI-4,OG000,1.78,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-9,_selection,excluded,included,,,ANTI-4,OG001,1.99,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-10,_selection,excluded,included,,,ANTI-4,OG002,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-11,_selection,excluded,included,,,ANTI-4,OG003,2.83,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-12,_selection,excluded,included,,,ANTI-5,OG000,2.48,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-13,_selection,excluded,included,,,ANTI-5,OG001,2.37,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-14,_selection,excluded,included,,,ANTI-5,OG002,2.19,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-15,_selection,excluded,included,,,ANTI-5,OG003,2.81,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-16,_selection,excluded,included,,,ANTI-6A,OG000,0.14,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-17,_selection,excluded,included,,,ANTI-6A,OG001,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-18,_selection,excluded,included,,,ANTI-6A,OG002,0.12,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-19,_selection,excluded,included,,,ANTI-6A,OG003,2.05,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-20,_selection,excluded,included,,,ANTI-6B,OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-21,_selection,excluded,included,,,ANTI-6B,OG001,0.58,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-22,_selection,excluded,included,,,ANTI-6B,OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-23,_selection,excluded,included,,,ANTI-6B,OG003,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-24,_selection,excluded,included,,,ANTI-7F,OG000,2.30,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-25,_selection,excluded,included,,,ANTI-7F,OG001,2.44,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-26,_selection,excluded,included,,,ANTI-7F,OG002,2.20,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-27,_selection,excluded,included,,,ANTI-7F,OG003,3.16,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-28,_selection,excluded,included,,,ANTI-9V,OG000,1.57,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-29,_selection,excluded,included,,,ANTI-9V,OG001,1.77,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-30,_selection,excluded,included,,,ANTI-9V,OG002,1.42,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-31,_selection,excluded,included,,,ANTI-9V,OG003,2.27,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-32,_selection,excluded,included,,,ANTI-14,OG000,4.19,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-33,_selection,excluded,included,,,ANTI-14,OG001,4.45,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-34,_selection,excluded,included,,,ANTI-14,OG002,4.21,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-35,_selection,excluded,included,,,ANTI-14,OG003,4.20,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-36,_selection,excluded,included,,,ANTI-18C,OG000,2.84,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-37,_selection,excluded,included,,,ANTI-18C,OG001,2.56,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-38,_selection,excluded,included,,,ANTI-18C,OG002,2.56,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-39,_selection,excluded,included,,,ANTI-18C,OG003,3.17,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-40,_selection,excluded,included,,,ANTI-19A,OG000,1.63,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-41,_selection,excluded,included,,,ANTI-19A,OG001,1.18,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-42,_selection,excluded,included,,,ANTI-19A,OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-43,_selection,excluded,included,,,ANTI-19A,OG003,2.67,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-44,_selection,excluded,included,,,ANTI-19F,OG000,3.65,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-45,_selection,excluded,included,,,ANTI-19F,OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-46,_selection,excluded,included,,,ANTI-19F,OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-47,_selection,excluded,included,,,ANTI-19F,OG003,3.07,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-48,_selection,excluded,included,,,ANTI-23F,OG000,0.62,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-49,_selection,excluded,included,,,ANTI-23F,OG001,0.69,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-50,_selection,excluded,included,,,ANTI-23F,OG002,0.72,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-51,_selection,excluded,included,,,ANTI-23F,OG003,1.59,Antibody Concentrations Against Pneumococcal Serotypes During the Primary Phase of the Study
-52,_selection,excluded,included,,,ANTI-1 (M10),OG000,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-53,_selection,excluded,included,,,ANTI-1 (M10),OG001,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-54,_selection,excluded,included,,,ANTI-1 (M10),OG002,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-55,_selection,excluded,included,,,ANTI-1 (M10),OG003,0.44,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-56,_selection,excluded,included,,,ANTI-1 (M11),OG000,2.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-57,_selection,excluded,included,,,ANTI-1 (M11),OG001,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-58,_selection,excluded,included,,,ANTI-1 (M11),OG002,2.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-59,_selection,excluded,included,,,ANTI-1 (M11),OG003,3.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-60,_selection,excluded,included,,,ANTI-3 (M10),OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-61,_selection,excluded,included,,,ANTI-3 (M10),OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-62,_selection,excluded,included,,,ANTI-3 (M10),OG002,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-63,_selection,excluded,included,,,ANTI-3 (M10),OG003,0.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-64,_selection,excluded,included,,,ANTI-3 (M11),OG000,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-65,_selection,excluded,included,,,ANTI-3 (M11),OG001,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-66,_selection,excluded,included,,,ANTI-3 (M11),OG002,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-67,_selection,excluded,included,,,ANTI-3 (M11),OG003,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-68,_selection,excluded,included,,,ANTI-4 (M10),OG000,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-69,_selection,excluded,included,,,ANTI-4 (M10),OG001,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-70,_selection,excluded,included,,,ANTI-4 (M10),OG002,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-71,_selection,excluded,included,,,ANTI-4 (M10),OG003,0.41,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-72,_selection,excluded,included,,,ANTI-4 (M11),OG000,3.89,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-73,_selection,excluded,included,,,ANTI-4 (M11),OG001,4.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-74,_selection,excluded,included,,,ANTI-4 (M11),OG002,4.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-75,_selection,excluded,included,,,ANTI-4 (M11),OG003,3.86,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-76,_selection,excluded,included,,,ANTI-5 (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-77,_selection,excluded,included,,,ANTI-5 (M10),OG001,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-78,_selection,excluded,included,,,ANTI-5 (M10),OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-79,_selection,excluded,included,,,ANTI-5 (M10),OG003,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-80,_selection,excluded,included,,,ANTI-5 (M11),OG000,3.23,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-81,_selection,excluded,included,,,ANTI-5 (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-82,_selection,excluded,included,,,ANTI-5 (M11),OG002,3.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-83,_selection,excluded,included,,,ANTI-5 (M11),OG003,6.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-84,_selection,excluded,included,,,ANTI-6B (M10),OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-85,_selection,excluded,included,,,ANTI-6B (M10),OG001,0.64,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-86,_selection,excluded,included,,,ANTI-6B (M10),OG002,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-87,_selection,excluded,included,,,ANTI-6B (M10),OG003,0.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-88,_selection,excluded,included,,,ANTI-6B (M11),OG000,2.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-89,_selection,excluded,included,,,ANTI-6B (M11),OG001,4.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-90,_selection,excluded,included,,,ANTI-6B (M11),OG002,2.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-91,_selection,excluded,included,,,ANTI-6B (M11),OG003,3.80,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-92,_selection,excluded,included,,,ANTI-7F (M10),OG000,1.04,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-93,_selection,excluded,included,,,ANTI-7F (M10),OG001,0.99,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-94,_selection,excluded,included,,,ANTI-7F (M10),OG002,0.94,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-95,_selection,excluded,included,,,ANTI-7F (M10),OG003,1.21,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-96,_selection,excluded,included,,,ANTI-7F (M11),OG000,4.88,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-97,_selection,excluded,included,,,ANTI-7F (M11),OG001,4.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-98,_selection,excluded,included,,,ANTI-7F (M11),OG002,4.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-99,_selection,excluded,included,,,ANTI-7F (M11),OG003,6.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-100,_selection,excluded,included,,,ANTI-9V (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-101,_selection,excluded,included,,,ANTI-9V (M10),OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-102,_selection,excluded,included,,,ANTI-9V (M10),OG002,0.70,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-103,_selection,excluded,included,,,ANTI-9V (M10),OG003,0.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-104,_selection,excluded,included,,,ANTI-9V (M11),OG000,4.14,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-105,_selection,excluded,included,,,ANTI-9V (M11),OG001,4.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-106,_selection,excluded,included,,,ANTI-9V (M11),OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-107,_selection,excluded,included,,,ANTI-9V (M11),OG003,5.83,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-108,_selection,excluded,included,,,ANTI-14 (M10),OG000,1.30,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-109,_selection,excluded,included,,,ANTI-14 (M10),OG001,1.45,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-110,_selection,excluded,included,,,ANTI-14 (M10),OG002,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-111,_selection,excluded,included,,,ANTI-14 (M10),OG003,1.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-112,_selection,excluded,included,,,ANTI-14 (M11),OG000,6.17,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-113,_selection,excluded,included,,,ANTI-14 (M11),OG001,6.52,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-114,_selection,excluded,included,,,ANTI-14 (M11),OG002,5.75,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-115,_selection,excluded,included,,,ANTI-14 (M11),OG003,10.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-116,_selection,excluded,included,,,ANTI-18C (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-117,_selection,excluded,included,,,ANTI-18C (M10),OG001,0.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-118,_selection,excluded,included,,,ANTI-18C (M10),OG002,0.74,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-119,_selection,excluded,included,,,ANTI-18C (M10),OG003,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-120,_selection,excluded,included,,,ANTI-18C (M11),OG000,7.65,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-121,_selection,excluded,included,,,ANTI-18C (M11),OG001,7.20,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-122,_selection,excluded,included,,,ANTI-18C (M11),OG002,8.00,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-123,_selection,excluded,included,,,ANTI-18C (M11),OG003,6.01,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-124,_selection,excluded,included,,,ANTI-19A (M10),OG000,0.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-125,_selection,excluded,included,,,ANTI-19A (M10),OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-126,_selection,excluded,included,,,ANTI-19A (M10),OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-127,_selection,excluded,included,,,ANTI-19A (M10),OG003,0.42,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-128,_selection,excluded,included,,,ANTI-19A (M11),OG000,5.35,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-129,_selection,excluded,included,,,ANTI-19A (M11),OG001,4.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-130,_selection,excluded,included,,,ANTI-19A (M11),OG002,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-131,_selection,excluded,included,,,ANTI-19A (M11),OG003,7.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-132,_selection,excluded,included,,,ANTI-19F (M10),OG000,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-133,_selection,excluded,included,,,ANTI-19F (M10),OG001,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-134,_selection,excluded,included,,,ANTI-19F (M10),OG002,1.10,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-135,_selection,excluded,included,,,ANTI-19F (M10),OG003,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-136,_selection,excluded,included,,,ANTI-19F (M11),OG000,8.67,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-137,_selection,excluded,included,,,ANTI-19F (M11),OG001,8.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-138,_selection,excluded,included,,,ANTI-19F (M11),OG002,8.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-139,_selection,excluded,included,,,ANTI-19F (M11),OG003,6.40,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-140,_selection,excluded,included,,,ANTI-23F (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-141,_selection,excluded,included,,,ANTI-23F (M10),OG001,0.54,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-142,_selection,excluded,included,,,ANTI-23F (M10),OG002,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-143,_selection,excluded,included,,,ANTI-23F (M10),OG003,0.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-144,_selection,excluded,included,,,ANTI-23F (M11),OG000,3.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-145,_selection,excluded,included,,,ANTI-23F (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-146,_selection,excluded,included,,,ANTI-23F (M11),OG002,2.98,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-147,_selection,excluded,included,,,ANTI-23F (M11),OG003,6.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
-148,_selection,excluded,included,,,OPA-1,OG000,13.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-149,_selection,excluded,included,,,OPA-1,OG001,15.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-150,_selection,excluded,included,,,OPA-1,OG002,13.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-151,_selection,excluded,included,,,OPA-1,OG003,26.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-152,_selection,excluded,included,,,OPA-3,OG000,4.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-153,_selection,excluded,included,,,OPA-3,OG001,5.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-154,_selection,excluded,included,,,OPA-3,OG002,5.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-155,_selection,excluded,included,,,OPA-3,OG003,97.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-156,_selection,excluded,included,,,OPA-4,OG000,527.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-157,_selection,excluded,included,,,OPA-4,OG001,609.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-158,_selection,excluded,included,,,OPA-4,OG002,616.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-159,_selection,excluded,included,,,OPA-4,OG003,540.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-160,_selection,excluded,included,,,OPA-5,OG000,43.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-161,_selection,excluded,included,,,OPA-5,OG001,46.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-162,_selection,excluded,included,,,OPA-5,OG002,40.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-163,_selection,excluded,included,,,OPA-5,OG003,57.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-164,_selection,excluded,included,,,OPA-6A,OG000,37.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-165,_selection,excluded,included,,,OPA-6A,OG001,1292.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-166,_selection,excluded,included,,,OPA-6A,OG002,36.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-167,_selection,excluded,included,,,OPA-6A,OG003,2832.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-168,_selection,excluded,included,,,OPA-6B,OG000,478.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-169,_selection,excluded,included,,,OPA-6B,OG001,603.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-170,_selection,excluded,included,,,OPA-6B,OG002,622.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-171,_selection,excluded,included,,,OPA-6B,OG003,742.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-172,_selection,excluded,included,,,OPA-7F,OG000,3515.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-173,_selection,excluded,included,,,OPA-7F,OG001,4472.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-174,_selection,excluded,included,,,OPA-7F,OG002,3424.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-175,_selection,excluded,included,,,OPA-7F,OG003,9737.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-176,_selection,excluded,included,,,OPA-9V,OG000,1212.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-177,_selection,excluded,included,,,OPA-9V,OG001,1629.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-178,_selection,excluded,included,,,OPA-9V,OG002,1469.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-179,_selection,excluded,included,,,OPA-9V,OG003,1614.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-180,_selection,excluded,included,,,OPA-14,OG000,1000.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-181,_selection,excluded,included,,,OPA-14,OG001,1699.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-182,_selection,excluded,included,,,OPA-14,OG002,1417.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-183,_selection,excluded,included,,,OPA-14,OG003,2034.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-184,_selection,excluded,included,,,OPA-18C,OG000,100.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-185,_selection,excluded,included,,,OPA-18C,OG001,131.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-186,_selection,excluded,included,,,OPA-18C,OG002,72.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-187,_selection,excluded,included,,,OPA-18C,OG003,145.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-188,_selection,excluded,included,,,OPA-19F,OG000,144.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-189,_selection,excluded,included,,,OPA-19F,OG001,201.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-190,_selection,excluded,included,,,OPA-19F,OG002,210.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-191,_selection,excluded,included,,,OPA-19F,OG003,66.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-192,_selection,excluded,included,,,OPA-23F,OG000,989.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-193,_selection,excluded,included,,,OPA-23F,OG001,1377.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-194,_selection,excluded,included,,,OPA-23F,OG002,1097.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-195,_selection,excluded,included,,,OPA-23F,OG003,5136.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Primary Phase of the Study
-196,_selection,excluded,included,,,OPA-1,OG000,192.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-197,_selection,excluded,included,,,OPA-1,OG001,192.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-198,_selection,excluded,included,,,OPA-1,OG002,216.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-199,_selection,excluded,included,,,OPA-1,OG003,207.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-200,_selection,excluded,included,,,OPA-3,OG000,9.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-201,_selection,excluded,included,,,OPA-3,OG001,10.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-202,_selection,excluded,included,,,OPA-3,OG002,10.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-203,_selection,excluded,included,,,OPA-3,OG003,317.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-204,_selection,excluded,included,,,OPA-4,OG000,1455.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-205,_selection,excluded,included,,,OPA-4,OG001,1650.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-206,_selection,excluded,included,,,OPA-4,OG002,1550.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-207,_selection,excluded,included,,,OPA-4,OG003,1972.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-208,_selection,excluded,included,,,OPA-5,OG000,134.5,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-209,_selection,excluded,included,,,OPA-5,OG001,133.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-210,_selection,excluded,included,,,OPA-5,OG002,133.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-211,_selection,excluded,included,,,OPA-5,OG003,269.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-212,_selection,excluded,included,,,OPA-6A,OG000,116.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-213,_selection,excluded,included,,,OPA-6A,OG001,3436.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-214,_selection,excluded,included,,,OPA-6A,OG002,146.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-215,_selection,excluded,included,,,OPA-6A,OG003,5200.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-216,_selection,excluded,included,,,OPA-6B,OG000,681.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-217,_selection,excluded,included,,,OPA-6B,OG001,1246.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-218,_selection,excluded,included,,,OPA-6B,OG002,694.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-219,_selection,excluded,included,,,OPA-6B,OG003,1727.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-220,_selection,excluded,included,,,OPA-7F,OG000,8362.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-221,_selection,excluded,included,,,OPA-7F,OG001,7516.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-222,_selection,excluded,included,,,OPA-7F,OG002,7880.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-223,_selection,excluded,included,,,OPA-7F,OG003,16592.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-224,_selection,excluded,included,,,OPA-9V,OG000,3406.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-225,_selection,excluded,included,,,OPA-9V,OG001,3616.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-226,_selection,excluded,included,,,OPA-9V,OG002,3260.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-227,_selection,excluded,included,,,OPA-9V,OG003,8470.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-228,_selection,excluded,included,,,OPA-14,OG000,2038.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-229,_selection,excluded,included,,,OPA-14,OG001,2519.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-230,_selection,excluded,included,,,OPA-14,OG002,2285.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-231,_selection,excluded,included,,,OPA-14,OG003,2772.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-232,_selection,excluded,included,,,OPA-18C,OG000,914.8,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-233,_selection,excluded,included,,,OPA-18C,OG001,781.2,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-234,_selection,excluded,included,,,OPA-18C,OG002,912.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-235,_selection,excluded,included,,,OPA-18C,OG003,610.7,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-236,_selection,excluded,included,,,OPA-19F,OG000,523.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-237,_selection,excluded,included,,,OPA-19F,OG001,565.3,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-238,_selection,excluded,included,,,OPA-19F,OG002,759.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-239,_selection,excluded,included,,,OPA-19F,OG003,438.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-240,_selection,excluded,included,,,OPA-23F,OG000,2562.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-241,_selection,excluded,included,,,OPA-23F,OG001,2923.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-242,_selection,excluded,included,,,OPA-23F,OG002,2600.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-243,_selection,excluded,included,,,OPA-23F,OG003,24350.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes During the Booster Phase of the Study
-244,_selection,excluded,included,,,,OG000,1430.1,Concentrations of Antibodies Against Protein D (Anti-PD) During the Primary Phase of the Study
-245,_selection,excluded,included,,,,OG001,1194.2,Concentrations of Antibodies Against Protein D (Anti-PD) During the Primary Phase of the Study
-246,_selection,excluded,included,,,,OG002,1344.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Primary Phase of the Study
-247,_selection,excluded,included,,,,OG003,64.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Primary Phase of the Study
-248,_selection,excluded,included,,,Anti-PD (M10),OG000,445.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-249,_selection,excluded,included,,,Anti-PD (M10),OG001,447.6,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-250,_selection,excluded,included,,,Anti-PD (M10),OG002,460.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-251,_selection,excluded,included,,,Anti-PD (M10),OG003,70.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-252,_selection,excluded,included,,,Anti-PD (M11),OG000,1866.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-253,_selection,excluded,included,,,Anti-PD (M11),OG001,1835.5,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-254,_selection,excluded,included,,,Anti-PD (M11),OG002,2128.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-255,_selection,excluded,included,,,Anti-PD (M11),OG003,77.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
-256,_selection,excluded,included,,,ANTI-6A (M10),OG000,0.23,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-257,_selection,excluded,included,,,ANTI-6A (M10),OG001,0.89,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-258,_selection,excluded,included,,,ANTI-6A (M10),OG002,0.22,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-259,_selection,excluded,included,,,ANTI-6A (M10),OG003,0.64,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-260,_selection,excluded,included,,,ANTI-6A (M11),OG000,1.07,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-261,_selection,excluded,included,,,ANTI-6A (M11),OG001,7.94,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-262,_selection,excluded,included,,,ANTI-6A (M11),OG002,0.91,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-263,_selection,excluded,included,,,ANTI-6A (M11),OG003,9.31,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
-264,_selection,excluded,included,,,,OG000,1813.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Primary Phase of the Study
-265,_selection,excluded,included,,,,OG001,1523.9,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Primary Phase of the Study
-266,_selection,excluded,included,,,,OG002,759.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Primary Phase of the Study
-267,_selection,excluded,included,,,,OG003,2056.6,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Primary Phase of the Study
-268,_selection,excluded,included,,,,OG000,4866.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Booster Phase of the Study
-269,_selection,excluded,included,,,,OG001,3896.4,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Booster Phase of the Study
-270,_selection,excluded,included,,,,OG002,2191.0,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Booster Phase of the Study
-271,_selection,excluded,included,,,,OG003,5720.1,Titers for Opsonophagocytic Activity Against Pneumococcal Serotypes 19A During the Booster Phase of the Study
+52,outcome_overview_dose_number,3,4,,,1 (M10),OG000,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+52,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M10),OG000,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+52,outcome_overview_time_frame_weeks,,4,,,1 (M10),OG000,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+53,outcome_overview_dose_number,3,4,,,1 (M10),OG001,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+53,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M10),OG001,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+53,outcome_overview_time_frame_weeks,,4,,,1 (M10),OG001,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+54,outcome_overview_dose_number,3,4,,,1 (M10),OG002,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+54,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M10),OG002,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+54,outcome_overview_time_frame_weeks,,4,,,1 (M10),OG002,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+55,outcome_overview_dose_number,3,4,,,1 (M10),OG003,0.44,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+55,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M10),OG003,0.44,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+55,outcome_overview_time_frame_weeks,,4,,,1 (M10),OG003,0.44,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+56,outcome_overview_dose_number,3,4,,,1 (M11),OG000,2.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+56,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M11),OG000,2.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+56,outcome_overview_time_frame_weeks,,4,,,1 (M11),OG000,2.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+57,outcome_overview_dose_number,3,4,,,1 (M11),OG001,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+57,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M11),OG001,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+57,outcome_overview_time_frame_weeks,,4,,,1 (M11),OG001,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+58,outcome_overview_dose_number,3,4,,,1 (M11),OG002,2.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+58,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M11),OG002,2.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+58,outcome_overview_time_frame_weeks,,4,,,1 (M11),OG002,2.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+59,outcome_overview_dose_number,3,4,,,1 (M11),OG003,3.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+59,outcome_overview_dose_description,pre boost child,1m post boost child,,,1 (M11),OG003,3.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+59,outcome_overview_time_frame_weeks,,4,,,1 (M11),OG003,3.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+60,outcome_overview_dose_number,3,4,,,3 (M10),OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+60,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M10),OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+60,outcome_overview_time_frame_weeks,,4,,,3 (M10),OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+61,outcome_overview_dose_number,3,4,,,3 (M10),OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+61,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M10),OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+61,outcome_overview_time_frame_weeks,,4,,,3 (M10),OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+62,outcome_overview_dose_number,3,4,,,3 (M10),OG002,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+62,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M10),OG002,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+62,outcome_overview_time_frame_weeks,,4,,,3 (M10),OG002,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+63,outcome_overview_dose_number,3,4,,,3 (M10),OG003,0.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+63,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M10),OG003,0.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+63,outcome_overview_time_frame_weeks,,4,,,3 (M10),OG003,0.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+64,outcome_overview_dose_number,3,4,,,3 (M11),OG000,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+64,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M11),OG000,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+64,outcome_overview_time_frame_weeks,,4,,,3 (M11),OG000,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+65,outcome_overview_dose_number,3,4,,,3 (M11),OG001,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+65,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M11),OG001,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+65,outcome_overview_time_frame_weeks,,4,,,3 (M11),OG001,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+66,outcome_overview_dose_number,3,4,,,3 (M11),OG002,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+66,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M11),OG002,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+66,outcome_overview_time_frame_weeks,,4,,,3 (M11),OG002,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+67,outcome_overview_dose_number,3,4,,,3 (M11),OG003,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+67,outcome_overview_dose_description,pre boost child,1m post boost child,,,3 (M11),OG003,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+67,outcome_overview_time_frame_weeks,,4,,,3 (M11),OG003,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+68,outcome_overview_dose_number,3,4,,,4 (M10),OG000,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+68,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M10),OG000,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+68,outcome_overview_time_frame_weeks,,4,,,4 (M10),OG000,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+69,outcome_overview_dose_number,3,4,,,4 (M10),OG001,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+69,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M10),OG001,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+69,outcome_overview_time_frame_weeks,,4,,,4 (M10),OG001,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+70,outcome_overview_dose_number,3,4,,,4 (M10),OG002,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+70,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M10),OG002,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+70,outcome_overview_time_frame_weeks,,4,,,4 (M10),OG002,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+71,outcome_overview_dose_number,3,4,,,4 (M10),OG003,0.41,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+71,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M10),OG003,0.41,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+71,outcome_overview_time_frame_weeks,,4,,,4 (M10),OG003,0.41,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+72,outcome_overview_dose_number,3,4,,,4 (M11),OG000,3.89,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+72,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M11),OG000,3.89,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+72,outcome_overview_time_frame_weeks,,4,,,4 (M11),OG000,3.89,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+73,outcome_overview_dose_number,3,4,,,4 (M11),OG001,4.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+73,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M11),OG001,4.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+73,outcome_overview_time_frame_weeks,,4,,,4 (M11),OG001,4.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+74,outcome_overview_dose_number,3,4,,,4 (M11),OG002,4.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+74,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M11),OG002,4.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+74,outcome_overview_time_frame_weeks,,4,,,4 (M11),OG002,4.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+75,outcome_overview_dose_number,3,4,,,4 (M11),OG003,3.86,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+75,outcome_overview_dose_description,pre boost child,1m post boost child,,,4 (M11),OG003,3.86,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+75,outcome_overview_time_frame_weeks,,4,,,4 (M11),OG003,3.86,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+76,outcome_overview_dose_number,3,4,,,5 (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+76,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+76,outcome_overview_time_frame_weeks,,4,,,5 (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+77,outcome_overview_dose_number,3,4,,,5 (M10),OG001,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+77,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M10),OG001,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+77,outcome_overview_time_frame_weeks,,4,,,5 (M10),OG001,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+78,outcome_overview_dose_number,3,4,,,5 (M10),OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+78,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M10),OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+78,outcome_overview_time_frame_weeks,,4,,,5 (M10),OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+79,outcome_overview_dose_number,3,4,,,5 (M10),OG003,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+79,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M10),OG003,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+79,outcome_overview_time_frame_weeks,,4,,,5 (M10),OG003,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+80,outcome_overview_dose_number,3,4,,,5 (M11),OG000,3.23,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+80,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M11),OG000,3.23,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+80,outcome_overview_time_frame_weeks,,4,,,5 (M11),OG000,3.23,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+81,outcome_overview_dose_number,3,4,,,5 (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+81,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+81,outcome_overview_time_frame_weeks,,4,,,5 (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+82,outcome_overview_dose_number,3,4,,,5 (M11),OG002,3.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+82,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M11),OG002,3.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+82,outcome_overview_time_frame_weeks,,4,,,5 (M11),OG002,3.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+83,outcome_overview_dose_number,3,4,,,5 (M11),OG003,6.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+83,outcome_overview_dose_description,pre boost child,1m post boost child,,,5 (M11),OG003,6.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+83,outcome_overview_time_frame_weeks,,4,,,5 (M11),OG003,6.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+84,outcome_overview_dose_number,3,4,,,6B (M10),OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+84,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M10),OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+84,outcome_overview_time_frame_weeks,,4,,,6B (M10),OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+85,outcome_overview_dose_number,3,4,,,6B (M10),OG001,0.64,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+85,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M10),OG001,0.64,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+85,outcome_overview_time_frame_weeks,,4,,,6B (M10),OG001,0.64,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+86,outcome_overview_dose_number,3,4,,,6B (M10),OG002,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+86,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M10),OG002,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+86,outcome_overview_time_frame_weeks,,4,,,6B (M10),OG002,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+87,outcome_overview_dose_number,3,4,,,6B (M10),OG003,0.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+87,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M10),OG003,0.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+87,outcome_overview_time_frame_weeks,,4,,,6B (M10),OG003,0.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+88,outcome_overview_dose_number,3,4,,,6B (M11),OG000,2.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+88,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M11),OG000,2.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+88,outcome_overview_time_frame_weeks,,4,,,6B (M11),OG000,2.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+89,outcome_overview_dose_number,3,4,,,6B (M11),OG001,4.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+89,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M11),OG001,4.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+89,outcome_overview_time_frame_weeks,,4,,,6B (M11),OG001,4.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+90,outcome_overview_dose_number,3,4,,,6B (M11),OG002,2.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+90,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M11),OG002,2.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+90,outcome_overview_time_frame_weeks,,4,,,6B (M11),OG002,2.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+91,outcome_overview_dose_number,3,4,,,6B (M11),OG003,3.80,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+91,outcome_overview_dose_description,pre boost child,1m post boost child,,,6B (M11),OG003,3.80,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+91,outcome_overview_time_frame_weeks,,4,,,6B (M11),OG003,3.80,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+92,outcome_overview_dose_number,3,4,,,7F (M10),OG000,1.04,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+92,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M10),OG000,1.04,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+92,outcome_overview_time_frame_weeks,,4,,,7F (M10),OG000,1.04,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+93,outcome_overview_dose_number,3,4,,,7F (M10),OG001,0.99,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+93,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M10),OG001,0.99,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+93,outcome_overview_time_frame_weeks,,4,,,7F (M10),OG001,0.99,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+94,outcome_overview_dose_number,3,4,,,7F (M10),OG002,0.94,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+94,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M10),OG002,0.94,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+94,outcome_overview_time_frame_weeks,,4,,,7F (M10),OG002,0.94,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+95,outcome_overview_dose_number,3,4,,,7F (M10),OG003,1.21,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+95,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M10),OG003,1.21,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+95,outcome_overview_time_frame_weeks,,4,,,7F (M10),OG003,1.21,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+96,outcome_overview_dose_number,3,4,,,7F (M11),OG000,4.88,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+96,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M11),OG000,4.88,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+96,outcome_overview_time_frame_weeks,,4,,,7F (M11),OG000,4.88,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+97,outcome_overview_dose_number,3,4,,,7F (M11),OG001,4.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+97,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M11),OG001,4.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+97,outcome_overview_time_frame_weeks,,4,,,7F (M11),OG001,4.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+98,outcome_overview_dose_number,3,4,,,7F (M11),OG002,4.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+98,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M11),OG002,4.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+98,outcome_overview_time_frame_weeks,,4,,,7F (M11),OG002,4.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+99,outcome_overview_dose_number,3,4,,,7F (M11),OG003,6.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+99,outcome_overview_dose_description,pre boost child,1m post boost child,,,7F (M11),OG003,6.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+99,outcome_overview_time_frame_weeks,,4,,,7F (M11),OG003,6.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+100,outcome_overview_dose_number,3,4,,,9V (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+100,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+100,outcome_overview_time_frame_weeks,,4,,,9V (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+101,outcome_overview_dose_number,3,4,,,9V (M10),OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+101,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M10),OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+101,outcome_overview_time_frame_weeks,,4,,,9V (M10),OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+102,outcome_overview_dose_number,3,4,,,9V (M10),OG002,0.70,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+102,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M10),OG002,0.70,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+102,outcome_overview_time_frame_weeks,,4,,,9V (M10),OG002,0.70,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+103,outcome_overview_dose_number,3,4,,,9V (M10),OG003,0.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+103,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M10),OG003,0.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+103,outcome_overview_time_frame_weeks,,4,,,9V (M10),OG003,0.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+104,outcome_overview_dose_number,3,4,,,9V (M11),OG000,4.14,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+104,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M11),OG000,4.14,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+104,outcome_overview_time_frame_weeks,,4,,,9V (M11),OG000,4.14,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+105,outcome_overview_dose_number,3,4,,,9V (M11),OG001,4.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+105,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M11),OG001,4.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+105,outcome_overview_time_frame_weeks,,4,,,9V (M11),OG001,4.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+106,outcome_overview_dose_number,3,4,,,9V (M11),OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+106,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M11),OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+106,outcome_overview_time_frame_weeks,,4,,,9V (M11),OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+107,outcome_overview_dose_number,3,4,,,9V (M11),OG003,5.83,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+107,outcome_overview_dose_description,pre boost child,1m post boost child,,,9V (M11),OG003,5.83,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+107,outcome_overview_time_frame_weeks,,4,,,9V (M11),OG003,5.83,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+108,outcome_overview_dose_number,3,4,,,14 (M10),OG000,1.30,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+108,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M10),OG000,1.30,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+108,outcome_overview_time_frame_weeks,,4,,,14 (M10),OG000,1.30,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+109,outcome_overview_dose_number,3,4,,,14 (M10),OG001,1.45,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+109,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M10),OG001,1.45,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+109,outcome_overview_time_frame_weeks,,4,,,14 (M10),OG001,1.45,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+110,outcome_overview_dose_number,3,4,,,14 (M10),OG002,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+110,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M10),OG002,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+110,outcome_overview_time_frame_weeks,,4,,,14 (M10),OG002,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+111,outcome_overview_dose_number,3,4,,,14 (M10),OG003,1.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+111,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M10),OG003,1.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+111,outcome_overview_time_frame_weeks,,4,,,14 (M10),OG003,1.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+112,outcome_overview_dose_number,3,4,,,14 (M11),OG000,6.17,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+112,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M11),OG000,6.17,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+112,outcome_overview_time_frame_weeks,,4,,,14 (M11),OG000,6.17,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+113,outcome_overview_dose_number,3,4,,,14 (M11),OG001,6.52,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+113,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M11),OG001,6.52,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+113,outcome_overview_time_frame_weeks,,4,,,14 (M11),OG001,6.52,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+114,outcome_overview_dose_number,3,4,,,14 (M11),OG002,5.75,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+114,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M11),OG002,5.75,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+114,outcome_overview_time_frame_weeks,,4,,,14 (M11),OG002,5.75,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+115,outcome_overview_dose_number,3,4,,,14 (M11),OG003,10.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+115,outcome_overview_dose_description,pre boost child,1m post boost child,,,14 (M11),OG003,10.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+115,outcome_overview_time_frame_weeks,,4,,,14 (M11),OG003,10.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+116,outcome_overview_dose_number,3,4,,,18C (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+116,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+116,outcome_overview_time_frame_weeks,,4,,,18C (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+117,outcome_overview_dose_number,3,4,,,18C (M10),OG001,0.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+117,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M10),OG001,0.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+117,outcome_overview_time_frame_weeks,,4,,,18C (M10),OG001,0.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+118,outcome_overview_dose_number,3,4,,,18C (M10),OG002,0.74,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+118,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M10),OG002,0.74,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+118,outcome_overview_time_frame_weeks,,4,,,18C (M10),OG002,0.74,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+119,outcome_overview_dose_number,3,4,,,18C (M10),OG003,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+119,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M10),OG003,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+119,outcome_overview_time_frame_weeks,,4,,,18C (M10),OG003,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+120,outcome_overview_dose_number,3,4,,,18C (M11),OG000,7.65,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+120,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M11),OG000,7.65,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+120,outcome_overview_time_frame_weeks,,4,,,18C (M11),OG000,7.65,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+121,outcome_overview_dose_number,3,4,,,18C (M11),OG001,7.20,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+121,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M11),OG001,7.20,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+121,outcome_overview_time_frame_weeks,,4,,,18C (M11),OG001,7.20,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+122,outcome_overview_dose_number,3,4,,,18C (M11),OG002,8.00,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+122,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M11),OG002,8.00,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+122,outcome_overview_time_frame_weeks,,4,,,18C (M11),OG002,8.00,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+123,outcome_overview_dose_number,3,4,,,18C (M11),OG003,6.01,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+123,outcome_overview_dose_description,pre boost child,1m post boost child,,,18C (M11),OG003,6.01,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+123,outcome_overview_time_frame_weeks,,4,,,18C (M11),OG003,6.01,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+124,outcome_overview_dose_number,3,4,,,19A (M10),OG000,0.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+124,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M10),OG000,0.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+124,outcome_overview_time_frame_weeks,,4,,,19A (M10),OG000,0.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+125,outcome_overview_dose_number,3,4,,,19A (M10),OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+125,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M10),OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+125,outcome_overview_time_frame_weeks,,4,,,19A (M10),OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+126,outcome_overview_dose_number,3,4,,,19A (M10),OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+126,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M10),OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+126,outcome_overview_time_frame_weeks,,4,,,19A (M10),OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+127,outcome_overview_dose_number,3,4,,,19A (M10),OG003,0.42,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+127,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M10),OG003,0.42,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+127,outcome_overview_time_frame_weeks,,4,,,19A (M10),OG003,0.42,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+128,outcome_overview_dose_number,3,4,,,19A (M11),OG000,5.35,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+128,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M11),OG000,5.35,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+128,outcome_overview_time_frame_weeks,,4,,,19A (M11),OG000,5.35,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+129,outcome_overview_dose_number,3,4,,,19A (M11),OG001,4.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+129,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M11),OG001,4.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+129,outcome_overview_time_frame_weeks,,4,,,19A (M11),OG001,4.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+130,outcome_overview_dose_number,3,4,,,19A (M11),OG002,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+130,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M11),OG002,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+130,outcome_overview_time_frame_weeks,,4,,,19A (M11),OG002,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+131,outcome_overview_dose_number,3,4,,,19A (M11),OG003,7.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+131,outcome_overview_dose_description,pre boost child,1m post boost child,,,19A (M11),OG003,7.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+131,outcome_overview_time_frame_weeks,,4,,,19A (M11),OG003,7.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+132,outcome_overview_dose_number,3,4,,,19F (M10),OG000,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+132,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M10),OG000,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+132,outcome_overview_time_frame_weeks,,4,,,19F (M10),OG000,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+133,outcome_overview_dose_number,3,4,,,19F (M10),OG001,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+133,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M10),OG001,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+133,outcome_overview_time_frame_weeks,,4,,,19F (M10),OG001,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+134,outcome_overview_dose_number,3,4,,,19F (M10),OG002,1.10,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+134,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M10),OG002,1.10,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+134,outcome_overview_time_frame_weeks,,4,,,19F (M10),OG002,1.10,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+135,outcome_overview_dose_number,3,4,,,19F (M10),OG003,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+135,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M10),OG003,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+135,outcome_overview_time_frame_weeks,,4,,,19F (M10),OG003,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+136,outcome_overview_dose_number,3,4,,,19F (M11),OG000,8.67,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+136,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M11),OG000,8.67,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+136,outcome_overview_time_frame_weeks,,4,,,19F (M11),OG000,8.67,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+137,outcome_overview_dose_number,3,4,,,19F (M11),OG001,8.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+137,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M11),OG001,8.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+137,outcome_overview_time_frame_weeks,,4,,,19F (M11),OG001,8.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+138,outcome_overview_dose_number,3,4,,,19F (M11),OG002,8.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+138,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M11),OG002,8.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+138,outcome_overview_time_frame_weeks,,4,,,19F (M11),OG002,8.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+139,outcome_overview_dose_number,3,4,,,19F (M11),OG003,6.40,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+139,outcome_overview_dose_description,pre boost child,1m post boost child,,,19F (M11),OG003,6.40,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+139,outcome_overview_time_frame_weeks,,4,,,19F (M11),OG003,6.40,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+140,outcome_overview_dose_number,3,4,,,23F (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+140,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+140,outcome_overview_time_frame_weeks,,4,,,23F (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+141,outcome_overview_dose_number,3,4,,,23F (M10),OG001,0.54,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+141,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M10),OG001,0.54,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+141,outcome_overview_time_frame_weeks,,4,,,23F (M10),OG001,0.54,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+142,outcome_overview_dose_number,3,4,,,23F (M10),OG002,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+142,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M10),OG002,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+142,outcome_overview_time_frame_weeks,,4,,,23F (M10),OG002,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+143,outcome_overview_dose_number,3,4,,,23F (M10),OG003,0.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+143,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M10),OG003,0.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+143,outcome_overview_time_frame_weeks,,4,,,23F (M10),OG003,0.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+144,outcome_overview_dose_number,3,4,,,23F (M11),OG000,3.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+144,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M11),OG000,3.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+144,outcome_overview_time_frame_weeks,,4,,,23F (M11),OG000,3.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+145,outcome_overview_dose_number,3,4,,,23F (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+145,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+145,outcome_overview_time_frame_weeks,,4,,,23F (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+146,outcome_overview_dose_number,3,4,,,23F (M11),OG002,2.98,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+146,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M11),OG002,2.98,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+146,outcome_overview_time_frame_weeks,,4,,,23F (M11),OG002,2.98,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+147,outcome_overview_dose_number,3,4,,,23F (M11),OG003,6.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+147,outcome_overview_dose_description,pre boost child,1m post boost child,,,23F (M11),OG003,6.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+147,outcome_overview_time_frame_weeks,,4,,,23F (M11),OG003,6.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+244,outcome_overview_dose_number,3,4,,,PD (M10),OG000,445.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+244,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M10),OG000,445.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+244,outcome_overview_time_frame_weeks,,4,,,PD (M10),OG000,445.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+245,outcome_overview_dose_number,3,4,,,PD (M10),OG001,447.6,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+245,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M10),OG001,447.6,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+245,outcome_overview_time_frame_weeks,,4,,,PD (M10),OG001,447.6,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+246,outcome_overview_dose_number,3,4,,,PD (M10),OG002,460.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+246,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M10),OG002,460.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+246,outcome_overview_time_frame_weeks,,4,,,PD (M10),OG002,460.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+247,outcome_overview_dose_number,3,4,,,PD (M10),OG003,70.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+247,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M10),OG003,70.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+247,outcome_overview_time_frame_weeks,,4,,,PD (M10),OG003,70.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+248,outcome_overview_dose_number,3,4,,,PD (M11),OG000,1866.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+248,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M11),OG000,1866.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+248,outcome_overview_time_frame_weeks,,4,,,PD (M11),OG000,1866.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+249,outcome_overview_dose_number,3,4,,,PD (M11),OG001,1835.5,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+249,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M11),OG001,1835.5,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+249,outcome_overview_time_frame_weeks,,4,,,PD (M11),OG001,1835.5,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+250,outcome_overview_dose_number,3,4,,,PD (M11),OG002,2128.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+250,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M11),OG002,2128.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+250,outcome_overview_time_frame_weeks,,4,,,PD (M11),OG002,2128.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+251,outcome_overview_dose_number,3,4,,,PD (M11),OG003,77.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+251,outcome_overview_dose_description,pre boost child,1m post boost child,,,PD (M11),OG003,77.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+251,outcome_overview_time_frame_weeks,,4,,,PD (M11),OG003,77.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+252,outcome_overview_dose_number,3,4,,,6A (M10),OG000,0.23,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+252,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M10),OG000,0.23,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+252,outcome_overview_time_frame_weeks,,4,,,6A (M10),OG000,0.23,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+253,outcome_overview_dose_number,3,4,,,6A (M10),OG001,0.89,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+253,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M10),OG001,0.89,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+253,outcome_overview_time_frame_weeks,,4,,,6A (M10),OG001,0.89,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+254,outcome_overview_dose_number,3,4,,,6A (M10),OG002,0.22,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+254,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M10),OG002,0.22,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+254,outcome_overview_time_frame_weeks,,4,,,6A (M10),OG002,0.22,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+255,outcome_overview_dose_number,3,4,,,6A (M10),OG003,0.64,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+255,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M10),OG003,0.64,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+255,outcome_overview_time_frame_weeks,,4,,,6A (M10),OG003,0.64,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+256,outcome_overview_dose_number,3,4,,,6A (M11),OG000,1.07,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+256,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M11),OG000,1.07,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+256,outcome_overview_time_frame_weeks,,4,,,6A (M11),OG000,1.07,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+257,outcome_overview_dose_number,3,4,,,6A (M11),OG001,7.94,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+257,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M11),OG001,7.94,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+257,outcome_overview_time_frame_weeks,,4,,,6A (M11),OG001,7.94,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+258,outcome_overview_dose_number,3,4,,,6A (M11),OG002,0.91,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+258,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M11),OG002,0.91,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+258,outcome_overview_time_frame_weeks,,4,,,6A (M11),OG002,0.91,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+259,outcome_overview_dose_number,3,4,,,6A (M11),OG003,9.31,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+259,outcome_overview_dose_description,pre boost child,1m post boost child,,,6A (M11),OG003,9.31,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+259,outcome_overview_time_frame_weeks,,4,,,6A (M11),OG003,9.31,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+260,_selection,included,excluded,,,1 (M10),OG000,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+261,_selection,included,excluded,,,1 (M10),OG001,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+262,_selection,included,excluded,,,1 (M10),OG002,0.26,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+263,_selection,included,excluded,,,1 (M10),OG003,0.44,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+264,_selection,included,excluded,,,1 (M11),OG000,2.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+265,_selection,included,excluded,,,1 (M11),OG001,2.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+266,_selection,included,excluded,,,1 (M11),OG002,2.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+267,_selection,included,excluded,,,1 (M11),OG003,3.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+268,_selection,included,excluded,,,3 (M10),OG000,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+269,_selection,included,excluded,,,3 (M10),OG001,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+270,_selection,included,excluded,,,3 (M10),OG002,0.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+271,_selection,included,excluded,,,3 (M10),OG003,0.25,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+272,_selection,included,excluded,,,3 (M11),OG000,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+273,_selection,included,excluded,,,3 (M11),OG001,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+274,_selection,included,excluded,,,3 (M11),OG002,0.07,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+275,_selection,included,excluded,,,3 (M11),OG003,1.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+276,_selection,included,excluded,,,4 (M10),OG000,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+277,_selection,included,excluded,,,4 (M10),OG001,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+278,_selection,included,excluded,,,4 (M10),OG002,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+279,_selection,included,excluded,,,4 (M10),OG003,0.41,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+280,_selection,included,excluded,,,4 (M11),OG000,3.89,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+281,_selection,included,excluded,,,4 (M11),OG001,4.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+282,_selection,included,excluded,,,4 (M11),OG002,4.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+283,_selection,included,excluded,,,4 (M11),OG003,3.86,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+284,_selection,included,excluded,,,5 (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+285,_selection,included,excluded,,,5 (M10),OG001,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+286,_selection,included,excluded,,,5 (M10),OG002,0.48,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+287,_selection,included,excluded,,,5 (M10),OG003,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+288,_selection,included,excluded,,,5 (M11),OG000,3.23,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+289,_selection,included,excluded,,,5 (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+290,_selection,included,excluded,,,5 (M11),OG002,3.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+291,_selection,included,excluded,,,5 (M11),OG003,6.84,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+292,_selection,included,excluded,,,6B (M10),OG000,0.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+293,_selection,included,excluded,,,6B (M10),OG001,0.64,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+294,_selection,included,excluded,,,6B (M10),OG002,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+295,_selection,included,excluded,,,6B (M10),OG003,0.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+296,_selection,included,excluded,,,6B (M11),OG000,2.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+297,_selection,included,excluded,,,6B (M11),OG001,4.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+298,_selection,included,excluded,,,6B (M11),OG002,2.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+299,_selection,included,excluded,,,6B (M11),OG003,3.80,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+300,_selection,included,excluded,,,7F (M10),OG000,1.04,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+301,_selection,included,excluded,,,7F (M10),OG001,0.99,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+302,_selection,included,excluded,,,7F (M10),OG002,0.94,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+303,_selection,included,excluded,,,7F (M10),OG003,1.21,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+304,_selection,included,excluded,,,7F (M11),OG000,4.88,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+305,_selection,included,excluded,,,7F (M11),OG001,4.57,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+306,_selection,included,excluded,,,7F (M11),OG002,4.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+307,_selection,included,excluded,,,7F (M11),OG003,6.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+308,_selection,included,excluded,,,9V (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+309,_selection,included,excluded,,,9V (M10),OG001,0.77,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+310,_selection,included,excluded,,,9V (M10),OG002,0.70,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+311,_selection,included,excluded,,,9V (M10),OG003,0.53,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+312,_selection,included,excluded,,,9V (M11),OG000,4.14,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+313,_selection,included,excluded,,,9V (M11),OG001,4.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+314,_selection,included,excluded,,,9V (M11),OG002,3.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+315,_selection,included,excluded,,,9V (M11),OG003,5.83,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+316,_selection,included,excluded,,,14 (M10),OG000,1.30,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+317,_selection,included,excluded,,,14 (M10),OG001,1.45,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+318,_selection,included,excluded,,,14 (M10),OG002,1.12,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+319,_selection,included,excluded,,,14 (M10),OG003,1.66,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+320,_selection,included,excluded,,,14 (M11),OG000,6.17,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+321,_selection,included,excluded,,,14 (M11),OG001,6.52,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+322,_selection,included,excluded,,,14 (M11),OG002,5.75,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+323,_selection,included,excluded,,,14 (M11),OG003,10.05,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+324,_selection,included,excluded,,,18C (M10),OG000,0.76,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+325,_selection,included,excluded,,,18C (M10),OG001,0.68,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+326,_selection,included,excluded,,,18C (M10),OG002,0.74,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+327,_selection,included,excluded,,,18C (M10),OG003,0.59,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+328,_selection,included,excluded,,,18C (M11),OG000,7.65,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+329,_selection,included,excluded,,,18C (M11),OG001,7.20,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+330,_selection,included,excluded,,,18C (M11),OG002,8.00,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+331,_selection,included,excluded,,,18C (M11),OG003,6.01,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+332,_selection,included,excluded,,,19A (M10),OG000,0.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+333,_selection,included,excluded,,,19A (M10),OG001,0.36,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+334,_selection,included,excluded,,,19A (M10),OG002,0.18,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+335,_selection,included,excluded,,,19A (M10),OG003,0.42,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+336,_selection,included,excluded,,,19A (M11),OG000,5.35,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+337,_selection,included,excluded,,,19A (M11),OG001,4.46,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+338,_selection,included,excluded,,,19A (M11),OG002,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+339,_selection,included,excluded,,,19A (M11),OG003,7.06,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+340,_selection,included,excluded,,,19F (M10),OG000,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+341,_selection,included,excluded,,,19F (M10),OG001,1.11,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+342,_selection,included,excluded,,,19F (M10),OG002,1.10,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+343,_selection,included,excluded,,,19F (M10),OG003,0.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+344,_selection,included,excluded,,,19F (M11),OG000,8.67,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+345,_selection,included,excluded,,,19F (M11),OG001,8.50,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+346,_selection,included,excluded,,,19F (M11),OG002,8.22,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+347,_selection,included,excluded,,,19F (M11),OG003,6.40,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+348,_selection,included,excluded,,,23F (M10),OG000,0.51,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+349,_selection,included,excluded,,,23F (M10),OG001,0.54,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+350,_selection,included,excluded,,,23F (M10),OG002,0.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+351,_selection,included,excluded,,,23F (M10),OG003,0.34,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+352,_selection,included,excluded,,,23F (M11),OG000,3.09,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+353,_selection,included,excluded,,,23F (M11),OG001,3.31,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+354,_selection,included,excluded,,,23F (M11),OG002,2.98,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+355,_selection,included,excluded,,,23F (M11),OG003,6.49,Antibody Concentrations Against Pneumococcal Serotypes During the Booster Phase of the Study
+356,_selection,included,excluded,,,PD (M10),OG000,445.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+357,_selection,included,excluded,,,PD (M10),OG001,447.6,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+358,_selection,included,excluded,,,PD (M10),OG002,460.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+359,_selection,included,excluded,,,PD (M10),OG003,70.9,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+360,_selection,included,excluded,,,PD (M11),OG000,1866.0,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+361,_selection,included,excluded,,,PD (M11),OG001,1835.5,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+362,_selection,included,excluded,,,PD (M11),OG002,2128.4,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+363,_selection,included,excluded,,,PD (M11),OG003,77.8,Concentrations of Antibodies Against Protein D (Anti-PD) During the Booster Phase of the Study
+364,_selection,included,excluded,,,6A (M10),OG000,0.23,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+365,_selection,included,excluded,,,6A (M10),OG001,0.89,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+366,_selection,included,excluded,,,6A (M10),OG002,0.22,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+367,_selection,included,excluded,,,6A (M10),OG003,0.64,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+368,_selection,included,excluded,,,6A (M11),OG000,1.07,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+369,_selection,included,excluded,,,6A (M11),OG001,7.94,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+370,_selection,included,excluded,,,6A (M11),OG002,0.91,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study
+371,_selection,included,excluded,,,6A (M11),OG003,9.31,Antibody Concentrations Against Pneumococcal Serotype 6A During the Booster Phase of the Study

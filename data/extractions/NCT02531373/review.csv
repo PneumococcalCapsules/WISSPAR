@@ -1,0 +1,91 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+150,outcome_overview_time_frame_weeks,,39,,,1,OG000,30.8,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+151,outcome_overview_time_frame_weeks,,39,,,1,OG001,43.6,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+152,outcome_overview_time_frame_weeks,,39,,,1,OG002,57.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+153,outcome_overview_time_frame_weeks,,39,,,3,OG000,10.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+154,outcome_overview_time_frame_weeks,,39,,,3,OG001,15.4,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+155,outcome_overview_time_frame_weeks,,39,,,3,OG002,7.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+156,outcome_overview_time_frame_weeks,,39,,,4,OG000,17.9,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+157,outcome_overview_time_frame_weeks,,39,,,4,OG001,33.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+158,outcome_overview_time_frame_weeks,,39,,,4,OG002,27.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+159,outcome_overview_time_frame_weeks,,39,,,5,OG000,61.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+160,outcome_overview_time_frame_weeks,,39,,,5,OG001,56.4,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+161,outcome_overview_time_frame_weeks,,39,,,5,OG002,72.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+162,outcome_overview_time_frame_weeks,,39,,,6A,OG000,48.7,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+163,outcome_overview_time_frame_weeks,,39,,,6A,OG001,56.4,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+164,outcome_overview_time_frame_weeks,,39,,,6A,OG002,82.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+165,outcome_overview_time_frame_weeks,,39,,,6B,OG000,71.8,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+166,outcome_overview_time_frame_weeks,,39,,,6B,OG001,71.8,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+167,outcome_overview_time_frame_weeks,,39,,,6B,OG002,62.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+168,outcome_overview_time_frame_weeks,,39,,,7F,OG000,82.1,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+169,outcome_overview_time_frame_weeks,,39,,,7F,OG001,92.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+170,outcome_overview_time_frame_weeks,,39,,,7F,OG002,97.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+171,outcome_overview_time_frame_weeks,,39,,,9V,OG000,53.8,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+172,outcome_overview_time_frame_weeks,,39,,,9V,OG001,64.1,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+173,outcome_overview_time_frame_weeks,,39,,,9V,OG002,45.0,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+174,outcome_overview_time_frame_weeks,,39,,,14,OG000,87.2,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+175,outcome_overview_time_frame_weeks,,39,,,14,OG001,87.2,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+176,outcome_overview_time_frame_weeks,,39,,,14,OG002,87.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+177,outcome_overview_time_frame_weeks,,39,,,18C,OG000,12.8,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+178,outcome_overview_time_frame_weeks,,39,,,18C,OG001,23.1,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+179,outcome_overview_time_frame_weeks,,39,,,18C,OG002,35.0,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+180,outcome_overview_time_frame_weeks,,39,,,19A,OG000,33.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+181,outcome_overview_time_frame_weeks,,39,,,19A,OG001,28.2,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+182,outcome_overview_time_frame_weeks,,39,,,19A,OG002,55.0,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+183,outcome_overview_time_frame_weeks,,39,,,19F,OG000,35.9,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+184,outcome_overview_time_frame_weeks,,39,,,19F,OG001,46.2,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+185,outcome_overview_time_frame_weeks,,39,,,19F,OG002,62.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+186,outcome_overview_time_frame_weeks,,39,,,22F (non,OG000,97.4,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+187,outcome_overview_time_frame_weeks,,39,,,22F (non,OG001,97.4,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+188,outcome_overview_time_frame_weeks,,39,,,22F (non,OG002,2.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+189,outcome_overview_time_frame_weeks,,39,,,23F,OG000,33.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+190,outcome_overview_time_frame_weeks,,39,,,23F,OG001,43.6,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+191,outcome_overview_time_frame_weeks,,39,,,23F,OG002,32.5,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+192,outcome_overview_time_frame_weeks,,39,,,33F (non,OG000,92.3,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+193,outcome_overview_time_frame_weeks,,39,,,33F (non,OG001,87.2,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+194,outcome_overview_time_frame_weeks,,39,,,33F (non,OG002,0.0,Infants: Percentage of Participants With GMC ≥0.35 µg/mL Before Vaccination 4
+240,outcome_overview_time_frame_weeks,,39,,,1,OG000,0.27,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+241,outcome_overview_time_frame_weeks,,39,,,1,OG001,0.30,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+242,outcome_overview_time_frame_weeks,,39,,,1,OG002,0.40,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+243,outcome_overview_time_frame_weeks,,39,,,3,OG000,0.14,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+244,outcome_overview_time_frame_weeks,,39,,,3,OG001,0.21,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+245,outcome_overview_time_frame_weeks,,39,,,3,OG002,0.09,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+246,outcome_overview_time_frame_weeks,,39,,,4,OG000,0.21,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+247,outcome_overview_time_frame_weeks,,39,,,4,OG001,0.26,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+248,outcome_overview_time_frame_weeks,,39,,,4,OG002,0.23,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+249,outcome_overview_time_frame_weeks,,39,,,5,OG000,0.42,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+250,outcome_overview_time_frame_weeks,,39,,,5,OG001,0.40,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+251,outcome_overview_time_frame_weeks,,39,,,5,OG002,0.59,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+252,outcome_overview_time_frame_weeks,,39,,,6A,OG000,0.35,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+253,outcome_overview_time_frame_weeks,,39,,,6A,OG001,0.33,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+254,outcome_overview_time_frame_weeks,,39,,,6A,OG002,0.63,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+255,outcome_overview_time_frame_weeks,,39,,,6B,OG000,0.52,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+256,outcome_overview_time_frame_weeks,,39,,,6B,OG001,0.50,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+257,outcome_overview_time_frame_weeks,,39,,,6B,OG002,0.43,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+258,outcome_overview_time_frame_weeks,,39,,,7F,OG000,0.56,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+259,outcome_overview_time_frame_weeks,,39,,,7F,OG001,0.79,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+260,outcome_overview_time_frame_weeks,,39,,,7F,OG002,0.89,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+261,outcome_overview_time_frame_weeks,,39,,,9V,OG000,0.34,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+262,outcome_overview_time_frame_weeks,,39,,,9V,OG001,0.42,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+263,outcome_overview_time_frame_weeks,,39,,,9V,OG002,0.35,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+264,outcome_overview_time_frame_weeks,,39,,,14,OG000,0.83,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+265,outcome_overview_time_frame_weeks,,39,,,14,OG001,0.92,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+266,outcome_overview_time_frame_weeks,,39,,,14,OG002,1.53,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+267,outcome_overview_time_frame_weeks,,39,,,18C,OG000,0.16,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+268,outcome_overview_time_frame_weeks,,39,,,18C,OG001,0.20,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+269,outcome_overview_time_frame_weeks,,39,,,18C,OG002,0.28,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+270,outcome_overview_time_frame_weeks,,39,,,19A,OG000,0.27,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+271,outcome_overview_time_frame_weeks,,39,,,19A,OG001,0.32,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+272,outcome_overview_time_frame_weeks,,39,,,19A,OG002,0.39,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+273,outcome_overview_time_frame_weeks,,39,,,19F,OG000,0.28,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+274,outcome_overview_time_frame_weeks,,39,,,19F,OG001,0.35,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+275,outcome_overview_time_frame_weeks,,39,,,19F,OG002,0.48,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+276,outcome_overview_time_frame_weeks,,39,,,22F (non,OG000,0.97,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+277,outcome_overview_time_frame_weeks,,39,,,22F (non,OG001,1.14,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+278,outcome_overview_time_frame_weeks,,39,,,22F (non,OG002,0.06,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+279,outcome_overview_time_frame_weeks,,39,,,23F,OG000,0.23,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+280,outcome_overview_time_frame_weeks,,39,,,23F,OG001,0.26,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+281,outcome_overview_time_frame_weeks,,39,,,23F,OG002,0.26,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+282,outcome_overview_time_frame_weeks,,39,,,33F (non,OG000,0.91,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+283,outcome_overview_time_frame_weeks,,39,,,33F (non,OG001,0.96,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies
+284,outcome_overview_time_frame_weeks,,39,,,33F (non,OG002,0.05,Infants: Geometric Mean Concentration of Pneumococcal Serotype IgG Antibodies

@@ -11,4 +11,6 @@
 .Rhistory
 *.Rproj
 .DS_Store
+.env
+__pycache__/
 .Rhistory

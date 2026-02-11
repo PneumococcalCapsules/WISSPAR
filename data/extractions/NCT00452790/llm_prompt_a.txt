@@ -1,0 +1,121 @@
+SYSTEM:
+You are a clinical immunogenicity researcher analyzing pneumococcal vaccine trial data from ClinicalTrials.gov. You will classify immunogenicity measurements by reasoning about the overall trial design.
+
+Your analytical approach:
+1. First, understand the overall trial design: What vaccines are compared? What dosing schedules? What age groups?
+2. Look at ALL outcome measures together to understand the trial's measurement plan (e.g., "After Dose 3" and "After Dose 4" outcomes reveal the dosing schedule).
+3. Use timing gaps between measurements (e.g., Dose 3 at ~7 months, Dose 4 at ~13 months) to identify booster doses vs primary series doses.
+4. For vaccine identification, understand which arm/group corresponds to which vaccine product based on the full trial description.
+5. Think holistically about the trial before classifying individual measurements.
+
+USER:
+# Trial: NCT00452790 - A Phase 3, Randomised, Active-Controlled, Double-Blind Trial Evaluating the Safety, Tolerability and Immunogenicity of a 13-valent Pneumococcal Conjugate Vaccine in Healthy Infants Given With Routine Paediatric Vaccinations in India
+Sponsor: Wyeth is now a wholly owned subsidiary of Pfizer
+Phase: Phase 3
+Population: CHILD
+
+## Arms and Interventions
+
+ARM: A (EXPERIMENTAL)
+  Interventions: 13-valent Pneumococcal Conjugate Vaccine
+
+ARM: B (ACTIVE_COMPARATOR)
+  Interventions: 7 valent pneumococcal conjugate vaccine
+
+## Immunogenicity Outcome Measures
+
+### Outcome 0: "Geometric Mean Concentration (GMC) for Serotype-specific Pneumococcal Immunoglobulin G (IgG) Antibody, 1 Month After the 3-Dose Infant Series"
+Description: Antibody GMC as measured in mcg/mL for 7 common pneumococcal serotypes (serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F) and 6 additional pneumococcal serotypes specific to 13vPnC (Serotypes 1, 3, 5, 6A, 7F, and 19A) are presented. GMC (13vPnC) and corresponding O'Brien-Fleming-adjusted, 2-sided 95% CIs 
+Timeframe: 1 month after the 3-dose infant series (18 weeks of age)
+ParamType: GEOMETRIC_MEAN | Unit: mcg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "13vPnC" - Participants received 1 single 0.5 mL dose of 13-valent pneumococcal conjugate vaccine (13vPnC), administered intramuscularly, at 6, 10 and 14 weeks of age (infant series) and 12 months of age (toddler dose). During the infant series, 13vPnC was co-a...
+  OG001: "7vPnC" - Participants received 1 single 0.5 mL dose of 7vPnC, administered intramuscularly, at 6, 10 and 14 weeks of age (infant series) and 12 months of age (toddler dose). During the infant series, 7vPnC was co-administered with a commercially available com...
+  Serotypes (13): "Common serotypes - serotype 4 (n= 203,192)", "Common serotypes - serotype 6B (n= 196,194)", "Common serotypes - serotype 9V (n= 204,195)", "Common serotypes - serotype 14 (n= 185,186)", "Common serotypes - serotype 18C (n= 204,188)", ... +8 more
+
+### Outcome 1: "GMC for Serotype-specific Pneumococcal IgG Antibody, 1 Month After the Toddler Dose"
+Description: Antibody GMC as measured in mcg/mL for 7 common pneumococcal serotypes (serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F) and 6 additional pneumococcal serotypes specific to 13vPnC (Serotypes 1, 3, 5, 6A, 7F, and 19A) are presented. GMC (13vPnC) and corresponding 2-sided 95% CIs were presented.
+Timeframe: 1 month after toddler dose (13 months of age)
+ParamType: GEOMETRIC_MEAN | Unit: mcg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "13vPnC" - Participants received 1 single 0.5 mL dose of 13-valent pneumococcal conjugate vaccine (13vPnC), administered intramuscularly, at 6, 10 and 14 weeks of age (infant series) and 12 months of age (toddler dose). During the infant series, 13vPnC was co-a...
+  OG001: "7vPnC" - Participants received 1 single 0.5 mL dose of 7vPnC, administered intramuscularly, at 6, 10 and 14 weeks of age (infant series) and 12 months of age (toddler dose). During the infant series, 7vPnC was co-administered with a commercially available com...
+  Serotypes (13): "Common serotypes - serotype 4 (n= 193, 196)", "Common serotypes - serotype 6B (n= 192, 195)", "Common serotypes - serotype 9V (n= 193,196)", "Common serotypes - serotype 14 (n= 193,196)", "Common serotypes - serotype 18C (n= 193,196)", ... +8 more
+
+## Vaccine Reference (use these standardized names)
+  - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
+  - PCV10 (Synflorix) (manufacturer: GSK)
+  - PCV13 (manufacturer: Pfizer)
+  - PCV13 (Pfizer) (manufacturer: Pfizer)
+  - PCV15 (manufacturer: MSD)
+  - PCV20 (manufacturer: Pfizer)
+  - PCV21(Merck V116) (manufacturer: MSD)
+  - PCV24 (Vaxcyte VAX-24) (manufacturer: Vaxcyte)
+  - PCV25 (Inventprise) (manufacturer: Inventprise)
+  - PCV31 (Vaxcyte VAX-31) (manufacturer: Vaxcyte)
+  - PCV7 (manufacturer: Pfizer)
+  - PPV23 (manufacturer: MSD)
+
+## Task
+Analyze each outcome measure and its groups. Return ONLY a JSON object (no markdown fences, no commentary) with this structure:
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "OPA" or "GMC",
+      "time_frame_weeks": <integer or null>,
+      "groups": {
+        "<group_id>": {
+          "vaccine": "<standardized vaccine name>",
+          "manufacturer": "<company short name>",
+          "dose_number": <integer>,
+          "schedule": "<schedule string>",
+          "dose_description": "<description string>"
+        }
+      }
+    }
+  ]
+}
+
+Classification rules:
+
+ASSAY:
+- "OPA" for opsonophagocytic activity / geometric mean titer (GMT) measures.
+- "GMC" for IgG geometric mean concentration measures.
+- Key indicators: unit "1/dil" or "titer" → OPA. Unit "mcg/mL" or "ug/mL" → GMC.
+- "Unknown" only if truly unclear.
+
+TIME_FRAME_WEEKS:
+- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- "1 month after vaccination" = 4. "6 months after dose 3" = 26.
+- This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
+- null only if truly not determinable from the timeframe text.
+
+DOSE_NUMBER:
+- The total number of vaccine doses the participant has received AT THE TIME of this measurement.
+- "after dose 3" = 3. "after booster" in a 3+1 trial = 4. "pre-booster" in a 3+1 trial = 3. "after dose 1" = 1.
+
+SCHEDULE:
+- Use "{primary}+1 {age}" when the trial includes a booster/toddler dose (e.g., "3+1 child", "2+1 child"). A trial has a booster if ANY outcome mentions "booster", "toddler dose", or if there is a large timing gap between the last dose and prior doses (e.g., doses at 2,4,6 months then 12-15 months).
+- Use "{n} dose {age}" ONLY when there is NO booster in the trial (e.g., "1 dose adult", "2 dose adult", "3 dose child").
+- IMPORTANT: The schedule describes the ENTIRE regimen for that arm, not just this measurement. A "3+1 child" arm stays "3+1 child" for ALL its outcomes (post-dose-3, pre-booster, post-booster).
+- Use "child" for CHILD populations, "adult" for ADULT/OLDER_ADULT.
+
+DOSE_DESCRIPTION:
+- Format: "{time}m post dose {n} {age}" when time_frame_weeks ≈ 4 (use "1m"), otherwise "{weeks}w post dose {n} {age}".
+- For post-booster: "1m post boost {age}" (if ~4 weeks) or "{weeks}w post boost {age}".
+- For pre-booster: "pre boost {age}".
+- ALWAYS use "1m" (not "4w") when the timeframe is approximately 1 month (4-5 weeks). Use "{weeks}w" for all other durations.
+- Examples: "1m post dose 3 child", "26w post dose 1 adult", "1m post boost child", "pre boost child".
+
+VACCINE:
+- Use EXACTLY the standardized name from the reference list when it matches.
+- Do NOT append the manufacturer in parentheses if the reference name already exists without it (e.g., use "PCV13" not "PCV13 (Pfizer)" when "PCV13" is in the reference list).
+- For sequential regimens (e.g., PCV13 then PPV23): each group receives ONE vaccine at a time. Assign the vaccine that group received, not a combo.
+- For new/unknown vaccines: use "PCV{valency} ({brand/company})".
+
+MANUFACTURER:
+- Use these EXACT short names (matching the vaccine reference list):
+  Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
+- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
+- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.

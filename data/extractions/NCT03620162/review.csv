@@ -1,5 +1,242 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-65,outcome_overview_assay,OPA,GMC,,,,OG000,286.5,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
-66,outcome_overview_assay,OPA,GMC,,,,OG001,329.5,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
-67,outcome_overview_assay,OPA,GMC,,,,OG004,298.3,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
-68,outcome_overview_assay,OPA,GMC,,,,OG005,307.0,Group 5 Versus Group 1 + Group 2: Geometric Mean Titer (GMT) of Anti-Rotavirus Immunoglobulin A (IgA) at 30 Days Post Vaccination 3
+0,outcome_overview_time_frame_weeks,4,47,,,1,OG000,2.02,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+1,outcome_overview_time_frame_weeks,4,47,,,1,OG001,1.69,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+2,outcome_overview_time_frame_weeks,4,47,,,1,OG002,1.89,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+3,outcome_overview_time_frame_weeks,4,47,,,1,OG003,1.68,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+4,outcome_overview_time_frame_weeks,4,47,,,1,OG004,1.46,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+5,outcome_overview_time_frame_weeks,4,47,,,3,OG000,0.72,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+6,outcome_overview_time_frame_weeks,4,47,,,3,OG001,0.77,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+7,outcome_overview_time_frame_weeks,4,47,,,3,OG002,0.68,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+8,outcome_overview_time_frame_weeks,4,47,,,3,OG003,0.73,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+9,outcome_overview_time_frame_weeks,4,47,,,3,OG004,0.89,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+10,outcome_overview_time_frame_weeks,4,47,,,4,OG000,1.51,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+11,outcome_overview_time_frame_weeks,4,47,,,4,OG001,1.33,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+12,outcome_overview_time_frame_weeks,4,47,,,4,OG002,1.27,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+13,outcome_overview_time_frame_weeks,4,47,,,4,OG003,1.23,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+14,outcome_overview_time_frame_weeks,4,47,,,4,OG004,1.35,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+15,outcome_overview_time_frame_weeks,4,47,,,5,OG000,3.66,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+16,outcome_overview_time_frame_weeks,4,47,,,5,OG001,3.39,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+17,outcome_overview_time_frame_weeks,4,47,,,5,OG002,3.82,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+18,outcome_overview_time_frame_weeks,4,47,,,5,OG003,2.90,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+19,outcome_overview_time_frame_weeks,4,47,,,5,OG004,2.90,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+20,outcome_overview_time_frame_weeks,4,47,,,6A,OG000,6.42,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+21,outcome_overview_time_frame_weeks,4,47,,,6A,OG001,7.16,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+22,outcome_overview_time_frame_weeks,4,47,,,6A,OG002,7.16,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+23,outcome_overview_time_frame_weeks,4,47,,,6A,OG003,5.17,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+24,outcome_overview_time_frame_weeks,4,47,,,6A,OG004,4.43,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+25,outcome_overview_time_frame_weeks,4,47,,,6B,OG000,6.15,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+26,outcome_overview_time_frame_weeks,4,47,,,6B,OG001,7.58,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+27,outcome_overview_time_frame_weeks,4,47,,,6B,OG002,6.64,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+28,outcome_overview_time_frame_weeks,4,47,,,6B,OG003,6.62,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+29,outcome_overview_time_frame_weeks,4,47,,,6B,OG004,5.83,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+30,outcome_overview_time_frame_weeks,4,47,,,7F,OG000,5.10,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+31,outcome_overview_time_frame_weeks,4,47,,,7F,OG001,5.69,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+32,outcome_overview_time_frame_weeks,4,47,,,7F,OG002,5.06,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+33,outcome_overview_time_frame_weeks,4,47,,,7F,OG003,3.98,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+34,outcome_overview_time_frame_weeks,4,47,,,7F,OG004,3.43,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+35,outcome_overview_time_frame_weeks,4,47,,,9V,OG000,2.93,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+36,outcome_overview_time_frame_weeks,4,47,,,9V,OG001,2.76,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+37,outcome_overview_time_frame_weeks,4,47,,,9V,OG002,2.57,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+38,outcome_overview_time_frame_weeks,4,47,,,9V,OG003,2.46,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+39,outcome_overview_time_frame_weeks,4,47,,,9V,OG004,2.89,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+40,outcome_overview_time_frame_weeks,4,47,,,14,OG000,7.62,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+41,outcome_overview_time_frame_weeks,4,47,,,14,OG001,10.59,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+42,outcome_overview_time_frame_weeks,4,47,,,14,OG002,10.91,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+43,outcome_overview_time_frame_weeks,4,47,,,14,OG003,7.87,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+44,outcome_overview_time_frame_weeks,4,47,,,14,OG004,6.57,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+45,outcome_overview_time_frame_weeks,4,47,,,18C,OG000,2.57,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+46,outcome_overview_time_frame_weeks,4,47,,,18C,OG001,3.88,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+47,outcome_overview_time_frame_weeks,4,47,,,18C,OG002,3.70,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+48,outcome_overview_time_frame_weeks,4,47,,,18C,OG003,2.76,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+49,outcome_overview_time_frame_weeks,4,47,,,18C,OG004,2.65,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+50,outcome_overview_time_frame_weeks,4,47,,,19A,OG000,5.92,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+51,outcome_overview_time_frame_weeks,4,47,,,19A,OG001,5.52,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+52,outcome_overview_time_frame_weeks,4,47,,,19A,OG002,5.20,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+53,outcome_overview_time_frame_weeks,4,47,,,19A,OG003,4.95,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+54,outcome_overview_time_frame_weeks,4,47,,,19A,OG004,4.66,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+55,outcome_overview_time_frame_weeks,4,47,,,19F,OG000,4.78,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+56,outcome_overview_time_frame_weeks,4,47,,,19F,OG001,4.88,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+57,outcome_overview_time_frame_weeks,4,47,,,19F,OG002,5.02,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+58,outcome_overview_time_frame_weeks,4,47,,,19F,OG003,4.60,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+59,outcome_overview_time_frame_weeks,4,47,,,19F,OG004,4.10,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+60,outcome_overview_time_frame_weeks,4,47,,,23F,OG000,2.89,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+61,outcome_overview_time_frame_weeks,4,47,,,23F,OG001,2.72,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+62,outcome_overview_time_frame_weeks,4,47,,,23F,OG002,2.29,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+63,outcome_overview_time_frame_weeks,4,47,,,23F,OG003,2.22,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+64,outcome_overview_time_frame_weeks,4,47,,,23F,OG004,2.11,Geometric Mean Concentration (GMC) of Anti-Pneumococcal Polysaccharide (PnP) Immunoglobulin G (IgG) For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+65,outcome_overview_time_frame_weeks,4,21,,,1,OG000,1.93,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+66,outcome_overview_time_frame_weeks,4,21,,,1,OG001,1.99,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+67,outcome_overview_time_frame_weeks,4,21,,,1,OG002,1.86,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+68,outcome_overview_time_frame_weeks,4,21,,,1,OG003,1.35,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+69,outcome_overview_time_frame_weeks,4,21,,,1,OG004,1.27,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+70,outcome_overview_time_frame_weeks,4,21,,,3,OG000,0.54,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+71,outcome_overview_time_frame_weeks,4,21,,,3,OG001,0.64,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+72,outcome_overview_time_frame_weeks,4,21,,,3,OG002,0.56,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+73,outcome_overview_time_frame_weeks,4,21,,,3,OG003,0.67,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+74,outcome_overview_time_frame_weeks,4,21,,,3,OG004,1.01,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+75,outcome_overview_time_frame_weeks,4,21,,,4,OG000,1.39,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+76,outcome_overview_time_frame_weeks,4,21,,,4,OG001,1.47,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+77,outcome_overview_time_frame_weeks,4,21,,,4,OG002,1.34,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+78,outcome_overview_time_frame_weeks,4,21,,,4,OG003,1.07,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+79,outcome_overview_time_frame_weeks,4,21,,,4,OG004,1.40,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+80,outcome_overview_time_frame_weeks,4,21,,,5,OG000,1.99,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+81,outcome_overview_time_frame_weeks,4,21,,,5,OG001,2.16,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+82,outcome_overview_time_frame_weeks,4,21,,,5,OG002,2.15,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+83,outcome_overview_time_frame_weeks,4,21,,,5,OG003,1.73,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+84,outcome_overview_time_frame_weeks,4,21,,,5,OG004,1.91,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+85,outcome_overview_time_frame_weeks,4,21,,,6A,OG000,3.07,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+86,outcome_overview_time_frame_weeks,4,21,,,6A,OG001,3.22,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+87,outcome_overview_time_frame_weeks,4,21,,,6A,OG002,3.26,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+88,outcome_overview_time_frame_weeks,4,21,,,6A,OG003,2.05,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+89,outcome_overview_time_frame_weeks,4,21,,,6A,OG004,1.82,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+90,outcome_overview_time_frame_weeks,4,21,,,6B,OG000,2.03,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+91,outcome_overview_time_frame_weeks,4,21,,,6B,OG001,2.50,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+92,outcome_overview_time_frame_weeks,4,21,,,6B,OG002,2.43,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+93,outcome_overview_time_frame_weeks,4,21,,,6B,OG003,2.29,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+94,outcome_overview_time_frame_weeks,4,21,,,6B,OG004,2.26,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+95,outcome_overview_time_frame_weeks,4,21,,,7F,OG000,3.36,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+96,outcome_overview_time_frame_weeks,4,21,,,7F,OG001,3.54,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+97,outcome_overview_time_frame_weeks,4,21,,,7F,OG002,3.52,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+98,outcome_overview_time_frame_weeks,4,21,,,7F,OG003,2.61,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+99,outcome_overview_time_frame_weeks,4,21,,,7F,OG004,2.41,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+100,outcome_overview_time_frame_weeks,4,21,,,9V,OG000,1.69,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+101,outcome_overview_time_frame_weeks,4,21,,,9V,OG001,1.81,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+102,outcome_overview_time_frame_weeks,4,21,,,9V,OG002,1.68,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+103,outcome_overview_time_frame_weeks,4,21,,,9V,OG003,1.47,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+104,outcome_overview_time_frame_weeks,4,21,,,9V,OG004,2.01,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+105,outcome_overview_time_frame_weeks,4,21,,,14,OG000,6.57,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+106,outcome_overview_time_frame_weeks,4,21,,,14,OG001,6.18,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+107,outcome_overview_time_frame_weeks,4,21,,,14,OG002,9.32,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+108,outcome_overview_time_frame_weeks,4,21,,,14,OG003,6.71,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+109,outcome_overview_time_frame_weeks,4,21,,,14,OG004,5.50,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+110,outcome_overview_time_frame_weeks,4,21,,,18C,OG000,1.69,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+111,outcome_overview_time_frame_weeks,4,21,,,18C,OG001,2.03,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+112,outcome_overview_time_frame_weeks,4,21,,,18C,OG002,2.08,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+113,outcome_overview_time_frame_weeks,4,21,,,18C,OG003,1.50,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+114,outcome_overview_time_frame_weeks,4,21,,,18C,OG004,1.51,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+115,outcome_overview_time_frame_weeks,4,21,,,19A,OG000,2.17,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+116,outcome_overview_time_frame_weeks,4,21,,,19A,OG001,2.46,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+117,outcome_overview_time_frame_weeks,4,21,,,19A,OG002,2.25,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+118,outcome_overview_time_frame_weeks,4,21,,,19A,OG003,1.64,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+119,outcome_overview_time_frame_weeks,4,21,,,19A,OG004,1.63,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+120,outcome_overview_time_frame_weeks,4,21,,,19F,OG000,2.83,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+121,outcome_overview_time_frame_weeks,4,21,,,19F,OG001,2.90,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+122,outcome_overview_time_frame_weeks,4,21,,,19F,OG002,3.08,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+123,outcome_overview_time_frame_weeks,4,21,,,19F,OG003,2.32,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+124,outcome_overview_time_frame_weeks,4,21,,,19F,OG004,2.21,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+125,outcome_overview_time_frame_weeks,4,21,,,23F,OG000,1.32,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+126,outcome_overview_time_frame_weeks,4,21,,,23F,OG001,1.72,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+127,outcome_overview_time_frame_weeks,4,21,,,23F,OG002,1.22,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+128,outcome_overview_time_frame_weeks,4,21,,,23F,OG003,1.33,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+129,outcome_overview_time_frame_weeks,4,21,,,23F,OG004,1.46,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+130,outcome_overview_time_frame_weeks,4,21,,,22F,OG000,0.05,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+131,outcome_overview_time_frame_weeks,4,21,,,22F,OG001,0.05,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+132,outcome_overview_time_frame_weeks,4,21,,,22F,OG002,3.63,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+133,outcome_overview_time_frame_weeks,4,21,,,22F,OG003,5.94,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+134,outcome_overview_time_frame_weeks,4,21,,,22F,OG004,5.15,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+135,outcome_overview_time_frame_weeks,4,21,,,33F,OG000,0.05,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+136,outcome_overview_time_frame_weeks,4,21,,,33F,OG001,0.05,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+137,outcome_overview_time_frame_weeks,4,21,,,33F,OG002,0.28,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+138,outcome_overview_time_frame_weeks,4,21,,,33F,OG003,0.89,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+139,outcome_overview_time_frame_weeks,4,21,,,33F,OG004,2.22,GMC of Anti-PnP IgG for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+140,outcome_overview_time_frame_weeks,4,21,,,1,OG000,97.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+141,outcome_overview_time_frame_weeks,4,21,,,1,OG001,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+142,outcome_overview_time_frame_weeks,4,21,,,1,OG002,99.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+143,outcome_overview_time_frame_weeks,4,21,,,1,OG003,97.8,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+144,outcome_overview_time_frame_weeks,4,21,,,1,OG004,96.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+145,outcome_overview_time_frame_weeks,4,21,,,3,OG000,73.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+146,outcome_overview_time_frame_weeks,4,21,,,3,OG001,73.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+147,outcome_overview_time_frame_weeks,4,21,,,3,OG002,79.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+148,outcome_overview_time_frame_weeks,4,21,,,3,OG003,81.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+149,outcome_overview_time_frame_weeks,4,21,,,3,OG004,93.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+150,outcome_overview_time_frame_weeks,4,21,,,4,OG000,97.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+151,outcome_overview_time_frame_weeks,4,21,,,4,OG001,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+152,outcome_overview_time_frame_weeks,4,21,,,4,OG002,93.0,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+153,outcome_overview_time_frame_weeks,4,21,,,4,OG003,94.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+154,outcome_overview_time_frame_weeks,4,21,,,4,OG004,96.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+155,outcome_overview_time_frame_weeks,4,21,,,5,OG000,97.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+156,outcome_overview_time_frame_weeks,4,21,,,5,OG001,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+157,outcome_overview_time_frame_weeks,4,21,,,5,OG002,97.7,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+158,outcome_overview_time_frame_weeks,4,21,,,5,OG003,97.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+159,outcome_overview_time_frame_weeks,4,21,,,5,OG004,98.0,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+160,outcome_overview_time_frame_weeks,4,21,,,6A,OG000,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+161,outcome_overview_time_frame_weeks,4,21,,,6A,OG001,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+162,outcome_overview_time_frame_weeks,4,21,,,6A,OG002,99.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+163,outcome_overview_time_frame_weeks,4,21,,,6A,OG003,97.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+164,outcome_overview_time_frame_weeks,4,21,,,6A,OG004,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+165,outcome_overview_time_frame_weeks,4,21,,,6B,OG000,91.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+166,outcome_overview_time_frame_weeks,4,21,,,6B,OG001,94.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+167,outcome_overview_time_frame_weeks,4,21,,,6B,OG002,96.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+168,outcome_overview_time_frame_weeks,4,21,,,6B,OG003,95.7,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+169,outcome_overview_time_frame_weeks,4,21,,,6B,OG004,95.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+170,outcome_overview_time_frame_weeks,4,21,,,7F,OG000,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+171,outcome_overview_time_frame_weeks,4,21,,,7F,OG001,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+172,outcome_overview_time_frame_weeks,4,21,,,7F,OG002,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+173,outcome_overview_time_frame_weeks,4,21,,,7F,OG003,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+174,outcome_overview_time_frame_weeks,4,21,,,7F,OG004,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+175,outcome_overview_time_frame_weeks,4,21,,,9V,OG000,96.5,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+176,outcome_overview_time_frame_weeks,4,21,,,9V,OG001,96.5,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+177,outcome_overview_time_frame_weeks,4,21,,,9V,OG002,96.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+178,outcome_overview_time_frame_weeks,4,21,,,9V,OG003,95.7,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+179,outcome_overview_time_frame_weeks,4,21,,,9V,OG004,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+180,outcome_overview_time_frame_weeks,4,21,,,14,OG000,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+181,outcome_overview_time_frame_weeks,4,21,,,14,OG001,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+182,outcome_overview_time_frame_weeks,4,21,,,14,OG002,96.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+183,outcome_overview_time_frame_weeks,4,21,,,14,OG003,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+184,outcome_overview_time_frame_weeks,4,21,,,14,OG004,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+185,outcome_overview_time_frame_weeks,4,21,,,18C,OG000,95.8,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+186,outcome_overview_time_frame_weeks,4,21,,,18C,OG001,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+187,outcome_overview_time_frame_weeks,4,21,,,18C,OG002,99.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+188,outcome_overview_time_frame_weeks,4,21,,,18C,OG003,97.8,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+189,outcome_overview_time_frame_weeks,4,21,,,18C,OG004,98.0,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+190,outcome_overview_time_frame_weeks,4,21,,,19A,OG000,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+191,outcome_overview_time_frame_weeks,4,21,,,19A,OG001,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+192,outcome_overview_time_frame_weeks,4,21,,,19A,OG002,98.4,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+193,outcome_overview_time_frame_weeks,4,21,,,19A,OG003,97.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+194,outcome_overview_time_frame_weeks,4,21,,,19A,OG004,97.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+195,outcome_overview_time_frame_weeks,4,21,,,19F,OG000,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+196,outcome_overview_time_frame_weeks,4,21,,,19F,OG001,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+197,outcome_overview_time_frame_weeks,4,21,,,19F,OG002,99.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+198,outcome_overview_time_frame_weeks,4,21,,,19F,OG003,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+199,outcome_overview_time_frame_weeks,4,21,,,19F,OG004,100,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+200,outcome_overview_time_frame_weeks,4,21,,,23F,OG000,91.4,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+201,outcome_overview_time_frame_weeks,4,21,,,23F,OG001,97.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+202,outcome_overview_time_frame_weeks,4,21,,,23F,OG002,90.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+203,outcome_overview_time_frame_weeks,4,21,,,23F,OG003,92.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+204,outcome_overview_time_frame_weeks,4,21,,,23F,OG004,94.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+205,outcome_overview_time_frame_weeks,4,21,,,22F,OG000,2.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+206,outcome_overview_time_frame_weeks,4,21,,,22F,OG001,1.4,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+207,outcome_overview_time_frame_weeks,4,21,,,22F,OG002,93.8,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+208,outcome_overview_time_frame_weeks,4,21,,,22F,OG003,99.3,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+209,outcome_overview_time_frame_weeks,4,21,,,22F,OG004,98.6,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+210,outcome_overview_time_frame_weeks,4,21,,,33F,OG000,2.1,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+211,outcome_overview_time_frame_weeks,4,21,,,33F,OG001,2.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+212,outcome_overview_time_frame_weeks,4,21,,,33F,OG002,39.4,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+213,outcome_overview_time_frame_weeks,4,21,,,33F,OG003,75.9,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+214,outcome_overview_time_frame_weeks,4,21,,,33F,OG004,93.2,Percentage of Participants With Anti-PnP IgG Concentration ≥0.35 µg/mL for 15 Serotypes Contained in V114 at 30 Days Post Vaccination 3
+215,outcome_overview_time_frame_weeks,4,47,,,1,OG000,2.02,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+216,outcome_overview_time_frame_weeks,4,47,,,1,OG004,1.46,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+217,outcome_overview_time_frame_weeks,4,47,,,3,OG000,0.72,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+218,outcome_overview_time_frame_weeks,4,47,,,3,OG004,0.89,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+219,outcome_overview_time_frame_weeks,4,47,,,4,OG000,1.51,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+220,outcome_overview_time_frame_weeks,4,47,,,4,OG004,1.35,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+221,outcome_overview_time_frame_weeks,4,47,,,5,OG000,3.66,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+222,outcome_overview_time_frame_weeks,4,47,,,5,OG004,2.90,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+223,outcome_overview_time_frame_weeks,4,47,,,6A,OG000,6.42,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+224,outcome_overview_time_frame_weeks,4,47,,,6A,OG004,4.43,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+225,outcome_overview_time_frame_weeks,4,47,,,6B,OG000,6.15,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+226,outcome_overview_time_frame_weeks,4,47,,,6B,OG004,5.83,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+227,outcome_overview_time_frame_weeks,4,47,,,7F,OG000,5.10,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+228,outcome_overview_time_frame_weeks,4,47,,,7F,OG004,3.43,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+229,outcome_overview_time_frame_weeks,4,47,,,9V,OG000,2.93,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+230,outcome_overview_time_frame_weeks,4,47,,,9V,OG004,2.89,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+231,outcome_overview_time_frame_weeks,4,47,,,14,OG000,7.62,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+232,outcome_overview_time_frame_weeks,4,47,,,14,OG004,6.57,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+233,outcome_overview_time_frame_weeks,4,47,,,18C,OG000,2.57,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+234,outcome_overview_time_frame_weeks,4,47,,,18C,OG004,2.65,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+235,outcome_overview_time_frame_weeks,4,47,,,19A,OG000,5.92,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+236,outcome_overview_time_frame_weeks,4,47,,,19A,OG004,4.66,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+237,outcome_overview_time_frame_weeks,4,47,,,19F,OG000,4.78,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+238,outcome_overview_time_frame_weeks,4,47,,,19F,OG004,4.10,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+239,outcome_overview_time_frame_weeks,4,47,,,23F,OG000,2.89,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4
+240,outcome_overview_time_frame_weeks,4,47,,,23F,OG004,2.11,Group 5 Versus Group 1: GMC of Anti-PnP IgG For 13 Shared Serotypes Contained in V114 and Prevnar 13™ at 30 Days Post Vaccination 4

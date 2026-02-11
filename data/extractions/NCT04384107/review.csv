@@ -1,331 +1,301 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-0,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 1 (Shared),OG000,2.39,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-0,outcome_overview_time_frame_weeks,4,48,,,Serotype 1 (Shared),OG000,2.39,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-1,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 1 (Shared),OG001,3.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-1,outcome_overview_time_frame_weeks,4,48,,,Serotype 1 (Shared),OG001,3.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-2,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 3 (Shared),OG000,2.63,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-2,outcome_overview_time_frame_weeks,4,48,,,Serotype 3 (Shared),OG000,2.63,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-3,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 3 (Shared),OG001,1.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-3,outcome_overview_time_frame_weeks,4,48,,,Serotype 3 (Shared),OG001,1.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-4,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 4 (Shared),OG000,2.98,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-4,outcome_overview_time_frame_weeks,4,48,,,Serotype 4 (Shared),OG000,2.98,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-5,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 4 (Shared),OG001,3.54,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-5,outcome_overview_time_frame_weeks,4,48,,,Serotype 4 (Shared),OG001,3.54,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-6,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 5 (Shared),OG000,2.59,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-6,outcome_overview_time_frame_weeks,4,48,,,Serotype 5 (Shared),OG000,2.59,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-7,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 5 (Shared),OG001,3.35,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-7,outcome_overview_time_frame_weeks,4,48,,,Serotype 5 (Shared),OG001,3.35,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-8,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6A (Shared),OG000,2.51,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-8,outcome_overview_time_frame_weeks,4,48,,,Serotype 6A (Shared),OG000,2.51,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-9,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6A (Shared),OG001,4.45,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-9,outcome_overview_time_frame_weeks,4,48,,,Serotype 6A (Shared),OG001,4.45,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-10,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6B (Shared),OG000,2.46,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-10,outcome_overview_time_frame_weeks,4,48,,,Serotype 6B (Shared),OG000,2.46,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-11,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6B (Shared),OG001,4.17,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-11,outcome_overview_time_frame_weeks,4,48,,,Serotype 6B (Shared),OG001,4.17,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-12,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 7F (Shared),OG000,4.38,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-12,outcome_overview_time_frame_weeks,4,48,,,Serotype 7F (Shared),OG000,4.38,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-13,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 7F (Shared),OG001,5.22,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-13,outcome_overview_time_frame_weeks,4,48,,,Serotype 7F (Shared),OG001,5.22,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-14,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 9V (Shared),OG000,3.09,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-14,outcome_overview_time_frame_weeks,4,48,,,Serotype 9V (Shared),OG000,3.09,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-15,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 9V (Shared),OG001,3.55,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-15,outcome_overview_time_frame_weeks,4,48,,,Serotype 9V (Shared),OG001,3.55,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-16,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 14 (Shared),OG000,8.99,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-16,outcome_overview_time_frame_weeks,4,48,,,Serotype 14 (Shared),OG000,8.99,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-17,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 14 (Shared),OG001,12.03,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-17,outcome_overview_time_frame_weeks,4,48,,,Serotype 14 (Shared),OG001,12.03,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-18,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 18C (Shared),OG000,2.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-18,outcome_overview_time_frame_weeks,4,48,,,Serotype 18C (Shared),OG000,2.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-19,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 18C (Shared),OG001,3.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-19,outcome_overview_time_frame_weeks,4,48,,,Serotype 18C (Shared),OG001,3.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-20,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19A (Shared),OG000,3.44,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-20,outcome_overview_time_frame_weeks,4,48,,,Serotype 19A (Shared),OG000,3.44,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-21,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19A (Shared),OG001,5.28,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-21,outcome_overview_time_frame_weeks,4,48,,,Serotype 19A (Shared),OG001,5.28,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-22,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19F (Shared),OG000,4.24,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-22,outcome_overview_time_frame_weeks,4,48,,,Serotype 19F (Shared),OG000,4.24,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-23,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19F (Shared),OG001,5.65,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-23,outcome_overview_time_frame_weeks,4,48,,,Serotype 19F (Shared),OG001,5.65,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-24,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 23F (Shared),OG000,2.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-24,outcome_overview_time_frame_weeks,4,48,,,Serotype 23F (Shared),OG000,2.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-25,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 23F (Shared),OG001,2.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-25,outcome_overview_time_frame_weeks,4,48,,,Serotype 23F (Shared),OG001,2.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
-26,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 22F (Unique to V114),OG000,6.59,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-26,outcome_overview_time_frame_weeks,4,48,,,Serotype 22F (Unique to V114),OG000,6.59,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-27,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 22F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-27,outcome_overview_time_frame_weeks,4,48,,,Serotype 22F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-28,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 33F (Unique to V114),OG000,1.85,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-28,outcome_overview_time_frame_weeks,4,48,,,Serotype 33F (Unique to V114),OG000,1.85,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-29,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 33F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-29,outcome_overview_time_frame_weeks,4,48,,,Serotype 33F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
-30,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-30,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-31,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-31,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-32,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-32,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-33,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG001,96.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-33,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG001,96.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-34,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-34,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-35,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-35,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-36,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-36,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-37,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-37,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-38,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-38,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-39,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-39,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-40,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-40,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-41,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-41,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-42,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-42,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-43,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-43,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-44,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-44,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-45,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-45,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-46,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-46,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-47,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-47,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-48,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-48,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-49,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-49,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-50,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-50,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-51,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-51,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-52,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-52,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-53,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-53,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-54,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-54,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-55,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG001,99.4,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-55,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG001,99.4,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-56,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-56,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-57,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG001,5.2,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-57,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG001,5.2,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-58,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-58,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-59,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG001,11.5,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-59,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG001,11.5,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
-60,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG000,2.74,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-60,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG000,2.74,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-61,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG001,5.19,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-61,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG001,5.19,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-62,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG000,2.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-62,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG000,2.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-63,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG001,1.28,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-63,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG001,1.28,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-64,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG000,2.91,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-64,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG000,2.91,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-65,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG001,3.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-65,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG001,3.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-66,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG000,4.43,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-66,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG000,4.43,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-67,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG001,6.65,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-67,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG001,6.65,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-68,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG000,6.05,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-68,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG000,6.05,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-69,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG001,9.41,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-69,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG001,9.41,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-70,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG000,8.03,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-70,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG000,8.03,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-71,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG001,10.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-71,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG001,10.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-72,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG000,5.80,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-72,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG000,5.80,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-73,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG001,7.15,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-73,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG001,7.15,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-74,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG000,4.27,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-74,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG000,4.27,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-75,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG001,5.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-75,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG001,5.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-76,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG000,9.51,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-76,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG000,9.51,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-77,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG001,11.26,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-77,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG001,11.26,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-78,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG000,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-78,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG000,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-79,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG001,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-79,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG001,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-80,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG000,6.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-80,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG000,6.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-81,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG001,8.37,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-81,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG001,8.37,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-82,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG000,6.53,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-82,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG000,6.53,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-83,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG001,7.76,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-83,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG001,7.76,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-84,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG000,3.75,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-84,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG000,3.75,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-85,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG001,6.22,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-85,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG001,6.22,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-86,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG000,11.42,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-86,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG000,11.42,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-87,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG001,0.13,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-87,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG001,0.13,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-88,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG000,6.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-88,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG000,6.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-89,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG001,0.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-89,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG001,0.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
-90,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG000,211.51,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-90,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 1 (Shared),OG000,211.51,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-90,outcome_overview_time_frame_weeks,4,48,,,Serotype 1 (Shared),OG000,211.51,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-91,outcome_overview_assay,Unknown,OPA,,,Serotype 1 (Shared),OG001,322.44,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-91,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 1 (Shared),OG001,322.44,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-91,outcome_overview_time_frame_weeks,4,48,,,Serotype 1 (Shared),OG001,322.44,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-92,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG000,660.68,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-92,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 3 (Shared),OG000,660.68,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-92,outcome_overview_time_frame_weeks,4,48,,,Serotype 3 (Shared),OG000,660.68,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-93,outcome_overview_assay,Unknown,OPA,,,Serotype 3 (Shared),OG001,471.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-93,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 3 (Shared),OG001,471.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-93,outcome_overview_time_frame_weeks,4,48,,,Serotype 3 (Shared),OG001,471.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-94,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG000,3984.87,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-94,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 4 (Shared),OG000,3984.87,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-94,outcome_overview_time_frame_weeks,4,48,,,Serotype 4 (Shared),OG000,3984.87,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-95,outcome_overview_assay,Unknown,OPA,,,Serotype 4 (Shared),OG001,4118.16,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-95,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 4 (Shared),OG001,4118.16,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-95,outcome_overview_time_frame_weeks,4,48,,,Serotype 4 (Shared),OG001,4118.16,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-96,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG000,1241.69,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-96,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 5 (Shared),OG000,1241.69,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-96,outcome_overview_time_frame_weeks,4,48,,,Serotype 5 (Shared),OG000,1241.69,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-97,outcome_overview_assay,Unknown,OPA,,,Serotype 5 (Shared),OG001,1358.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-97,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 5 (Shared),OG001,1358.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-97,outcome_overview_time_frame_weeks,4,48,,,Serotype 5 (Shared),OG001,1358.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-98,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG000,9124.96,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-98,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6A (Shared),OG000,9124.96,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-98,outcome_overview_time_frame_weeks,4,48,,,Serotype 6A (Shared),OG000,9124.96,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-99,outcome_overview_assay,Unknown,OPA,,,Serotype 6A (Shared),OG001,11956.64,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-99,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6A (Shared),OG001,11956.64,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-99,outcome_overview_time_frame_weeks,4,48,,,Serotype 6A (Shared),OG001,11956.64,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-100,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG000,8416.19,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-100,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6B (Shared),OG000,8416.19,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-100,outcome_overview_time_frame_weeks,4,48,,,Serotype 6B (Shared),OG000,8416.19,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-101,outcome_overview_assay,Unknown,OPA,,,Serotype 6B (Shared),OG001,10421.94,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-101,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 6B (Shared),OG001,10421.94,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-101,outcome_overview_time_frame_weeks,4,48,,,Serotype 6B (Shared),OG001,10421.94,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-102,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG000,22324.41,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-102,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 7F (Shared),OG000,22324.41,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-102,outcome_overview_time_frame_weeks,4,48,,,Serotype 7F (Shared),OG000,22324.41,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-103,outcome_overview_assay,Unknown,OPA,,,Serotype 7F (Shared),OG001,27396.28,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-103,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 7F (Shared),OG001,27396.28,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-103,outcome_overview_time_frame_weeks,4,48,,,Serotype 7F (Shared),OG001,27396.28,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-104,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG000,2725.29,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-104,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 9V (Shared),OG000,2725.29,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-104,outcome_overview_time_frame_weeks,4,48,,,Serotype 9V (Shared),OG000,2725.29,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-105,outcome_overview_assay,Unknown,OPA,,,Serotype 9V (Shared),OG001,3338.40,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-105,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 9V (Shared),OG001,3338.40,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-105,outcome_overview_time_frame_weeks,4,48,,,Serotype 9V (Shared),OG001,3338.40,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-106,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG000,14175.13,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-106,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 14 (Shared),OG000,14175.13,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-106,outcome_overview_time_frame_weeks,4,48,,,Serotype 14 (Shared),OG000,14175.13,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-107,outcome_overview_assay,Unknown,OPA,,,Serotype 14 (Shared),OG001,12288.35,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-107,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 14 (Shared),OG001,12288.35,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-107,outcome_overview_time_frame_weeks,4,48,,,Serotype 14 (Shared),OG001,12288.35,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-108,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG000,3698.24,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-108,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 18C (Shared),OG000,3698.24,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-108,outcome_overview_time_frame_weeks,4,48,,,Serotype 18C (Shared),OG000,3698.24,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-109,outcome_overview_assay,Unknown,OPA,,,Serotype 18C (Shared),OG001,3705.21,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-109,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 18C (Shared),OG001,3705.21,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-109,outcome_overview_time_frame_weeks,4,48,,,Serotype 18C (Shared),OG001,3705.21,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-110,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG000,2709.90,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-110,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19A (Shared),OG000,2709.90,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-110,outcome_overview_time_frame_weeks,4,48,,,Serotype 19A (Shared),OG000,2709.90,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-111,outcome_overview_assay,Unknown,OPA,,,Serotype 19A (Shared),OG001,3961.10,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-111,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19A (Shared),OG001,3961.10,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-111,outcome_overview_time_frame_weeks,4,48,,,Serotype 19A (Shared),OG001,3961.10,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-112,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG000,2371.39,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-112,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19F (Shared),OG000,2371.39,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-112,outcome_overview_time_frame_weeks,4,48,,,Serotype 19F (Shared),OG000,2371.39,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-113,outcome_overview_assay,Unknown,OPA,,,Serotype 19F (Shared),OG001,2541.27,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-113,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 19F (Shared),OG001,2541.27,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-113,outcome_overview_time_frame_weeks,4,48,,,Serotype 19F (Shared),OG001,2541.27,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-114,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG000,11861.63,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-114,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 23F (Shared),OG000,11861.63,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-114,outcome_overview_time_frame_weeks,4,48,,,Serotype 23F (Shared),OG000,11861.63,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-115,outcome_overview_assay,Unknown,OPA,,,Serotype 23F (Shared),OG001,18957.26,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-115,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 23F (Shared),OG001,18957.26,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-115,outcome_overview_time_frame_weeks,4,48,,,Serotype 23F (Shared),OG001,18957.26,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-116,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG000,5575.08,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-116,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 22F (Unique to V114),OG000,5575.08,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-116,outcome_overview_time_frame_weeks,4,48,,,Serotype 22F (Unique to V114),OG000,5575.08,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-117,outcome_overview_assay,Unknown,OPA,,,Serotype 22F (Unique to V114),OG001,9.95,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-117,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 22F (Unique to V114),OG001,9.95,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-117,outcome_overview_time_frame_weeks,4,48,,,Serotype 22F (Unique to V114),OG001,9.95,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-118,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG000,23888.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-118,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 33F (Unique to V114),OG000,23888.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-118,outcome_overview_time_frame_weeks,4,48,,,Serotype 33F (Unique to V114),OG000,23888.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-119,outcome_overview_assay,Unknown,OPA,,,Serotype 33F (Unique to V114),OG001,121.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-119,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,Serotype 33F (Unique to V114),OG001,121.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-119,outcome_overview_time_frame_weeks,4,48,,,Serotype 33F (Unique to V114),OG001,121.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
-120,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG000,453.42,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-120,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG000,453.42,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-121,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 1 (Shared),OG001,854.50,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-121,outcome_overview_time_frame_weeks,4,61,,,Serotype 1 (Shared),OG001,854.50,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-122,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG000,1444.00,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-122,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG000,1444.00,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-123,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 3 (Shared),OG001,893.97,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-123,outcome_overview_time_frame_weeks,4,61,,,Serotype 3 (Shared),OG001,893.97,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-124,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG000,4531.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-124,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG000,4531.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-125,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 4 (Shared),OG001,6264.94,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-125,outcome_overview_time_frame_weeks,4,61,,,Serotype 4 (Shared),OG001,6264.94,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-126,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG000,1853.08,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-126,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG000,1853.08,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-127,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 5 (Shared),OG001,2151.95,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-127,outcome_overview_time_frame_weeks,4,61,,,Serotype 5 (Shared),OG001,2151.95,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-128,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG000,12553.06,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-128,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG000,12553.06,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-129,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6A (Shared),OG001,17476.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-129,outcome_overview_time_frame_weeks,4,61,,,Serotype 6A (Shared),OG001,17476.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-130,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG000,9218.64,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-130,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG000,9218.64,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-131,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 6B (Shared),OG001,14041.53,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-131,outcome_overview_time_frame_weeks,4,61,,,Serotype 6B (Shared),OG001,14041.53,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-132,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG000,15451.96,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-132,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG000,15451.96,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-133,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 7F (Shared),OG001,18039.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-133,outcome_overview_time_frame_weeks,4,61,,,Serotype 7F (Shared),OG001,18039.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-134,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG000,3259.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-134,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG000,3259.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-135,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 9V (Shared),OG001,5050.89,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-135,outcome_overview_time_frame_weeks,4,61,,,Serotype 9V (Shared),OG001,5050.89,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-136,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG000,8486.72,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-136,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG000,8486.72,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-137,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 14 (Shared),OG001,5719.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-137,outcome_overview_time_frame_weeks,4,61,,,Serotype 14 (Shared),OG001,5719.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-138,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG000,7027.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-138,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG000,7027.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-139,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 18C (Shared),OG001,5903.86,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-139,outcome_overview_time_frame_weeks,4,61,,,Serotype 18C (Shared),OG001,5903.86,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-140,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG000,8441.43,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-140,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG000,8441.43,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-141,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19A (Shared),OG001,10834.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-141,outcome_overview_time_frame_weeks,4,61,,,Serotype 19A (Shared),OG001,10834.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-142,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG000,4716.70,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-142,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG000,4716.70,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-143,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 19F (Shared),OG001,3829.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-143,outcome_overview_time_frame_weeks,4,61,,,Serotype 19F (Shared),OG001,3829.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-144,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG000,11319.82,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-144,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG000,11319.82,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-145,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 23F (Shared),OG001,30686.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-145,outcome_overview_time_frame_weeks,4,61,,,Serotype 23F (Shared),OG001,30686.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-146,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG000,5561.71,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-146,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG000,5561.71,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-147,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 22F (Unique to V114),OG001,35.68,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-147,outcome_overview_time_frame_weeks,4,61,,,Serotype 22F (Unique to V114),OG001,35.68,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-148,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG000,19899.34,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-148,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG000,19899.34,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-149,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,Serotype 33F (Unique to V114),OG001,1183.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
-149,outcome_overview_time_frame_weeks,4,61,,,Serotype 33F (Unique to V114),OG001,1183.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+0,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,1 (Shared),OG000,2.39,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+0,outcome_overview_time_frame_weeks,4,48,,,1 (Shared),OG000,2.39,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+1,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,1 (Shared),OG001,3.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+1,outcome_overview_time_frame_weeks,4,48,,,1 (Shared),OG001,3.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+2,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,3 (Shared),OG000,2.63,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+2,outcome_overview_time_frame_weeks,4,48,,,3 (Shared),OG000,2.63,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+3,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,3 (Shared),OG001,1.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+3,outcome_overview_time_frame_weeks,4,48,,,3 (Shared),OG001,1.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+4,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,4 (Shared),OG000,2.98,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+4,outcome_overview_time_frame_weeks,4,48,,,4 (Shared),OG000,2.98,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+5,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,4 (Shared),OG001,3.54,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+5,outcome_overview_time_frame_weeks,4,48,,,4 (Shared),OG001,3.54,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+6,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,5 (Shared),OG000,2.59,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+6,outcome_overview_time_frame_weeks,4,48,,,5 (Shared),OG000,2.59,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+7,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,5 (Shared),OG001,3.35,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+7,outcome_overview_time_frame_weeks,4,48,,,5 (Shared),OG001,3.35,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+8,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6A (Shared),OG000,2.51,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+8,outcome_overview_time_frame_weeks,4,48,,,6A (Shared),OG000,2.51,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+9,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6A (Shared),OG001,4.45,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+9,outcome_overview_time_frame_weeks,4,48,,,6A (Shared),OG001,4.45,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+10,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6B (Shared),OG000,2.46,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+10,outcome_overview_time_frame_weeks,4,48,,,6B (Shared),OG000,2.46,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+11,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6B (Shared),OG001,4.17,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+11,outcome_overview_time_frame_weeks,4,48,,,6B (Shared),OG001,4.17,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+12,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,7F (Shared),OG000,4.38,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+12,outcome_overview_time_frame_weeks,4,48,,,7F (Shared),OG000,4.38,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+13,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,7F (Shared),OG001,5.22,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+13,outcome_overview_time_frame_weeks,4,48,,,7F (Shared),OG001,5.22,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+14,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,9V (Shared),OG000,3.09,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+14,outcome_overview_time_frame_weeks,4,48,,,9V (Shared),OG000,3.09,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+15,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,9V (Shared),OG001,3.55,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+15,outcome_overview_time_frame_weeks,4,48,,,9V (Shared),OG001,3.55,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+16,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,14 (Shared),OG000,8.99,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+16,outcome_overview_time_frame_weeks,4,48,,,14 (Shared),OG000,8.99,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+17,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,14 (Shared),OG001,12.03,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+17,outcome_overview_time_frame_weeks,4,48,,,14 (Shared),OG001,12.03,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+18,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,18C (Shared),OG000,2.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+18,outcome_overview_time_frame_weeks,4,48,,,18C (Shared),OG000,2.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+19,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,18C (Shared),OG001,3.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+19,outcome_overview_time_frame_weeks,4,48,,,18C (Shared),OG001,3.85,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+20,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19A (Shared),OG000,3.44,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+20,outcome_overview_time_frame_weeks,4,48,,,19A (Shared),OG000,3.44,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+21,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19A (Shared),OG001,5.28,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+21,outcome_overview_time_frame_weeks,4,48,,,19A (Shared),OG001,5.28,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+22,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19F (Shared),OG000,4.24,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+22,outcome_overview_time_frame_weeks,4,48,,,19F (Shared),OG000,4.24,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+23,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19F (Shared),OG001,5.65,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+23,outcome_overview_time_frame_weeks,4,48,,,19F (Shared),OG001,5.65,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+24,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,23F (Shared),OG000,2.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+24,outcome_overview_time_frame_weeks,4,48,,,23F (Shared),OG000,2.42,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+25,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,23F (Shared),OG001,2.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+25,outcome_overview_time_frame_weeks,4,48,,,23F (Shared),OG001,2.95,Geometric Mean Concentration of Serotype-Specific IgG for the 13 Shared Serotypes in V114 and PCV13 After Dose 3
+26,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,22F (Unique to V114),OG000,6.59,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+26,outcome_overview_time_frame_weeks,4,48,,,22F (Unique to V114),OG000,6.59,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+27,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,22F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+27,outcome_overview_time_frame_weeks,4,48,,,22F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+28,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,33F (Unique to V114),OG000,1.85,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+28,outcome_overview_time_frame_weeks,4,48,,,33F (Unique to V114),OG000,1.85,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+29,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,33F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+29,outcome_overview_time_frame_weeks,4,48,,,33F (Unique to V114),OG001,0.06,GMC of Serotype-Specific IgG for the 2 Unique V114 Serotypes After Dose 3
+30,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+30,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+31,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+31,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+32,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+32,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+33,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG001,96.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+33,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG001,96.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+34,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+34,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+35,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+35,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+36,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+36,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+37,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+37,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+38,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+38,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+39,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+39,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+40,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+40,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+41,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+41,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+42,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+42,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+43,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+43,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+44,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+44,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+45,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+45,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+46,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+46,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+47,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+47,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+48,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+48,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+49,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+49,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+50,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+50,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+51,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+51,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+52,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+52,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+53,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+53,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG001,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+54,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+54,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG000,99.7,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+55,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG001,99.4,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+55,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG001,99.4,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+56,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+56,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+57,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG001,5.2,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+57,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG001,5.2,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+58,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+58,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG000,100.0,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+59,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG001,11.5,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+59,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG001,11.5,Percentage of Participants Meeting the Serotype Specific IgG Threshold Value of ≥0.35 μg/mL for Each Serotype in V114 After Dose 4
+60,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG000,2.74,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+60,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG000,2.74,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+61,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG001,5.19,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+61,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG001,5.19,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+62,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG000,2.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+62,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG000,2.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+63,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG001,1.28,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+63,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG001,1.28,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+64,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG000,2.91,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+64,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG000,2.91,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+65,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG001,3.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+65,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG001,3.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+66,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG000,4.43,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+66,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG000,4.43,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+67,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG001,6.65,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+67,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG001,6.65,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+68,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG000,6.05,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+68,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG000,6.05,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+69,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG001,9.41,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+69,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG001,9.41,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+70,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG000,8.03,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+70,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG000,8.03,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+71,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG001,10.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+71,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG001,10.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+72,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG000,5.80,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+72,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG000,5.80,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+73,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG001,7.15,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+73,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG001,7.15,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+74,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG000,4.27,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+74,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG000,4.27,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+75,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG001,5.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+75,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG001,5.18,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+76,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG000,9.51,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+76,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG000,9.51,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+77,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG001,11.26,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+77,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG001,11.26,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+78,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG000,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+78,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG000,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+79,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG001,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+79,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG001,5.21,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+80,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG000,6.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+80,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG000,6.88,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+81,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG001,8.37,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+81,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG001,8.37,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+82,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG000,6.53,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+82,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG000,6.53,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+83,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG001,7.76,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+83,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG001,7.76,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+84,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG000,3.75,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+84,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG000,3.75,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+85,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG001,6.22,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+85,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG001,6.22,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+86,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG000,11.42,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+86,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG000,11.42,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+87,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG001,0.13,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+87,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG001,0.13,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+88,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG000,6.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+88,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG000,6.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+89,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG001,0.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+89,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG001,0.14,GMC of Serotype-Specific IgG for Each Serotype in V114 After Dose 4
+90,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,1 (Shared),OG000,211.51,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+90,outcome_overview_time_frame_weeks,4,48,,,1 (Shared),OG000,211.51,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+91,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,1 (Shared),OG001,322.44,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+91,outcome_overview_time_frame_weeks,4,48,,,1 (Shared),OG001,322.44,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+92,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,3 (Shared),OG000,660.68,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+92,outcome_overview_time_frame_weeks,4,48,,,3 (Shared),OG000,660.68,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+93,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,3 (Shared),OG001,471.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+93,outcome_overview_time_frame_weeks,4,48,,,3 (Shared),OG001,471.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+94,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,4 (Shared),OG000,3984.87,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+94,outcome_overview_time_frame_weeks,4,48,,,4 (Shared),OG000,3984.87,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+95,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,4 (Shared),OG001,4118.16,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+95,outcome_overview_time_frame_weeks,4,48,,,4 (Shared),OG001,4118.16,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+96,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,5 (Shared),OG000,1241.69,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+96,outcome_overview_time_frame_weeks,4,48,,,5 (Shared),OG000,1241.69,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+97,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,5 (Shared),OG001,1358.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+97,outcome_overview_time_frame_weeks,4,48,,,5 (Shared),OG001,1358.43,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+98,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6A (Shared),OG000,9124.96,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+98,outcome_overview_time_frame_weeks,4,48,,,6A (Shared),OG000,9124.96,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+99,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6A (Shared),OG001,11956.64,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+99,outcome_overview_time_frame_weeks,4,48,,,6A (Shared),OG001,11956.64,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+100,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6B (Shared),OG000,8416.19,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+100,outcome_overview_time_frame_weeks,4,48,,,6B (Shared),OG000,8416.19,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+101,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,6B (Shared),OG001,10421.94,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+101,outcome_overview_time_frame_weeks,4,48,,,6B (Shared),OG001,10421.94,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+102,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,7F (Shared),OG000,22324.41,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+102,outcome_overview_time_frame_weeks,4,48,,,7F (Shared),OG000,22324.41,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+103,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,7F (Shared),OG001,27396.28,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+103,outcome_overview_time_frame_weeks,4,48,,,7F (Shared),OG001,27396.28,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+104,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,9V (Shared),OG000,2725.29,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+104,outcome_overview_time_frame_weeks,4,48,,,9V (Shared),OG000,2725.29,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+105,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,9V (Shared),OG001,3338.40,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+105,outcome_overview_time_frame_weeks,4,48,,,9V (Shared),OG001,3338.40,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+106,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,14 (Shared),OG000,14175.13,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+106,outcome_overview_time_frame_weeks,4,48,,,14 (Shared),OG000,14175.13,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+107,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,14 (Shared),OG001,12288.35,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+107,outcome_overview_time_frame_weeks,4,48,,,14 (Shared),OG001,12288.35,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+108,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,18C (Shared),OG000,3698.24,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+108,outcome_overview_time_frame_weeks,4,48,,,18C (Shared),OG000,3698.24,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+109,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,18C (Shared),OG001,3705.21,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+109,outcome_overview_time_frame_weeks,4,48,,,18C (Shared),OG001,3705.21,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+110,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19A (Shared),OG000,2709.90,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+110,outcome_overview_time_frame_weeks,4,48,,,19A (Shared),OG000,2709.90,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+111,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19A (Shared),OG001,3961.10,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+111,outcome_overview_time_frame_weeks,4,48,,,19A (Shared),OG001,3961.10,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+112,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19F (Shared),OG000,2371.39,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+112,outcome_overview_time_frame_weeks,4,48,,,19F (Shared),OG000,2371.39,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+113,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,19F (Shared),OG001,2541.27,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+113,outcome_overview_time_frame_weeks,4,48,,,19F (Shared),OG001,2541.27,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+114,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,23F (Shared),OG000,11861.63,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+114,outcome_overview_time_frame_weeks,4,48,,,23F (Shared),OG000,11861.63,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+115,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,23F (Shared),OG001,18957.26,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+115,outcome_overview_time_frame_weeks,4,48,,,23F (Shared),OG001,18957.26,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+116,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,22F (Unique to V114),OG000,5575.08,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+116,outcome_overview_time_frame_weeks,4,48,,,22F (Unique to V114),OG000,5575.08,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+117,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,22F (Unique to V114),OG001,9.95,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+117,outcome_overview_time_frame_weeks,4,48,,,22F (Unique to V114),OG001,9.95,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+118,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,33F (Unique to V114),OG000,23888.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+118,outcome_overview_time_frame_weeks,4,48,,,33F (Unique to V114),OG000,23888.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+119,outcome_overview_dose_description,1m post dose 1 child,48w post dose 1 child,,,33F (Unique to V114),OG001,121.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+119,outcome_overview_time_frame_weeks,4,48,,,33F (Unique to V114),OG001,121.79,Geometric Mean Titer of Serotype-Specific Opsonophagocytic Activity for Each Serotype in V114 After Dose 3
+120,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG000,453.42,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+120,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG000,453.42,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+121,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,1 (Shared),OG001,854.50,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+121,outcome_overview_time_frame_weeks,4,61,,,1 (Shared),OG001,854.50,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+122,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG000,1444.00,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+122,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG000,1444.00,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+123,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,3 (Shared),OG001,893.97,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+123,outcome_overview_time_frame_weeks,4,61,,,3 (Shared),OG001,893.97,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+124,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG000,4531.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+124,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG000,4531.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+125,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,4 (Shared),OG001,6264.94,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+125,outcome_overview_time_frame_weeks,4,61,,,4 (Shared),OG001,6264.94,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+126,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG000,1853.08,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+126,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG000,1853.08,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+127,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,5 (Shared),OG001,2151.95,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+127,outcome_overview_time_frame_weeks,4,61,,,5 (Shared),OG001,2151.95,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+128,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG000,12553.06,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+128,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG000,12553.06,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+129,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6A (Shared),OG001,17476.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+129,outcome_overview_time_frame_weeks,4,61,,,6A (Shared),OG001,17476.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+130,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG000,9218.64,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+130,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG000,9218.64,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+131,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,6B (Shared),OG001,14041.53,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+131,outcome_overview_time_frame_weeks,4,61,,,6B (Shared),OG001,14041.53,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+132,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG000,15451.96,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+132,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG000,15451.96,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+133,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,7F (Shared),OG001,18039.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+133,outcome_overview_time_frame_weeks,4,61,,,7F (Shared),OG001,18039.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+134,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG000,3259.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+134,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG000,3259.24,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+135,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,9V (Shared),OG001,5050.89,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+135,outcome_overview_time_frame_weeks,4,61,,,9V (Shared),OG001,5050.89,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+136,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG000,8486.72,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+136,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG000,8486.72,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+137,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,14 (Shared),OG001,5719.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+137,outcome_overview_time_frame_weeks,4,61,,,14 (Shared),OG001,5719.04,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+138,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG000,7027.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+138,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG000,7027.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+139,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,18C (Shared),OG001,5903.86,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+139,outcome_overview_time_frame_weeks,4,61,,,18C (Shared),OG001,5903.86,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+140,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG000,8441.43,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+140,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG000,8441.43,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+141,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19A (Shared),OG001,10834.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+141,outcome_overview_time_frame_weeks,4,61,,,19A (Shared),OG001,10834.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+142,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG000,4716.70,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+142,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG000,4716.70,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+143,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,19F (Shared),OG001,3829.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+143,outcome_overview_time_frame_weeks,4,61,,,19F (Shared),OG001,3829.62,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+144,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG000,11319.82,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+144,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG000,11319.82,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+145,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,23F (Shared),OG001,30686.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+145,outcome_overview_time_frame_weeks,4,61,,,23F (Shared),OG001,30686.58,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+146,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG000,5561.71,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+146,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG000,5561.71,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+147,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,22F (Unique to V114),OG001,35.68,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+147,outcome_overview_time_frame_weeks,4,61,,,22F (Unique to V114),OG001,35.68,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+148,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG000,19899.34,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+148,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG000,19899.34,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+149,outcome_overview_dose_description,1m post dose 1 child,61w post dose 1 child,,,33F (Unique to V114),OG001,1183.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4
+149,outcome_overview_time_frame_weeks,4,61,,,33F (Unique to V114),OG001,1183.52,GMT of Serotype-Specific OPA for Each Serotype in V114 After Dose 4

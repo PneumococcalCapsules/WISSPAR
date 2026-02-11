@@ -1,0 +1,246 @@
+SYSTEM:
+You are a clinical immunogenicity researcher analyzing pneumococcal vaccine trial data from ClinicalTrials.gov. You will classify immunogenicity measurements by reasoning about the overall trial design.
+
+Your analytical approach:
+1. First, understand the overall trial design: What vaccines are compared? What dosing schedules? What age groups?
+2. Look at ALL outcome measures together to understand the trial's measurement plan (e.g., "After Dose 3" and "After Dose 4" outcomes reveal the dosing schedule).
+3. Use timing gaps between measurements (e.g., Dose 3 at ~7 months, Dose 4 at ~13 months) to identify booster doses vs primary series doses.
+4. For vaccine identification, understand which arm/group corresponds to which vaccine product based on the full trial description.
+5. Think holistically about the trial before classifying individual measurements.
+
+USER:
+# Trial: NCT02308540 - A Phase 1/2, Prospective,Randomized, Active-Controlled, Double-Blind, Age De-escalation Study to Evaluate the Safety, Tolerability, Immunogenicity of Serum Institute of India's PCV10 in Healthy Adults, Toddlers, and Infants
+Sponsor: PATH
+Phase: Phase 1/Phase 2
+Population: CHILD, ADULT
+
+## Arms and Interventions
+
+ARM: Adult SIILPCV10 (EXPERIMENTAL)
+  Description: Single dose of SIILPCV10 on day 0
+  Interventions: SIILPCV10
+
+ARM: Adult Pneumovax 23 (ACTIVE_COMPARATOR)
+  Description: Single dose of Pneumovax 23 on day 0
+  Interventions: Pneumovax 23
+
+ARM: Toddler SIILPCV10 (EXPERIMENTAL)
+  Description: Single dose of SIILPCV10 on day 0
+  Interventions: SIILPCV10
+
+ARM: Toddler Prevenar 13 (ACTIVE_COMPARATOR)
+  Description: Single dose of Prevenar 13 on day 0
+  Interventions: Prevenar 13
+
+ARM: Infants SIIL PCV10 (EXPERIMENTAL)
+  Description: A three-dose series of SIILPCV10 on day 0, day 28, and day 56
+  Interventions: SIILPCV10
+
+ARM: Infants Prevenar 13 (ACTIVE_COMPARATOR)
+  Description: A three-dose series of Prevenar 13 on day 0, day 28, and day 56
+  Interventions: Prevenar 13
+
+ARM: Infant Booster Dose SIILPCV 10 (EXPERIMENTAL)
+  Description: One dose of SIILPCV 10 at 9 months of age
+  Interventions: SIILPCV10
+
+ARM: Infant Booster Dose Prevenar 13 (ACTIVE_COMPARATOR)
+  Description: One dose of SIILPCV 10 at 9 months of age
+  Interventions: Prevenar 13
+
+## Immunogenicity Outcome Measures
+
+### Outcome 0: "Geometric Mean Concentration of Immunoglobulin G (IgG) for Adults"
+Description: Serum samples were collected 28 days after the vaccination in adults to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10.
+Timeframe: 4 weeks after vaccination
+ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Adults--PCV 10" - Single dose of SIILPCV 10 on Day 0
+  OG001: "Adults--Pneumovax 23" - Single dose of Pneumovax 23 on Day 0
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 1: "Geometric Mean Concentration of Immunoglobulin G (IgG) 4 Weeks After Vaccination for Toddlers"
+Description: Serum samples were collected 28 days after vaccination for toddlers to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10.
+Timeframe: 4 weeks after vaccination
+ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Toddler--PCV 10" - Dose of SIILPCV 10 on Day 0
+  OG001: "Toddler--Prevenar 13" - Dose of Prevenar 13 on Day 0
+  Serotypes (20): "PnC-IgG-ELISA type 1: Baseline", "PnC-IgG-ELISA type 1: Post-vaccination", "PnC-IgG-ELISA type 5: Baseline", "PnC-IgG-ELISA type 5: Post-vaccination", "PnC-IgG-ELISA type 6A: Baseline", ... +15 more
+
+### Outcome 2: "Geometric Mean Concentration of Immunoglobulin G (IgG) 4 Weeks After Vaccination for Infants"
+Description: Serum samples were collected 28 days after the third vaccination for infants to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10.
+Timeframe: 4 weeks after the third dose
+ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Infant--PCV 10" - Dose of SIILPCV 10 on Day 0, 28 and 56
+  OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Day 0, 28 and 56
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 3: "Geometric Mean Fold Rise (GMFR) of Immunoglobulin G (IgG) in Toddlers, by Serotype"
+Description: Serum samples were collected before the first vaccination and 28 days after the last vaccination for adults and toddlers and 28 days after the completion of the primary series for infants to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10. Blood samples were also co
+Timeframe: 4 weeks after vaccination (28 days)
+ParamType: GEOMETRIC_MEAN | Unit: fold change | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Toddler--PCV 10" - Single dose of SIILPCV 10 on Day 0
+  OG001: "Toddler--Prevenar 13" - Single dose of Prevenar 13 on Day 0
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 4: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Among Infants, by Serotype"
+Description: Seroresponse was defined as ≥ 0.35 µg/mL. In infants, serum samples were collected 28 days after receipt of three doses of the vaccine to determine the ELISA IgG concentration for all 10 serotypes contained in SIILPCV10.
+Timeframe: 4 weeks after third dose
+ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
+Groups:
+  OG000: "Infant--PCV 10" - Dose of SIILPCV 10 on Days 0, 28 \& 56
+  OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
+  Serotypes (10): "Pn-IgG-ELISA type 1", "Pn-IgG-ELISA type 5", "Pn-IgG-ELISA type 6A", "Pn-IgG-ELISA type 6B", "Pn-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 5: "Functional Antibody (OPA) Geometric Mean Titers"
+Description: The functional activity of the IgG response to the 10 serotypes contained in SIILPCV10 was determined in randomly selected subsets of the infant and toddler cohorts and all adult subjects in the same serum samples collected 28 days after the last vaccinations. This activity was determined using the 
+Timeframe: 4 weeks after last vaccination
+ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Adults--PCV 10" - Single dose of SIILPCV 10 on Day 0
+  OG001: "Adults--Pneumovax 23" - Single dose of Pneumovax 23 on Day 0
+  OG002: "Toddler--PCV 10" - Single dose of SIILPCV 10 on Day 0
+  OG003: "Toddler--Prevenar 13" - Single dose of Prevenar 13 on Day 0
+  OG004: "Infant--PCV 10" - Dose of SIILPCV 10 on Days 0, 28 \& 56
+  OG005: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
+  Serotypes (10): "MOPA - Pn 1", "MOPA - Pn 5", "MOPA - Pn 6A", "MOPA - 6B", "MOPA - 7F", ... +5 more
+
+### Outcome 6: "Number and Percentage of Functional (OPA) Infant Seroresponders, by Serotype"
+Description: The functional activity of the immune response to the 10 serotypes contained in SIILPCV10 was determined in randomly selected subsets of the infant cohort in the same serum samples collected 28 days after the completion of the primary series. This activity was determined using the 4-fold multiplexed
+Timeframe: 84 days
+ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
+Groups:
+  OG000: "Infant--PCV 10" - Dose of SIILPCV 10 on Days 0, 28 \& 56
+  OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
+  Serotypes (10): "MOPA - Pn 1", "MOPA - Pn 5", "MOPA - Pn 6A", "MOPA - 6B", "MOPA - 7F", ... +5 more
+
+### Outcome 7: "Number and Percentage of Immunoglobulin G (IgG) Seroresponders Against Pentavalent Vaccine Components"
+Description: Serum samples were collected 28 days after the third vaccination for infants to determine the ELISA IgG concentration for each component of the co administered pentavalent vaccine (DTwP-HepB-Hib) . Seroresponse was defined as equal to or greater concentrations for:
+
+* Diptheria toxoid: 0.1 IU/mL
+* H
+Timeframe: 84 days
+ParamType: COUNT_OF_PARTICIPANTS | Unit: Participants | Dispersion: 
+Groups:
+  OG000: "Infant--PCV 10" - Dose of SIILPCV 10 on Days 0, 28 \& 56
+  OG001: "Infant--Prevenar 13" - Dose of Prevenar 13 on Days 0, 28, \& 56
+  Serotypes (4): "Diphtheria toxoid", "Hepatitis B", "Hib (anti-PRP antibodies)", "Tetanus toxoid"
+
+### Outcome 8: "Geometric Mean Concentration (GMC) of Immunoglobulin G (IgG) by Time Point (4 Weeks Post Vaccination 3, Pre Booster, 4 Weeks Post Booster) Among Infants Receiving Booster Dose"
+Description: Using enzyme-linked immunosorbent assay (ELISA). Blood samples were collected for immunogenicity testing at 4 weeks post vaccination 3, and before and 28 days after the booster dose for infants.
+Timeframe: 4 weeks (28 days)
+ParamType: GEOMETRIC_MEAN | Unit: µg/mL | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Infant--PCV 10" - Booster dose of SIILPCV 10 at 10 months of age
+  OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
+  OG002: "Treatment Comparison (GMC Ratio)" - This column is the GMC Ratio between the SIILPCV 10 and the Prevenar 13 groups
+  Serotypes (30): "PnC-IgG-ELISA Type 1: 4 weeks post Vac 3", "PnC-IgG-ELISA Type 1: Pre Booster", "PnC-IgG-ELISA Type 1: Post Booster", "PnC-IgG-ELISA Type 5: 4 weeks post Vac 3", "PnC-IgG-ELISA Type 5: Pre Booster", ... +25 more
+
+### Outcome 9: "Geometric Mean Fold Rise (GMFR) in Immunoglobulin G (IgG) Among Infants Receiving a Booster Dose"
+Description: Using enzyme-linked immunosorbent assay (ELISA). Blood samples were collected for immunogenicity testing before and 28 days after the booster dose for infants.
+Timeframe: 4 weeks (28 days)
+ParamType: GEOMETRIC_MEAN | Unit: fold change | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Infant--PCV 10" - Booster dose of SIILPCV 10 at 10 months of age
+  OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
+  OG002: "GMFR Ratio" - This column is the GMFR ratio between the SIILPCV 10 group and the Prevenar 13 group.
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 10: "Antibody Persistence of Immunoglobulin G (IgG) Geometric Mean Concentration Among Infants Receiving a Booster Dose"
+Description: Defined as the ratio of IgG geometric mean concentration (GMC) measured prior to the infant booster dose, to GMC measured 4 weeks after the 3-dose primary series. Infants received the booster dose at least four weeks after they received routine Expanded Program on Immunization (EPI) vaccines, which 
+Timeframe: 20-23 weeks
+ParamType: GEOMETRIC_MEAN | Unit: concentration ratio | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Infant--PCV 10" - Booster dose of SIILPCV 10 at 10 months of age
+  OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+### Outcome 11: "Booster Effect: Ratio of Immunoglobulin G (IgG) Geometric Mean Concentration 4 Weeks Post Vaccination 3 Versus 4 Weeks Post Booster Among Infants Receiving a Booster Dose"
+Description: Defined as the ratio of IgG geometric mean concentration (GMC) measured 4 weeks post-infant booster dose, to GMC measured 4 weeks after the 3-dose primary series. Infants received the booster dose at least four weeks after they received routine Expanded Program on Immunization (EPI) vaccines, which 
+Timeframe: 24-26 weeks
+ParamType: GEOMETRIC_MEAN | Unit: concentration ratio | Dispersion: 90% Confidence Interval
+Groups:
+  OG000: "Infant--PCV 10" - Booster dose of SIILPCV 10 at 10 months of age
+  OG001: "Infant--Prevenar 13" - Booster dose of Prevenar 13 at 10 months of age
+  Serotypes (10): "PnC-IgG-ELISA type 1", "PnC-IgG-ELISA type 5", "PnC-IgG-ELISA type 6A", "PnC-IgG-ELISA type 6B", "PnC-IgG-ELISA type 7F", ... +5 more
+
+## Vaccine Reference (use these standardized names)
+  - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
+  - PCV10 (Synflorix) (manufacturer: GSK)
+  - PCV13 (manufacturer: Pfizer)
+  - PCV13 (Pfizer) (manufacturer: Pfizer)
+  - PCV15 (manufacturer: MSD)
+  - PCV20 (manufacturer: Pfizer)
+  - PCV21(Merck V116) (manufacturer: MSD)
+  - PCV24 (Vaxcyte VAX-24) (manufacturer: Vaxcyte)
+  - PCV25 (Inventprise) (manufacturer: Inventprise)
+  - PCV31 (Vaxcyte VAX-31) (manufacturer: Vaxcyte)
+  - PCV7 (manufacturer: Pfizer)
+  - PPV23 (manufacturer: MSD)
+
+## Task
+Analyze each outcome measure and its groups. Return ONLY a JSON object (no markdown fences, no commentary) with this structure:
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "OPA" or "GMC",
+      "time_frame_weeks": <integer or null>,
+      "groups": {
+        "<group_id>": {
+          "vaccine": "<standardized vaccine name>",
+          "manufacturer": "<company short name>",
+          "dose_number": <integer>,
+          "schedule": "<schedule string>",
+          "dose_description": "<description string>"
+        }
+      }
+    }
+  ]
+}
+
+Classification rules:
+
+ASSAY:
+- "OPA" for opsonophagocytic activity / geometric mean titer (GMT) measures.
+- "GMC" for IgG geometric mean concentration measures.
+- Key indicators: unit "1/dil" or "titer" → OPA. Unit "mcg/mL" or "ug/mL" → GMC.
+- "Unknown" only if truly unclear.
+
+TIME_FRAME_WEEKS:
+- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- "1 month after vaccination" = 4. "6 months after dose 3" = 26.
+- This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
+- null only if truly not determinable from the timeframe text.
+
+DOSE_NUMBER:
+- The total number of vaccine doses the participant has received AT THE TIME of this measurement.
+- "after dose 3" = 3. "after booster" in a 3+1 trial = 4. "pre-booster" in a 3+1 trial = 3. "after dose 1" = 1.
+
+SCHEDULE:
+- Use "{primary}+1 {age}" when the trial includes a booster/toddler dose (e.g., "3+1 child", "2+1 child"). A trial has a booster if ANY outcome mentions "booster", "toddler dose", or if there is a large timing gap between the last dose and prior doses (e.g., doses at 2,4,6 months then 12-15 months).
+- Use "{n} dose {age}" ONLY when there is NO booster in the trial (e.g., "1 dose adult", "2 dose adult", "3 dose child").
+- IMPORTANT: The schedule describes the ENTIRE regimen for that arm, not just this measurement. A "3+1 child" arm stays "3+1 child" for ALL its outcomes (post-dose-3, pre-booster, post-booster).
+- Use "child" for CHILD populations, "adult" for ADULT/OLDER_ADULT.
+
+DOSE_DESCRIPTION:
+- Format: "{time}m post dose {n} {age}" when time_frame_weeks ≈ 4 (use "1m"), otherwise "{weeks}w post dose {n} {age}".
+- For post-booster: "1m post boost {age}" (if ~4 weeks) or "{weeks}w post boost {age}".
+- For pre-booster: "pre boost {age}".
+- ALWAYS use "1m" (not "4w") when the timeframe is approximately 1 month (4-5 weeks). Use "{weeks}w" for all other durations.
+- Examples: "1m post dose 3 child", "26w post dose 1 adult", "1m post boost child", "pre boost child".
+
+VACCINE:
+- Use EXACTLY the standardized name from the reference list when it matches.
+- Do NOT append the manufacturer in parentheses if the reference name already exists without it (e.g., use "PCV13" not "PCV13 (Pfizer)" when "PCV13" is in the reference list).
+- For sequential regimens (e.g., PCV13 then PPV23): each group receives ONE vaccine at a time. Assign the vaccine that group received, not a combo.
+- For new/unknown vaccines: use "PCV{valency} ({brand/company})".
+
+MANUFACTURER:
+- Use these EXACT short names (matching the vaccine reference list):
+  Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
+- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
+- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.

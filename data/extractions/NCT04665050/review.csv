@@ -1,0 +1,357 @@
+row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
+0,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,3,OG000,161.08,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+0,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG000,161.08,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+1,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,3,OG001,100.76,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+1,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG001,100.76,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+2,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,7F,OG000,5327.67,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+2,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG000,5327.67,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+3,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,7F,OG001,4406.11,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+3,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG001,4406.11,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+4,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,19A,OG000,1479.82,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+4,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG000,1479.82,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+5,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,19A,OG001,738.52,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+5,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG001,738.52,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+6,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,22F,OG000,5768.79,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+6,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG000,5768.79,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+7,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,22F,OG001,3000.50,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+7,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG001,3000.50,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+8,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,33F,OG000,33187.25,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+8,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG000,33187.25,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+9,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,33F,OG001,28831.77,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+9,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG001,28831.77,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+10,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,8,OG000,1287.66,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+10,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG000,1287.66,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+11,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,8,OG001,721.85,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+11,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG001,721.85,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+12,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,9N,OG000,6555.82,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+12,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG000,6555.82,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+13,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,9N,OG001,3466.72,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+13,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG001,3466.72,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+14,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,10A,OG000,3608.34,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+14,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG000,3608.34,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+15,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,10A,OG001,1330.75,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+15,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG001,1330.75,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+16,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,11A,OG000,1467.66,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+16,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG000,1467.66,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+17,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,11A,OG001,603.00,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+17,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG001,603.00,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+18,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,12F,OG000,1356.20,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+18,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG000,1356.20,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+19,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,12F,OG001,563.99,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+19,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG001,563.99,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+20,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,17F,OG000,8470.21,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+20,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG000,8470.21,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+21,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,17F,OG001,3293.31,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+21,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG001,3293.31,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+22,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,20A,OG000,3542.90,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+22,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG000,3542.90,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+23,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,20A,OG001,1553.99,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+23,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG001,1553.99,Serotype-specific Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) for the Common Serotypes in V116 and PNEUMOVAX™23
+24,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,3,OG000,1.13,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+24,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG000,1.13,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+25,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,3,OG001,0.73,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+25,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG001,0.73,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+26,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,7F,OG000,10.29,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+26,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG000,10.29,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+27,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,7F,OG001,4.66,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+27,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG001,4.66,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+28,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,19A,OG000,10.75,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+28,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG000,10.75,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+29,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,19A,OG001,4.97,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+29,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG001,4.97,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+30,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,22F,OG000,3.94,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+30,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG000,3.94,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+31,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,22F,OG001,1.69,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+31,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG001,1.69,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+32,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,33F,OG000,22.00,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+32,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG000,22.00,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+33,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,33F,OG001,14.48,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+33,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG001,14.48,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+34,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,8,OG000,19.38,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+34,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG000,19.38,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+35,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,8,OG001,10.33,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+35,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG001,10.33,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+36,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,9N,OG000,14.17,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+36,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG000,14.17,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+37,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,9N,OG001,5.99,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+37,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG001,5.99,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+38,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,10A,OG000,11.13,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+38,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG000,11.13,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+39,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,10A,OG001,5.16,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+39,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG001,5.16,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+40,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,11A,OG000,9.07,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+40,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG000,9.07,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+41,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,11A,OG001,4.71,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+41,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG001,4.71,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+42,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,12F,OG000,2.87,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+42,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG000,2.87,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+43,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,12F,OG001,0.82,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+43,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG001,0.82,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+44,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,17F,OG000,19.46,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+44,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG000,19.46,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+45,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,17F,OG001,6.77,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+45,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG001,6.77,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+46,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,20A,OG000,23.53,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+46,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG000,23.53,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+47,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,20A,OG001,11.46,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+47,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG001,11.46,Serotype-specific Immunoglobulin G (IgG) Geometric Mean Concentrations (GMCs) for the Common Serotypes in V116 and PNEUMOVAX™23
+48,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6A,OG000,1663.20,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+48,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG000,1663.20,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+49,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6A,OG001,464.65,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+49,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG001,464.65,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+50,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15A,OG000,5030.66,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+50,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG000,5030.66,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+51,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15A,OG001,807.16,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+51,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG001,807.16,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+52,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15C,OG000,3641.84,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+52,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG000,3641.84,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+53,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15C,OG001,1565.56,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+53,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG001,1565.56,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+54,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,16F,OG000,2459.26,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+54,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG000,2459.26,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+55,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,16F,OG001,244.49,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+55,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG001,244.49,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+56,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23A,OG000,2620.19,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+56,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG000,2620.19,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+57,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23A,OG001,62.26,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+57,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG001,62.26,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+58,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23B,OG000,2065.39,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+58,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG000,2065.39,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+59,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23B,OG001,167.03,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+59,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG001,167.03,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+60,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,24F,OG000,2742.93,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+60,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG000,2742.93,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+61,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,24F,OG001,110.53,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+61,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG001,110.53,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+62,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,31,OG000,1699.54,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+62,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG000,1699.54,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+63,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,31,OG001,66.24,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+63,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG001,66.24,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+64,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,35B,OG000,4992.58,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+64,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG000,4992.58,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+65,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,35B,OG001,349.07,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+65,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG001,349.07,Serotype-specific OPA GMTs for the Unique Serotypes in V116
+66,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6A,OG000,6.38,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+66,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG000,6.38,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+67,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6A,OG001,2.13,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+67,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG001,2.13,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+68,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15A,OG000,16.39,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+68,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG000,16.39,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+69,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15A,OG001,2.04,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+69,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG001,2.04,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+70,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15C,OG000,21.42,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+70,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG000,21.42,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+71,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15C,OG001,6.81,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+71,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG001,6.81,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+72,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,16F,OG000,5.57,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+72,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG000,5.57,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+73,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,16F,OG001,0.43,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+73,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG001,0.43,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+74,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23A,OG000,4.14,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+74,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG000,4.14,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+75,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23A,OG001,0.48,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+75,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG001,0.48,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+76,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23B,OG000,8.56,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+76,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG000,8.56,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+77,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23B,OG001,2.06,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+77,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG001,2.06,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+78,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,24F,OG000,13.99,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+78,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG000,13.99,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+79,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,24F,OG001,0.49,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+79,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG001,0.49,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+80,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,31,OG000,5.25,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+80,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG000,5.25,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+81,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,31,OG001,0.51,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+81,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG001,0.51,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+82,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,35B,OG000,24.61,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+82,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG000,24.61,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+83,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,35B,OG001,1.54,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+83,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG001,1.54,Serotype-specific IgG GMCs for the Unique Serotypes in V116
+84,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,3,OG000,9.86,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+84,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG000,9.86,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+85,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,3,OG001,6.35,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+85,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG001,6.35,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+86,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,7F,OG000,19.79,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+86,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG000,19.79,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+87,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,7F,OG001,21.53,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+87,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG001,21.53,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+88,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,19A,OG000,10.80,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+88,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG000,10.80,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+89,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,19A,OG001,6.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+89,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG001,6.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+90,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,22F,OG000,15.14,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+90,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG000,15.14,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+91,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,22F,OG001,18.13,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+91,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG001,18.13,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+92,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,33F,OG000,11.47,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+92,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG000,11.47,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+93,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,33F,OG001,11.62,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+93,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG001,11.62,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+94,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,8,OG000,102.33,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+94,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG000,102.33,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+95,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,8,OG001,48.14,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+95,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG001,48.14,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+96,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,9N,OG000,55.49,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+96,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG000,55.49,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+97,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,9N,OG001,40.11,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+97,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG001,40.11,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+98,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,10A,OG000,31.29,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+98,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG000,31.29,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+99,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,10A,OG001,21.93,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+99,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG001,21.93,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+100,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,11A,OG000,42.06,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+100,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG000,42.06,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+101,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,11A,OG001,20.68,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+101,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG001,20.68,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+102,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,12F,OG000,94.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+102,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG000,94.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+103,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,12F,OG001,44.70,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+103,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG001,44.70,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+104,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,17F,OG000,23.63,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+104,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG000,23.63,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+105,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,17F,OG001,11.40,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+105,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG001,11.40,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+106,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,20A,OG000,11.69,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+106,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG000,11.69,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+107,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,20A,OG001,5.94,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+107,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG001,5.94,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+108,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6A,OG000,22.76,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+108,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG000,22.76,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+109,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6A,OG001,8.31,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+109,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG001,8.31,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+110,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15A,OG000,10.70,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+110,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG000,10.70,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+111,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15A,OG001,3.02,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+111,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG001,3.02,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+112,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15C,OG000,36.53,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+112,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG000,36.53,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+113,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15C,OG001,16.72,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+113,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG001,16.72,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+114,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,16F,OG000,14.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+114,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG000,14.74,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+115,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,16F,OG001,1.84,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+115,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG001,1.84,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+116,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23A,OG000,46.69,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+116,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG000,46.69,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+117,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23A,OG001,1.93,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+117,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG001,1.93,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+118,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23B,OG000,43.21,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+118,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG000,43.21,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+119,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23B,OG001,4.43,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+119,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG001,4.43,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+120,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,24F,OG000,9.21,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+120,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG000,9.21,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+121,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,24F,OG001,0.75,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+121,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG001,0.75,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+122,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,31,OG000,27.99,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+122,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG000,27.99,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+123,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,31,OG001,1.22,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+123,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG001,1.22,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+124,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,35B,OG000,7.39,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+124,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG000,7.39,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+125,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,35B,OG001,0.56,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+125,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG001,0.56,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+126,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6C,OG000,5.63,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+126,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6C,OG000,5.63,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+127,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6C,OG001,4.00,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+127,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6C,OG001,4.00,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+128,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15B,OG000,35.68,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+128,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15B,OG000,35.68,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+129,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15B,OG001,23.54,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+129,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15B,OG001,23.54,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+130,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,20B,OG000,6.08,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+130,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20B,OG000,6.08,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+131,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,20B,OG001,8.89,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+131,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20B,OG001,8.89,Geometric Mean Fold Rise (GMFR) From Baseline in GMTs of Serotype-specific OPA
+132,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,3,OG000,5.92,GMFR From Baseline in Serotype-specific IgG GMCs
+132,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG000,5.92,GMFR From Baseline in Serotype-specific IgG GMCs
+133,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,3,OG001,4.47,GMFR From Baseline in Serotype-specific IgG GMCs
+133,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,3,OG001,4.47,GMFR From Baseline in Serotype-specific IgG GMCs
+134,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,7F,OG000,23.86,GMFR From Baseline in Serotype-specific IgG GMCs
+134,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG000,23.86,GMFR From Baseline in Serotype-specific IgG GMCs
+135,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,7F,OG001,10.51,GMFR From Baseline in Serotype-specific IgG GMCs
+135,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,7F,OG001,10.51,GMFR From Baseline in Serotype-specific IgG GMCs
+136,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,19A,OG000,7.58,GMFR From Baseline in Serotype-specific IgG GMCs
+136,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG000,7.58,GMFR From Baseline in Serotype-specific IgG GMCs
+137,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,19A,OG001,3.52,GMFR From Baseline in Serotype-specific IgG GMCs
+137,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,19A,OG001,3.52,GMFR From Baseline in Serotype-specific IgG GMCs
+138,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,22F,OG000,14.68,GMFR From Baseline in Serotype-specific IgG GMCs
+138,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG000,14.68,GMFR From Baseline in Serotype-specific IgG GMCs
+139,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,22F,OG001,6.57,GMFR From Baseline in Serotype-specific IgG GMCs
+139,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,22F,OG001,6.57,GMFR From Baseline in Serotype-specific IgG GMCs
+140,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,33F,OG000,21.61,GMFR From Baseline in Serotype-specific IgG GMCs
+140,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG000,21.61,GMFR From Baseline in Serotype-specific IgG GMCs
+141,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,33F,OG001,11.52,GMFR From Baseline in Serotype-specific IgG GMCs
+141,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,33F,OG001,11.52,GMFR From Baseline in Serotype-specific IgG GMCs
+142,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,8,OG000,31.58,GMFR From Baseline in Serotype-specific IgG GMCs
+142,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG000,31.58,GMFR From Baseline in Serotype-specific IgG GMCs
+143,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,8,OG001,16.71,GMFR From Baseline in Serotype-specific IgG GMCs
+143,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,8,OG001,16.71,GMFR From Baseline in Serotype-specific IgG GMCs
+144,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,9N,OG000,24.26,GMFR From Baseline in Serotype-specific IgG GMCs
+144,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG000,24.26,GMFR From Baseline in Serotype-specific IgG GMCs
+145,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,9N,OG001,10.56,GMFR From Baseline in Serotype-specific IgG GMCs
+145,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,9N,OG001,10.56,GMFR From Baseline in Serotype-specific IgG GMCs
+146,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,10A,OG000,15.70,GMFR From Baseline in Serotype-specific IgG GMCs
+146,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG000,15.70,GMFR From Baseline in Serotype-specific IgG GMCs
+147,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,10A,OG001,7.19,GMFR From Baseline in Serotype-specific IgG GMCs
+147,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,10A,OG001,7.19,GMFR From Baseline in Serotype-specific IgG GMCs
+148,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,11A,OG000,9.31,GMFR From Baseline in Serotype-specific IgG GMCs
+148,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG000,9.31,GMFR From Baseline in Serotype-specific IgG GMCs
+149,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,11A,OG001,4.64,GMFR From Baseline in Serotype-specific IgG GMCs
+149,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,11A,OG001,4.64,GMFR From Baseline in Serotype-specific IgG GMCs
+150,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,12F,OG000,23.87,GMFR From Baseline in Serotype-specific IgG GMCs
+150,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG000,23.87,GMFR From Baseline in Serotype-specific IgG GMCs
+151,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,12F,OG001,6.53,GMFR From Baseline in Serotype-specific IgG GMCs
+151,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,12F,OG001,6.53,GMFR From Baseline in Serotype-specific IgG GMCs
+152,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,17F,OG000,20.71,GMFR From Baseline in Serotype-specific IgG GMCs
+152,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG000,20.71,GMFR From Baseline in Serotype-specific IgG GMCs
+153,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,17F,OG001,7.37,GMFR From Baseline in Serotype-specific IgG GMCs
+153,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,17F,OG001,7.37,GMFR From Baseline in Serotype-specific IgG GMCs
+154,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,20A,OG000,11.68,GMFR From Baseline in Serotype-specific IgG GMCs
+154,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG000,11.68,GMFR From Baseline in Serotype-specific IgG GMCs
+155,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,20A,OG001,6.19,GMFR From Baseline in Serotype-specific IgG GMCs
+155,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,20A,OG001,6.19,GMFR From Baseline in Serotype-specific IgG GMCs
+156,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6A,OG000,14.01,GMFR From Baseline in Serotype-specific IgG GMCs
+156,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG000,14.01,GMFR From Baseline in Serotype-specific IgG GMCs
+157,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6A,OG001,4.67,GMFR From Baseline in Serotype-specific IgG GMCs
+157,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6A,OG001,4.67,GMFR From Baseline in Serotype-specific IgG GMCs
+158,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15A,OG000,32.11,GMFR From Baseline in Serotype-specific IgG GMCs
+158,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG000,32.11,GMFR From Baseline in Serotype-specific IgG GMCs
+159,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15A,OG001,3.34,GMFR From Baseline in Serotype-specific IgG GMCs
+159,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15A,OG001,3.34,GMFR From Baseline in Serotype-specific IgG GMCs
+160,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15C,OG000,42.20,GMFR From Baseline in Serotype-specific IgG GMCs
+160,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG000,42.20,GMFR From Baseline in Serotype-specific IgG GMCs
+161,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15C,OG001,11.50,GMFR From Baseline in Serotype-specific IgG GMCs
+161,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15C,OG001,11.50,GMFR From Baseline in Serotype-specific IgG GMCs
+162,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,16F,OG000,21.00,GMFR From Baseline in Serotype-specific IgG GMCs
+162,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG000,21.00,GMFR From Baseline in Serotype-specific IgG GMCs
+163,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,16F,OG001,1.52,GMFR From Baseline in Serotype-specific IgG GMCs
+163,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,16F,OG001,1.52,GMFR From Baseline in Serotype-specific IgG GMCs
+164,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23A,OG000,18.42,GMFR From Baseline in Serotype-specific IgG GMCs
+164,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG000,18.42,GMFR From Baseline in Serotype-specific IgG GMCs
+165,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23A,OG001,2.26,GMFR From Baseline in Serotype-specific IgG GMCs
+165,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23A,OG001,2.26,GMFR From Baseline in Serotype-specific IgG GMCs
+166,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,23B,OG000,14.04,GMFR From Baseline in Serotype-specific IgG GMCs
+166,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG000,14.04,GMFR From Baseline in Serotype-specific IgG GMCs
+167,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,23B,OG001,3.22,GMFR From Baseline in Serotype-specific IgG GMCs
+167,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,23B,OG001,3.22,GMFR From Baseline in Serotype-specific IgG GMCs
+168,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,24F,OG000,31.58,GMFR From Baseline in Serotype-specific IgG GMCs
+168,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG000,31.58,GMFR From Baseline in Serotype-specific IgG GMCs
+169,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,24F,OG001,1.15,GMFR From Baseline in Serotype-specific IgG GMCs
+169,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,24F,OG001,1.15,GMFR From Baseline in Serotype-specific IgG GMCs
+170,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,31,OG000,17.97,GMFR From Baseline in Serotype-specific IgG GMCs
+170,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG000,17.97,GMFR From Baseline in Serotype-specific IgG GMCs
+171,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,31,OG001,1.64,GMFR From Baseline in Serotype-specific IgG GMCs
+171,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,31,OG001,1.64,GMFR From Baseline in Serotype-specific IgG GMCs
+172,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,35B,OG000,16.93,GMFR From Baseline in Serotype-specific IgG GMCs
+172,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG000,16.93,GMFR From Baseline in Serotype-specific IgG GMCs
+173,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,35B,OG001,1.10,GMFR From Baseline in Serotype-specific IgG GMCs
+173,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,35B,OG001,1.10,GMFR From Baseline in Serotype-specific IgG GMCs
+174,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,6C,OG000,5.94,GMFR From Baseline in Serotype-specific IgG GMCs
+174,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6C,OG000,5.94,GMFR From Baseline in Serotype-specific IgG GMCs
+175,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,6C,OG001,2.21,GMFR From Baseline in Serotype-specific IgG GMCs
+175,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,6C,OG001,2.21,GMFR From Baseline in Serotype-specific IgG GMCs
+176,outcome_overview_vaccine,PCV21(Merck V116),PCV21(Merck V116) (MSD),,,15B,OG000,11.14,GMFR From Baseline in Serotype-specific IgG GMCs
+176,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15B,OG000,11.14,GMFR From Baseline in Serotype-specific IgG GMCs
+177,outcome_overview_vaccine,PPV23,PPV23 (MSD),,,15B,OG001,8.61,GMFR From Baseline in Serotype-specific IgG GMCs
+177,outcome_overview_manufacturer,MSD,Merck Sharp & Dohme LLC,,,15B,OG001,8.61,GMFR From Baseline in Serotype-specific IgG GMCs

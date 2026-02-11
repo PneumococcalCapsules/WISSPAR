@@ -1,0 +1,88 @@
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "GMC",
+      "time_frame_weeks": null,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG001": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG002": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        }
+      }
+    },
+    {
+      "outcome_index": 1,
+      "assay": "GMC",
+      "time_frame_weeks": null,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG001": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG002": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        }
+      }
+    },
+    {
+      "outcome_index": 2,
+      "assay": "OPA",
+      "time_frame_weeks": null,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG001": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        },
+        "OG002": {
+          "vaccine": "PCV10 (Synflorix)",
+          "manufacturer": "GSK",
+          "dose_number": null,
+          "schedule": "2+1 child",
+          "dose_description": null
+        }
+      }
+    }
+  ]
+}

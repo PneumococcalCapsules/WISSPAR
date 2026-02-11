@@ -1,7 +1,41 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-362,_selection,excluded,included,,,,OG000,36.96,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Mumps) 1 Month After Dose 4
-363,_selection,excluded,included,,,,OG001,34.19,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Mumps) 1 Month After Dose 4
-364,_selection,excluded,included,,,,OG000,49.63,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigens (Rubella) 1 Month After Dose 4
-365,_selection,excluded,included,,,,OG001,40.44,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigens (Rubella) 1 Month After Dose 4
-366,_selection,excluded,included,,,,OG000,233.05,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Varicella) 1 Month After Dose 4
-367,_selection,excluded,included,,,,OG001,234.78,GMRs of Prespecified Antibody Levels to Specific Concomitant Vaccine Antigen (Varicella) 1 Month After Dose 4
+320,outcome_overview_time_frame_weeks,,4,,,1,OG000,2.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+321,outcome_overview_time_frame_weeks,,4,,,1,OG001,1.8,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+322,outcome_overview_time_frame_weeks,,4,,,3,OG000,1.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+323,outcome_overview_time_frame_weeks,,4,,,3,OG001,1.7,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+324,outcome_overview_time_frame_weeks,,4,,,4,OG000,5.1,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+325,outcome_overview_time_frame_weeks,,4,,,4,OG001,4.4,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+326,outcome_overview_time_frame_weeks,,4,,,5,OG000,2.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+327,outcome_overview_time_frame_weeks,,4,,,5,OG001,2.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+328,outcome_overview_time_frame_weeks,,4,,,6A,OG000,4.7,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+329,outcome_overview_time_frame_weeks,,4,,,6A,OG001,4.3,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+330,outcome_overview_time_frame_weeks,,4,,,6B,OG000,6.8,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+331,outcome_overview_time_frame_weeks,,4,,,6B,OG001,5.5,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+332,outcome_overview_time_frame_weeks,,4,,,7F,OG000,2.3,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+333,outcome_overview_time_frame_weeks,,4,,,7F,OG001,2.2,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+334,outcome_overview_time_frame_weeks,,4,,,9V,OG000,4.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+335,outcome_overview_time_frame_weeks,,4,,,9V,OG001,3.4,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+336,outcome_overview_time_frame_weeks,,4,,,14,OG000,2.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+337,outcome_overview_time_frame_weeks,,4,,,14,OG001,2.2,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+338,outcome_overview_time_frame_weeks,,4,,,18C,OG000,2.7,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+339,outcome_overview_time_frame_weeks,,4,,,18C,OG001,2.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+340,outcome_overview_time_frame_weeks,,4,,,19A,OG000,4.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+341,outcome_overview_time_frame_weeks,,4,,,19A,OG001,4.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+342,outcome_overview_time_frame_weeks,,4,,,19F,OG000,3.2,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+343,outcome_overview_time_frame_weeks,,4,,,19F,OG001,2.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+344,outcome_overview_time_frame_weeks,,4,,,23F,OG000,4.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+345,outcome_overview_time_frame_weeks,,4,,,23F,OG001,4.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+346,outcome_overview_time_frame_weeks,,4,,,8,OG000,2.2,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+347,outcome_overview_time_frame_weeks,,4,,,8,OG001,1.8,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+348,outcome_overview_time_frame_weeks,,4,,,10A,OG000,5.3,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+349,outcome_overview_time_frame_weeks,,4,,,10A,OG001,1.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+350,outcome_overview_time_frame_weeks,,4,,,11A,OG000,2.6,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+351,outcome_overview_time_frame_weeks,,4,,,11A,OG001,1.1,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+352,outcome_overview_time_frame_weeks,,4,,,12F,OG000,3.3,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+353,outcome_overview_time_frame_weeks,,4,,,12F,OG001,1.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+354,outcome_overview_time_frame_weeks,,4,,,15B,OG000,2.8,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+355,outcome_overview_time_frame_weeks,,4,,,15B,OG001,1.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+356,outcome_overview_time_frame_weeks,,4,,,22F,OG000,2.9,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+357,outcome_overview_time_frame_weeks,,4,,,22F,OG001,1.0,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+358,outcome_overview_time_frame_weeks,,4,,,33F,OG000,6.4,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4
+359,outcome_overview_time_frame_weeks,,4,,,33F,OG001,0.8,Serotype-specific IgG GMFRs From 1 Month After Dose 3 to 1 Month After Dose 4

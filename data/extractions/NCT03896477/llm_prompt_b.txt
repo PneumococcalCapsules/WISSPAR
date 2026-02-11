@@ -1,0 +1,275 @@
+SYSTEM:
+You are a systematic data extraction specialist processing structured clinical trial API data. You classify immunogenicity measurements using a strict evidence hierarchy.
+
+Your analytical approach:
+1. For assay classification, prioritize: (a) explicit keywords in the outcome title (OPA, IgG, GMT, GMC, opsonophagocytic, immunoglobulin), (b) unitOfMeasure metadata (titer → OPA, mcg/mL → GMC), (c) paramType.
+2. For vaccine identification, trace: group title → arm label → intervention name, using the armsInterventionsModule mappings.
+3. For timeframe, parse the timeFrame text: extract the number and unit, convert to weeks (4.33 weeks/month, 52 weeks/year, 7 days/week).
+4. For dose/schedule, analyze arm descriptions for explicit dose counts and booster indicators, then use outcome titles to identify each measurement's position in the schedule.
+5. Process each field independently using available metadata. Prefer structured fields over narrative text interpretation.
+
+USER:
+# Trial: NCT03896477 - A Phase 3, Randomized, Observer-Blind Study to Evaluate the Safety, Tolerability, Immunogenicity of Serum Institute of India's 10-Valent Pneumococcal Conjugate Vaccine (PNEUMOSIL®) Administered in a 2+1 Schedule to Healthy Infants in The Gambia
+Sponsor: PATH
+Phase: Phase 3
+Population: CHILD
+
+## Arms and Interventions
+
+ARM: Pneumosil (EXPERIMENTAL)
+  Description: Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Interventions: Pneumosil
+
+ARM: Synflorix (ACTIVE_COMPARATOR)
+  Description: Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Interventions: Synflorix
+
+ARM: Prevenar 13 (ACTIVE_COMPARATOR)
+  Description: Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Interventions: Prevenar 13
+
+## Immunogenicity Outcome Measures
+
+### Outcome 0: "Geometric Mean Concentration (GMC) of Serotype-specific Immunoglobulin G (IgG) Antibodies Four Weeks Post-Booster"
+Description: The IgG antibody concentration to each of the 10 serotypes contained in Pneumosil was measured by enzyme-linked immunosorbent assay (ELISA) in serum samples collected 4 weeks after the booster dose (Visit 6).
+
+The pneumococcal serotype-specific IgG ELISAs were performed using the World Health Organi
+Timeframe: 4 weeks post booster dose
+ParamType: GEOMETRIC_MEAN | Unit: μg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 1: "Geometric Mean Titers (GMT) of Serotype-specific Opsonophagocytic Activity (OPA) Four Weeks Post-Booster"
+Description: The functional activity of the antibody response to the 10 serotypes contained in Pneumosil was determined in serum samples collected 4 weeks after the booster dose in a subset of 50 participants per group. This activity was determined using the 4-fold multiplexed opsonophagocytic assay (MOPA) devel
+Timeframe: 4 weeks post booster dose
+ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 2: "Percentage of Participants With Serotype-specific Serum IgG Antibody Concentrations ≥ 0.35 μg/mL Four Weeks Post-Booster"
+Description: The seroresponse rate was defined as the percentage of infants with serotype-specific IgG antibody concentrations of at least 0.35 μg/mL, which is the reference concentration for assessment of vaccine efficacy against invasive pneumococcal diseases (IPDs).
+
+The IgG concentration to each of the 10 se
+Timeframe: 4 weeks post booster dose
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 3: "Percentage of Participants With Serotype-specific Serum IgG Antibody Concentrations ≥ 1.0 μg/mL Four Weeks Post-Booster"
+Description: Seroresponse rate was also defined as the percentage of infants with serotype-specific IgG antibody concentrations of at least 1.0 μg/mL.
+
+The IgG concentration to each of the 10 serotypes contained in Pneumosil was measured by ELISA in serum samples collected 4 weeks after the booster dose.
+Timeframe: 4 weeks post booster dose
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 4: "Percentage of Participants With Serotype-specific Serum OPA Titers ≥ 8 Four Weeks Post-Booster"
+Description: The OPA seroresponse rate was defined as the percentage of infants with an OPA titer of at least 8.
+
+Opsonophagocytic activity was measured using the 4-fold multiplexed opsonophagocytic assay (MOPA) from serum samples taken 4 weeks after the booster vaccination.
+Timeframe: 4 weeks post booster dose
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 5: "Percentage of Participants With Serotype-specific Serum IgG Antibody Concentrations ≥ 0.35 μg/mL Four Weeks After Completion of Primary Vaccinations"
+Description: The seroresponse rate was defined as the percentage of infants with serotype-specific IgG antibody concentrations of at least 0.35 μg/mL, which is the reference concentration for assessment of vaccine efficacy against invasive pneumococcal diseases (IPDs).
+
+The IgG concentration to each of the 10 se
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks)
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 6: "Geometric Mean Concentration of Serotype-specific IgG Antibodies Four Weeks After Completion of Primary Vaccinations"
+Description: The IgG antibody concentration to each of the 10 serotypes contained in Pneumosil was measured by ELISA in serum samples collected 4 weeks after the second primary vaccination dose.
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks)
+ParamType: GEOMETRIC_MEAN | Unit: μg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 7: "Percentage of Participants With Serotype-specific Serum OPA Titers ≥ 8 Four Weeks After Completion of Primary Vaccinations"
+Description: The OPA seroresponse rate was defined as the percentage of infants with an OPA titer of at least 8.
+
+Opsonophagocytic activity was measured using the 4-fold multiplexed opsonophagocytic assay (MOPA).
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks)
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 8: "Geometric Mean Titers of Serotype-specific Serum OPA Four Weeks After Primary Vaccinations"
+Description: Opsonophagocytic activity was measured using the 4-fold multiplexed opsonophagocytic assay (MOPA).
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks)
+ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 9: "Percentage of Participants With Serotype-specific Serum IgG Concentrations ≥ 0.35 μg/mL Prior to Booster"
+Description: The seroresponse rate was defined as the percentage of infants with serotype-specific IgG concentrations of at least 0.35 μg/mL, which is the reference concentration for assessment of vaccine efficacy against invasive pneumococcal diseases (IPDs).
+
+The IgG concentration to each of the 10 serotypes c
+Timeframe: Prior to the booster dose at approximately 9 to 16 months of age
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 10: "Geometric Mean Concentration of Serotype-specific Serum IgG Antibodies Prior to Booster"
+Description: The IgG antibody concentration to each of the 10 serotypes contained in Pneumosil was measured by ELISA in serum samples collected immediately prior to the booster vaccination dose.
+Timeframe: Prior to the booster dose at approximately 9 to 16 months of age
+ParamType: GEOMETRIC_MEAN | Unit: μg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 11: "Percentage of Participants With Serotype-specific Serum OPA Titers ≥ 8 Prior to Booster"
+Description: The OPA seroresponse rate was defined as the percentage of infants with an OPA titer of at least 8.
+
+Opsonophagocytic activity was measured using the 4-fold multiplexed opsonophagocytic assay (MOPA) from serum samples collected immediately prior to the booster vaccination dose.
+Timeframe: Prior to the booster dose at approximately 9 to 16 months of age
+ParamType: NUMBER | Unit: percentage of participants | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 12: "Geometric Mean Titer of Serotype-specific Serum OPA Prior to Booster"
+Description: Opsonophagocytic activity was measured using the 4-fold multiplexed opsonophagocytic assay (MOPA) from serum samples collected immediately prior to the booster vaccination dose.
+Timeframe: Prior to the booster dose at approximately 9 to 16 months of age
+ParamType: GEOMETRIC_MEAN | Unit: titer | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 13: "Ratio of Serotype-specific Serum IgG GMC 4 Weeks Post-Booster to Serotype-specific IgG GMC 4 Weeks After Completion of Primary Vaccinations"
+Description: Booster response was measured by the ratio of IgG GMCs measured at the post-booster visit to those measured 4 weeks after completion of primary vaccinations.
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks) and 4 weeks post booster
+ParamType: GEOMETRIC_MEAN | Unit: ratio | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+### Outcome 14: "Ratio of Serotype-specific Serum OPA GMT 4 Weeks Post-Booster to Serotype-specific OPA GMT 4 Weeks After Completion of Primary Vaccinations"
+Description: OPA booster response was measured by the ratio of OPA GMTs measured at the post-booster visit to those measured 4 weeks after completion of primary vaccinations.
+Timeframe: 4 weeks after completion of primary vaccinations (at age 18 weeks) and 4 weeks post booster
+ParamType: GEOMETRIC_MEAN | Unit: ratio | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "Pneumosil" - Infants received two primary vaccinations with Pneumosil, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG001: "Synflorix" - Infants received two primary vaccinations with Synflorix, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  OG002: "Prevenar 13" - Infants received two primary vaccinations with Prevenar 13, the first at age 6 weeks and the second at age 14 weeks. A booster vaccination was given between 9 and 16 months of age.
+  Serotypes (10): "Serotype 1", "Serotype 5", "Serotype 6A", "Serotype 6B", "Serotype 7F", ... +5 more
+
+## Vaccine Reference (use these standardized names)
+  - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
+  - PCV10 (Synflorix) (manufacturer: GSK)
+  - PCV13 (manufacturer: Pfizer)
+  - PCV13 (Pfizer) (manufacturer: Pfizer)
+  - PCV15 (manufacturer: MSD)
+  - PCV20 (manufacturer: Pfizer)
+  - PCV21(Merck V116) (manufacturer: MSD)
+  - PCV24 (Vaxcyte VAX-24) (manufacturer: Vaxcyte)
+  - PCV25 (Inventprise) (manufacturer: Inventprise)
+  - PCV31 (Vaxcyte VAX-31) (manufacturer: Vaxcyte)
+  - PCV7 (manufacturer: Pfizer)
+  - PPV23 (manufacturer: MSD)
+
+## Task
+Analyze each outcome measure and its groups. Return ONLY a JSON object (no markdown fences, no commentary) with this structure:
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "OPA" or "GMC",
+      "time_frame_weeks": <integer or null>,
+      "groups": {
+        "<group_id>": {
+          "vaccine": "<standardized vaccine name>",
+          "manufacturer": "<company short name>",
+          "dose_number": <integer>,
+          "schedule": "<schedule string>",
+          "dose_description": "<description string>"
+        }
+      }
+    }
+  ]
+}
+
+Classification rules:
+
+ASSAY:
+- "OPA" for opsonophagocytic activity / geometric mean titer (GMT) measures.
+- "GMC" for IgG geometric mean concentration measures.
+- Key indicators: unit "1/dil" or "titer" → OPA. Unit "mcg/mL" or "ug/mL" → GMC.
+- "Unknown" only if truly unclear.
+
+TIME_FRAME_WEEKS:
+- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- "1 month after vaccination" = 4. "6 months after dose 3" = 26.
+- This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
+- null only if truly not determinable from the timeframe text.
+
+DOSE_NUMBER:
+- The total number of vaccine doses the participant has received AT THE TIME of this measurement.
+- "after dose 3" = 3. "after booster" in a 3+1 trial = 4. "pre-booster" in a 3+1 trial = 3. "after dose 1" = 1.
+
+SCHEDULE:
+- Use "{primary}+1 {age}" when the trial includes a booster/toddler dose (e.g., "3+1 child", "2+1 child"). A trial has a booster if ANY outcome mentions "booster", "toddler dose", or if there is a large timing gap between the last dose and prior doses (e.g., doses at 2,4,6 months then 12-15 months).
+- Use "{n} dose {age}" ONLY when there is NO booster in the trial (e.g., "1 dose adult", "2 dose adult", "3 dose child").
+- IMPORTANT: The schedule describes the ENTIRE regimen for that arm, not just this measurement. A "3+1 child" arm stays "3+1 child" for ALL its outcomes (post-dose-3, pre-booster, post-booster).
+- Use "child" for CHILD populations, "adult" for ADULT/OLDER_ADULT.
+
+DOSE_DESCRIPTION:
+- Format: "{time}m post dose {n} {age}" when time_frame_weeks ≈ 4 (use "1m"), otherwise "{weeks}w post dose {n} {age}".
+- For post-booster: "1m post boost {age}" (if ~4 weeks) or "{weeks}w post boost {age}".
+- For pre-booster: "pre boost {age}".
+- ALWAYS use "1m" (not "4w") when the timeframe is approximately 1 month (4-5 weeks). Use "{weeks}w" for all other durations.
+- Examples: "1m post dose 3 child", "26w post dose 1 adult", "1m post boost child", "pre boost child".
+
+VACCINE:
+- Use EXACTLY the standardized name from the reference list when it matches.
+- Do NOT append the manufacturer in parentheses if the reference name already exists without it (e.g., use "PCV13" not "PCV13 (Pfizer)" when "PCV13" is in the reference list).
+- For sequential regimens (e.g., PCV13 then PPV23): each group receives ONE vaccine at a time. Assign the vaccine that group received, not a combo.
+- For new/unknown vaccines: use "PCV{valency} ({brand/company})".
+
+MANUFACTURER:
+- Use these EXACT short names (matching the vaccine reference list):
+  Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
+- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
+- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.

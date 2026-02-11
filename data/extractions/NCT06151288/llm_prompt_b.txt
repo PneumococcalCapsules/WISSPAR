@@ -1,0 +1,169 @@
+SYSTEM:
+You are a systematic data extraction specialist processing structured clinical trial API data. You classify immunogenicity measurements using a strict evidence hierarchy.
+
+Your analytical approach:
+1. For assay classification, prioritize: (a) explicit keywords in the outcome title (OPA, IgG, GMT, GMC, opsonophagocytic, immunoglobulin), (b) unitOfMeasure metadata (titer → OPA, mcg/mL → GMC), (c) paramType.
+2. For vaccine identification, trace: group title → arm label → intervention name, using the armsInterventionsModule mappings.
+3. For timeframe, parse the timeFrame text: extract the number and unit, convert to weeks (4.33 weeks/month, 52 weeks/year, 7 days/week).
+4. For dose/schedule, analyze arm descriptions for explicit dose counts and booster indicators, then use outcome titles to identify each measurement's position in the schedule.
+5. Process each field independently using available metadata. Prefer structured fields over narrative text interpretation.
+
+USER:
+# Trial: NCT06151288 - A Phase 1/2, Randomized, Observer-Blind, Dose-Finding, Active-Controlled, Parallel-Group, Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of a 31-Valent Pneumococcal Conjugate Vaccine (VAX-31) in Healthy Adults Aged 50 Years and Older
+Sponsor: Vaxcyte, Inc.
+Phase: Phase 1/Phase 2
+Population: ADULT, OLDER_ADULT
+
+## Arms and Interventions
+
+ARM: Group 1 (EXPERIMENTAL)
+  Description: Participants received a single low dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+1.1 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 1.65 mcg.
+  Interventions: 31 valent pneumococcal conjugate vaccine
+
+ARM: Group 2 (EXPERIMENTAL)
+  Description: Participants received a single mid dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+2.2 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 3.3 mcg.
+  Interventions: 31 valent pneumococcal conjugate vaccine
+
+ARM: Group 3 (EXPERIMENTAL)
+  Description: Participants received a single high dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+3.3 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 4.4 mcg.
+  Interventions: 31 valent pneumococcal conjugate vaccine
+
+ARM: Group 4 (ACTIVE_COMPARATOR)
+  Description: Participants received a single intramuscular injection of the standard dose of PCV20 at Day 1.
+  Interventions: 20 valent pneumococcal conjugate vaccine
+
+## Immunogenicity Outcome Measures
+
+### Outcome 0: "31 VAX-31 Pneumococcal Serotype-specific OPA Geometric Mean Titer"
+Description: Antibody geometric mean titers as measured by OPA for the 31 pneumococcal serotypes in VAX-31.
+Timeframe: 1 month after vaccination
+ParamType: GEOMETRIC_MEAN | Unit: mcg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "VAX-31 Low Dose" - Participants received a single low dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+1.1 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 1.65 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose ...
+  OG001: "VAX-31 Mid Dose" - Participants received a single mid dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+2.2 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 3.3 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose o...
+  OG002: "VAX-31 High Dose" - Participants received a single high dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+3.3 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 4.4 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose ...
+  OG003: "PCV20" - Participants received a single intramuscular injection of the standard dose of PCV20 at Day 1.
+
+20 valent pneumococcal conjugate vaccine: 0.5 ml dose of PCV20 will be administered into the deltoid muscle at Day 1
+  Serotypes (31): "1", "2", "3", "4", "5", ... +26 more
+
+### Outcome 1: "31 VAX-31 Pneumococcal Serotype-specific IgG Geometric Mean Concentration"
+Description: Antibody geometric mean concentrations as measured by IgG for the 31 pneumococcal serotypes in VAX-31.
+Timeframe: 1 month after vaccination
+ParamType: GEOMETRIC_MEAN | Unit: mcg/mL | Dispersion: 95% Confidence Interval
+Groups:
+  OG000: "VAX-31 Low Dose" - Participants received a single low dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+1.1 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 1.65 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose ...
+  OG001: "VAX-31 Mid Dose" - Participants received a single mid dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+2.2 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 3.3 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose o...
+  OG002: "VAX-31 High Dose" - Participants received a single high dose of VAX-31 administered as an intramuscular injection at Day 1.
+
+3.3 mcg for all serotypes with the exception of serotypes 1, 5, and 22F which is 4.4 mcg.
+
+31 valent pneumococcal conjugate vaccine: 0.5 ml dose ...
+  OG003: "PCV20" - Participants received a single intramuscular injection of the standard dose of PCV20 at Day 1.
+
+20 valent pneumococcal conjugate vaccine: 0.5 ml dose of PCV20 will be administered into the deltoid muscle at Day 1
+  Serotypes (31): "1", "2", "3", "4", "5", ... +26 more
+
+## Vaccine Reference (use these standardized names)
+  - PCV10 (Pneumosil) (manufacturer: Serum Institute of India)
+  - PCV10 (Synflorix) (manufacturer: GSK)
+  - PCV13 (manufacturer: Pfizer)
+  - PCV13 (Pfizer) (manufacturer: Pfizer)
+  - PCV15 (manufacturer: MSD)
+  - PCV20 (manufacturer: Pfizer)
+  - PCV21(Merck V116) (manufacturer: MSD)
+  - PCV24 (Vaxcyte VAX-24) (manufacturer: Vaxcyte)
+  - PCV25 (Inventprise) (manufacturer: Inventprise)
+  - PCV31 (Vaxcyte VAX-31) (manufacturer: Vaxcyte)
+  - PCV7 (manufacturer: Pfizer)
+  - PPV23 (manufacturer: MSD)
+
+## Task
+Analyze each outcome measure and its groups. Return ONLY a JSON object (no markdown fences, no commentary) with this structure:
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "OPA" or "GMC",
+      "time_frame_weeks": <integer or null>,
+      "groups": {
+        "<group_id>": {
+          "vaccine": "<standardized vaccine name>",
+          "manufacturer": "<company short name>",
+          "dose_number": <integer>,
+          "schedule": "<schedule string>",
+          "dose_description": "<description string>"
+        }
+      }
+    }
+  ]
+}
+
+Classification rules:
+
+ASSAY:
+- "OPA" for opsonophagocytic activity / geometric mean titer (GMT) measures.
+- "GMC" for IgG geometric mean concentration measures.
+- Key indicators: unit "1/dil" or "titer" → OPA. Unit "mcg/mL" or "ug/mL" → GMC.
+- "Unknown" only if truly unclear.
+
+TIME_FRAME_WEEKS:
+- Integer weeks from vaccination to measurement. Use 4.33 weeks/month, 52 weeks/year. Round to nearest integer.
+- "1 month after vaccination" = 4. "6 months after dose 3" = 26.
+- This is the TIME FROM THE MOST RECENT DOSE to the measurement, NOT from study start. E.g., "1 month after dose 4" = 4 weeks (time since dose 4).
+- null only if truly not determinable from the timeframe text.
+
+DOSE_NUMBER:
+- The total number of vaccine doses the participant has received AT THE TIME of this measurement.
+- "after dose 3" = 3. "after booster" in a 3+1 trial = 4. "pre-booster" in a 3+1 trial = 3. "after dose 1" = 1.
+
+SCHEDULE:
+- Use "{primary}+1 {age}" when the trial includes a booster/toddler dose (e.g., "3+1 child", "2+1 child"). A trial has a booster if ANY outcome mentions "booster", "toddler dose", or if there is a large timing gap between the last dose and prior doses (e.g., doses at 2,4,6 months then 12-15 months).
+- Use "{n} dose {age}" ONLY when there is NO booster in the trial (e.g., "1 dose adult", "2 dose adult", "3 dose child").
+- IMPORTANT: The schedule describes the ENTIRE regimen for that arm, not just this measurement. A "3+1 child" arm stays "3+1 child" for ALL its outcomes (post-dose-3, pre-booster, post-booster).
+- Use "child" for CHILD populations, "adult" for ADULT/OLDER_ADULT.
+
+DOSE_DESCRIPTION:
+- Format: "{time}m post dose {n} {age}" when time_frame_weeks ≈ 4 (use "1m"), otherwise "{weeks}w post dose {n} {age}".
+- For post-booster: "1m post boost {age}" (if ~4 weeks) or "{weeks}w post boost {age}".
+- For pre-booster: "pre boost {age}".
+- ALWAYS use "1m" (not "4w") when the timeframe is approximately 1 month (4-5 weeks). Use "{weeks}w" for all other durations.
+- Examples: "1m post dose 3 child", "26w post dose 1 adult", "1m post boost child", "pre boost child".
+
+VACCINE:
+- Use EXACTLY the standardized name from the reference list when it matches.
+- Do NOT append the manufacturer in parentheses if the reference name already exists without it (e.g., use "PCV13" not "PCV13 (Pfizer)" when "PCV13" is in the reference list).
+- For sequential regimens (e.g., PCV13 then PPV23): each group receives ONE vaccine at a time. Assign the vaccine that group received, not a combo.
+- For new/unknown vaccines: use "PCV{valency} ({brand/company})".
+
+MANUFACTURER:
+- Use these EXACT short names (matching the vaccine reference list):
+  Pfizer, GSK, MSD, Vaxcyte, Inventprise, Serum Institute of India, Walvax.
+- NEVER use long forms like "GlaxoSmithKline", "Merck Sharp & Dohme", "Merck Sharp & Dohme LLC", "Merck & Co", etc.
+- GSK = GlaxoSmithKline. MSD = Merck Sharp & Dohme / Merck & Co.

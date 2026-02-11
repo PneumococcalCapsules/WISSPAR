@@ -1,241 +1,241 @@
 row_index,field,agent_a_value,agent_b_value,chosen_value,notes,serotype,group_id,context_value,outcome_title
-0,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG000,50.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-1,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG001,115.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-2,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG002,82.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-3,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG000,31.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-4,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG001,54.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-5,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG002,39.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-6,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG000,149.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-7,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG001,334.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-8,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG002,193.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-9,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG000,62.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-10,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG001,87.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-11,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG002,83.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-12,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG000,748.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-13,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG001,1080.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-14,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG002,1085.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-15,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG000,727.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-16,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG001,1159.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-17,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG002,1033.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-18,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG000,378.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-19,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG001,555.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-20,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG002,345.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-21,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG000,550.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-22,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG001,1085.0,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-23,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG002,723.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-24,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG000,391.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-25,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG001,664.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-26,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG002,580.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-27,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG000,551.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-28,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG001,845.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-29,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG002,621.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-30,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG000,238.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-31,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG001,365.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-32,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG002,340.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-33,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG000,159.0,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-34,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG001,242.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-35,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG002,217.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-36,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG000,151.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-37,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG001,450.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-38,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG002,292.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-39,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG000,211.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-40,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG001,602.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-41,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG002,293.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-42,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG000,1012.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-43,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG001,2005.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-44,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG002,1580.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-45,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG000,1473.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-46,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG001,1908.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-47,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG002,1566.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-48,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG000,1054.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-49,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG001,1763.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-50,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG002,1401.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-51,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG000,647.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-52,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG001,1479.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-53,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG002,1066.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-54,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG000,1772.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-55,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG001,4156.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-56,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG002,2717.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-57,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG000,2026.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-58,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG001,3174.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-59,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG002,2182.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
-60,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG000,2.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-61,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG001,3.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-62,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG002,2.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-63,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG000,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-64,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG001,3.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-65,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-66,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG000,4.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-67,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG001,5.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-68,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG002,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-69,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG000,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-70,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG001,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-71,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG002,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-72,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG000,12.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-73,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG001,8.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-74,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG002,6.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-75,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG000,6.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-76,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG001,6.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-77,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG002,4.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-78,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG000,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-79,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG001,2.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-80,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG002,1.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-81,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG000,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-82,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG001,3.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-83,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG002,2.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-84,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG000,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-85,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG001,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-86,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG002,1.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-87,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG000,3.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-88,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG001,3.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-89,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG002,2.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-90,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG000,2.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-91,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG001,2.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-92,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-93,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG000,2.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-94,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG001,2.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-95,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-96,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG000,6.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-97,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG001,9.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-98,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG002,4.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-99,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG000,3.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-100,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG001,22.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-101,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG002,2.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-102,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG000,4.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-103,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG001,14.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-104,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG002,4.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-105,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG000,2.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-106,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG001,6.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-107,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG002,3.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-108,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG000,7.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-109,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG001,31.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-110,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG002,3.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-111,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG000,4.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-112,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG001,18.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-113,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG002,4.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-114,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG000,11.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-115,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG001,66.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-116,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG002,9.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-117,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG000,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-118,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG001,5.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-119,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG002,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
-120,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG000,22.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-121,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG001,40.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-122,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG002,20.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-123,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG000,29.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-124,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG001,41.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-125,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG002,18.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-126,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG000,41.1,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-127,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG001,41.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-128,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG002,25.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-129,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG000,25.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-130,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG001,27.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-131,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG002,15.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-132,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG000,61.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-133,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG001,56.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-134,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG002,44.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-135,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG000,53.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-136,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG001,55.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-137,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG002,35.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-138,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG000,26.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-139,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG001,30.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-140,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG002,14.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-141,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG000,28.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-142,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG001,36.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-143,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG002,20.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-144,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG000,15.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-145,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG001,24.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-146,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG002,16.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-147,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG000,29.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-148,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG001,38.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-149,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG002,17.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-150,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG000,29.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-151,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG001,29.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-152,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG002,15.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-153,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG000,29.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-154,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG001,32.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-155,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG002,16.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-156,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG000,49.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-157,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG001,58.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-158,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG002,42.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-159,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG000,39.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-160,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG001,72.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-161,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG002,30.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-162,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG000,45.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-163,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG001,70.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-164,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG002,44.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-165,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG000,30.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-166,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG001,54.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-167,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG002,35.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-168,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG000,51.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-169,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG001,76.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-170,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG002,40.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-171,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG000,37.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-172,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG001,66.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-173,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG002,38.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-174,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG000,57.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-175,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG001,83.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-176,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG002,54.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-177,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG000,18.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-178,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG001,53.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-179,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG002,19.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
-180,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG000,65.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-181,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG001,87.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-182,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 1,OG002,77.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-183,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG000,76.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-184,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG001,90.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-185,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 3,OG002,87.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-186,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG000,76.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-187,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG001,91.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-188,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 4,OG002,87.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-189,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG000,64.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-190,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG001,74.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-191,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 5,OG002,72.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-192,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG000,84.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-193,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-194,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6A,OG002,90.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-195,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG000,86.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-196,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-197,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 6B,OG002,91.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-198,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG000,74.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-199,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG001,84.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-200,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 7F,OG002,79.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-201,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG000,76.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-202,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG001,89.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-203,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 9V,OG002,85.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-204,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG000,85.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-205,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG001,95.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-206,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 14,OG002,93.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-207,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG000,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-208,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG001,96.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-209,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 18C,OG002,95.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-210,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG000,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-211,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG001,95.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-212,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19A,OG002,98.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-213,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG000,71.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-214,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG001,84.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-215,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 19F,OG002,84.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-216,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG000,76.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-217,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-218,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 23F,OG002,87.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-219,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG000,85.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-220,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG001,94.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-221,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 8,OG002,90.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-222,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG000,92.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-223,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG001,95.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-224,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 10A,OG002,96.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-225,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG000,91.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-226,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG001,94.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-227,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 11A,OG002,89.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-228,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG000,87.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-229,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG001,93.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-230,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 12F,OG002,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-231,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG000,84.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-232,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG001,91.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-233,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 15B,OG002,90.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-234,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG000,94.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-235,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG001,99.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-236,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 22F,OG002,98.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-237,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG000,88.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-238,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG001,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
-239,outcome_overview_vaccine,PCV13,PCV20,,,Serotype 33F,OG002,87.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+0,outcome_overview_vaccine,PCV13,PCV20,,,1,OG000,50.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+1,outcome_overview_vaccine,PCV13,PCV20,,,1,OG001,115.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+2,outcome_overview_vaccine,PCV13,PCV20,,,1,OG002,82.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+3,outcome_overview_vaccine,PCV13,PCV20,,,3,OG000,31.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+4,outcome_overview_vaccine,PCV13,PCV20,,,3,OG001,54.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+5,outcome_overview_vaccine,PCV13,PCV20,,,3,OG002,39.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+6,outcome_overview_vaccine,PCV13,PCV20,,,4,OG000,149.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+7,outcome_overview_vaccine,PCV13,PCV20,,,4,OG001,334.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+8,outcome_overview_vaccine,PCV13,PCV20,,,4,OG002,193.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+9,outcome_overview_vaccine,PCV13,PCV20,,,5,OG000,62.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+10,outcome_overview_vaccine,PCV13,PCV20,,,5,OG001,87.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+11,outcome_overview_vaccine,PCV13,PCV20,,,5,OG002,83.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+12,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG000,748.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+13,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG001,1080.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+14,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG002,1085.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+15,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG000,727.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+16,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG001,1159.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+17,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG002,1033.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+18,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG000,378.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+19,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG001,555.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+20,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG002,345.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+21,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG000,550.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+22,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG001,1085.0,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+23,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG002,723.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+24,outcome_overview_vaccine,PCV13,PCV20,,,14,OG000,391.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+25,outcome_overview_vaccine,PCV13,PCV20,,,14,OG001,664.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+26,outcome_overview_vaccine,PCV13,PCV20,,,14,OG002,580.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+27,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG000,551.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+28,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG001,845.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+29,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG002,621.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+30,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG000,238.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+31,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG001,365.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+32,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG002,340.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+33,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG000,159.0,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+34,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG001,242.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+35,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG002,217.7,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+36,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG000,151.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+37,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG001,450.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+38,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG002,292.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+39,outcome_overview_vaccine,PCV13,PCV20,,,8,OG000,211.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+40,outcome_overview_vaccine,PCV13,PCV20,,,8,OG001,602.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+41,outcome_overview_vaccine,PCV13,PCV20,,,8,OG002,293.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+42,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG000,1012.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+43,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG001,2005.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+44,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG002,1580.3,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+45,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG000,1473.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+46,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG001,1908.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+47,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG002,1566.6,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+48,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG000,1054.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+49,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG001,1763.4,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+50,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG002,1401.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+51,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG000,647.1,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+52,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG001,1479.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+53,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG002,1066.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+54,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG000,1772.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+55,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG001,4156.5,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+56,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG002,2717.8,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+57,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG000,2026.2,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+58,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG001,3174.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+59,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG002,2182.9,Pneumococcal Opsonophagocytic Activity (OPA) Geometric Mean Titers (GMTs) at 1 Month After Vaccination
+60,outcome_overview_vaccine,PCV13,PCV20,,,1,OG000,2.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+61,outcome_overview_vaccine,PCV13,PCV20,,,1,OG001,3.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+62,outcome_overview_vaccine,PCV13,PCV20,,,1,OG002,2.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+63,outcome_overview_vaccine,PCV13,PCV20,,,3,OG000,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+64,outcome_overview_vaccine,PCV13,PCV20,,,3,OG001,3.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+65,outcome_overview_vaccine,PCV13,PCV20,,,3,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+66,outcome_overview_vaccine,PCV13,PCV20,,,4,OG000,4.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+67,outcome_overview_vaccine,PCV13,PCV20,,,4,OG001,5.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+68,outcome_overview_vaccine,PCV13,PCV20,,,4,OG002,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+69,outcome_overview_vaccine,PCV13,PCV20,,,5,OG000,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+70,outcome_overview_vaccine,PCV13,PCV20,,,5,OG001,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+71,outcome_overview_vaccine,PCV13,PCV20,,,5,OG002,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+72,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG000,12.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+73,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG001,8.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+74,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG002,6.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+75,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG000,6.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+76,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG001,6.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+77,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG002,4.0,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+78,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG000,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+79,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG001,2.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+80,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG002,1.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+81,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG000,2.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+82,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG001,3.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+83,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG002,2.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+84,outcome_overview_vaccine,PCV13,PCV20,,,14,OG000,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+85,outcome_overview_vaccine,PCV13,PCV20,,,14,OG001,2.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+86,outcome_overview_vaccine,PCV13,PCV20,,,14,OG002,1.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+87,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG000,3.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+88,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG001,3.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+89,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG002,2.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+90,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG000,2.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+91,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG001,2.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+92,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+93,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG000,2.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+94,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG001,2.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+95,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG002,1.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+96,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG000,6.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+97,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG001,9.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+98,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG002,4.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+99,outcome_overview_vaccine,PCV13,PCV20,,,8,OG000,3.6,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+100,outcome_overview_vaccine,PCV13,PCV20,,,8,OG001,22.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+101,outcome_overview_vaccine,PCV13,PCV20,,,8,OG002,2.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+102,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG000,4.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+103,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG001,14.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+104,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG002,4.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+105,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG000,2.5,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+106,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG001,6.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+107,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG002,3.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+108,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG000,7.2,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+109,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG001,31.7,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+110,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG002,3.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+111,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG000,4.3,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+112,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG001,18.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+113,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG002,4.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+114,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG000,11.1,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+115,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG001,66.9,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+116,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG002,9.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+117,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG000,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+118,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG001,5.4,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+119,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG002,1.8,Pneumococcal OPA Geometric Mean Fold Rise (GMFR) From Before Vaccination to 1 Month After Vaccination
+120,outcome_overview_vaccine,PCV13,PCV20,,,1,OG000,22.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+121,outcome_overview_vaccine,PCV13,PCV20,,,1,OG001,40.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+122,outcome_overview_vaccine,PCV13,PCV20,,,1,OG002,20.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+123,outcome_overview_vaccine,PCV13,PCV20,,,3,OG000,29.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+124,outcome_overview_vaccine,PCV13,PCV20,,,3,OG001,41.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+125,outcome_overview_vaccine,PCV13,PCV20,,,3,OG002,18.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+126,outcome_overview_vaccine,PCV13,PCV20,,,4,OG000,41.1,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+127,outcome_overview_vaccine,PCV13,PCV20,,,4,OG001,41.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+128,outcome_overview_vaccine,PCV13,PCV20,,,4,OG002,25.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+129,outcome_overview_vaccine,PCV13,PCV20,,,5,OG000,25.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+130,outcome_overview_vaccine,PCV13,PCV20,,,5,OG001,27.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+131,outcome_overview_vaccine,PCV13,PCV20,,,5,OG002,15.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+132,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG000,61.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+133,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG001,56.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+134,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG002,44.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+135,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG000,53.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+136,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG001,55.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+137,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG002,35.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+138,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG000,26.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+139,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG001,30.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+140,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG002,14.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+141,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG000,28.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+142,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG001,36.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+143,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG002,20.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+144,outcome_overview_vaccine,PCV13,PCV20,,,14,OG000,15.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+145,outcome_overview_vaccine,PCV13,PCV20,,,14,OG001,24.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+146,outcome_overview_vaccine,PCV13,PCV20,,,14,OG002,16.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+147,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG000,29.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+148,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG001,38.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+149,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG002,17.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+150,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG000,29.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+151,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG001,29.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+152,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG002,15.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+153,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG000,29.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+154,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG001,32.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+155,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG002,16.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+156,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG000,49.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+157,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG001,58.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+158,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG002,42.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+159,outcome_overview_vaccine,PCV13,PCV20,,,8,OG000,39.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+160,outcome_overview_vaccine,PCV13,PCV20,,,8,OG001,72.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+161,outcome_overview_vaccine,PCV13,PCV20,,,8,OG002,30.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+162,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG000,45.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+163,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG001,70.9,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+164,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG002,44.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+165,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG000,30.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+166,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG001,54.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+167,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG002,35.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+168,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG000,51.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+169,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG001,76.5,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+170,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG002,40.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+171,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG000,37.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+172,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG001,66.3,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+173,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG002,38.4,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+174,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG000,57.0,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+175,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG001,83.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+176,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG002,54.8,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+177,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG000,18.7,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+178,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG001,53.6,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+179,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG002,19.2,Percentage of Participants With >=4-Fold Rise in Pneumococcal OPA Titers From Before Vaccination to 1 Month After Vaccination
+180,outcome_overview_vaccine,PCV13,PCV20,,,1,OG000,65.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+181,outcome_overview_vaccine,PCV13,PCV20,,,1,OG001,87.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+182,outcome_overview_vaccine,PCV13,PCV20,,,1,OG002,77.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+183,outcome_overview_vaccine,PCV13,PCV20,,,3,OG000,76.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+184,outcome_overview_vaccine,PCV13,PCV20,,,3,OG001,90.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+185,outcome_overview_vaccine,PCV13,PCV20,,,3,OG002,87.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+186,outcome_overview_vaccine,PCV13,PCV20,,,4,OG000,76.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+187,outcome_overview_vaccine,PCV13,PCV20,,,4,OG001,91.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+188,outcome_overview_vaccine,PCV13,PCV20,,,4,OG002,87.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+189,outcome_overview_vaccine,PCV13,PCV20,,,5,OG000,64.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+190,outcome_overview_vaccine,PCV13,PCV20,,,5,OG001,74.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+191,outcome_overview_vaccine,PCV13,PCV20,,,5,OG002,72.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+192,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG000,84.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+193,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+194,outcome_overview_vaccine,PCV13,PCV20,,,6A,OG002,90.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+195,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG000,86.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+196,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+197,outcome_overview_vaccine,PCV13,PCV20,,,6B,OG002,91.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+198,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG000,74.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+199,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG001,84.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+200,outcome_overview_vaccine,PCV13,PCV20,,,7F,OG002,79.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+201,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG000,76.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+202,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG001,89.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+203,outcome_overview_vaccine,PCV13,PCV20,,,9V,OG002,85.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+204,outcome_overview_vaccine,PCV13,PCV20,,,14,OG000,85.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+205,outcome_overview_vaccine,PCV13,PCV20,,,14,OG001,95.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+206,outcome_overview_vaccine,PCV13,PCV20,,,14,OG002,93.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+207,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG000,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+208,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG001,96.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+209,outcome_overview_vaccine,PCV13,PCV20,,,18C,OG002,95.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+210,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG000,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+211,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG001,95.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+212,outcome_overview_vaccine,PCV13,PCV20,,,19A,OG002,98.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+213,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG000,71.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+214,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG001,84.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+215,outcome_overview_vaccine,PCV13,PCV20,,,19F,OG002,84.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+216,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG000,76.3,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+217,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG001,93.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+218,outcome_overview_vaccine,PCV13,PCV20,,,23F,OG002,87.5,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+219,outcome_overview_vaccine,PCV13,PCV20,,,8,OG000,85.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+220,outcome_overview_vaccine,PCV13,PCV20,,,8,OG001,94.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+221,outcome_overview_vaccine,PCV13,PCV20,,,8,OG002,90.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+222,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG000,92.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+223,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG001,95.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+224,outcome_overview_vaccine,PCV13,PCV20,,,10A,OG002,96.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+225,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG000,91.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+226,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG001,94.7,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+227,outcome_overview_vaccine,PCV13,PCV20,,,11A,OG002,89.2,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+228,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG000,87.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+229,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG001,93.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+230,outcome_overview_vaccine,PCV13,PCV20,,,12F,OG002,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+231,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG000,84.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+232,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG001,91.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+233,outcome_overview_vaccine,PCV13,PCV20,,,15B,OG002,90.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+234,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG000,94.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+235,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG001,99.0,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+236,outcome_overview_vaccine,PCV13,PCV20,,,22F,OG002,98.1,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+237,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG000,88.9,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+238,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG001,91.8,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination
+239,outcome_overview_vaccine,PCV13,PCV20,,,33F,OG002,87.4,Percentage of Participants With Pneumococcal OPA Titers >=Lower Limit of Quantitation (LLOQ) at 1 Month After Vaccination

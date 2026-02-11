@@ -1,0 +1,74 @@
+{
+  "outcomes": [
+    {
+      "outcome_index": 0,
+      "assay": "OPA",
+      "time_frame_weeks": 4,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG001": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG002": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG003": {
+          "vaccine": "PCV20",
+          "manufacturer": "Pfizer",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        }
+      }
+    },
+    {
+      "outcome_index": 1,
+      "assay": "GMC",
+      "time_frame_weeks": 4,
+      "groups": {
+        "OG000": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG001": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG002": {
+          "vaccine": "PCV24 (Vaxcyte VAX-24)",
+          "manufacturer": "Vaxcyte",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        },
+        "OG003": {
+          "vaccine": "PCV20",
+          "manufacturer": "Pfizer",
+          "dose_number": 1,
+          "schedule": "1 dose adult",
+          "dose_description": "1m post dose 1 adult"
+        }
+      }
+    }
+  ]
+}

@@ -13,7 +13,12 @@
       "Bash(where.exe:*)",
       "Bash(git remote get-url:*)",
       "Bash(cd:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(ls -la \"c:\\\\Users\\\\DMW63\\\\OneDrive - Yale University\\\\Desktop\\\\R_Projects\\\\wisspar\\\\data\\\\extractions\\\\NCT00307034\"\" 2>&1 || echo \"Directory does not exist or error occurred \")",
+      "Bash(python3:*)",
+      "Bash(cat:*)",
+      "Bash(pip show:*)",
+      "Bash(ls:*)"
     ]
   }
 }

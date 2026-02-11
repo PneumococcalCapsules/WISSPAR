@@ -6,7 +6,7 @@ This project works with vaccine immunogenicity data, particularly focusing on pn
 
 ## Current State
 
-The project is actively building and expanding a comprehensive immunogenicity dataset (wisspar_export.csv) by extracting clinical trial data from ClinicalTrials.gov. It recently added data from the Vaxcyte VAX-31 trial (NCT06151288), which tested a 31-valent pneumococcal conjugate vaccine against PCV20, expanding the dataset from over 5,000 to nearly 6,000 rows. The current dataset structure includes fields for treatment arms, serotypes, outcome measures, dosage information, geographic location, and timeframe data.
+The project is actively building and expanding a comprehensive immunogenicity dataset (wisspar_export.csv) by extracting clinical trial data from ClinicalTrials.gov. The current dataset structure includes fields for treatment arms, serotypes, outcome measures, dosage information, geographic location, and timeframe data.
 
 The current data extract is located at `data/wisspar_export_2026_02_05.csv`. The goal is to ingest and format additional trials from ClinicalTrials.gov into this dataset.
 
@@ -46,50 +46,67 @@ This project uses the ClinicalTrials.gov API v2 for data extraction. API-based e
 
 **Response structure:** The API returns JSON with `protocolSection` (study info, eligibility, design) and `resultsSection` (outcomes and results when available).
 
-This project works with structured CSV datasets and requires specific data formatting that includes treatment group information, serotype coverage, and dosage specifications.
-
 ## Key Learnings & Principles
 
 - The ClinicalTrials.gov API requires specific field parameters to efficiently access immunogenicity results data.
 - Outcome measures are structured as nested JSON with classes representing serotypes and categories containing measurements for each treatment group.
-- Group IDs follow predictable patterns, and immunogenicity data can be identified by searching for "OPA" or "IgG" indicators in outcome titles.
+- Group IDs follow predictable patterns, and immunogenicity data can be identified by searching for "OPA" or "IgG" indicators in outcome titles, or by checking `paramType` for "GEOMETRIC".
 - Maintaining consistent CSV formatting with predefined fieldnames ensures compatibility across dataset expansions.
 
-## Dual-Extraction Workflow (Primary)
+## LLM-Based Dual-Extraction Workflow (Primary)
 
-The primary extraction method uses two independent agents for verification. Use `scripts/dual_extract.py` for all new extractions and retroactive verification.
+The primary extraction method uses `scripts/llm_extract.py`, which combines deterministic Python extraction (metadata, raw measurements, serotype cleaning) with Claude LLM reasoning for interpretive fields (assay, dose_number, schedule, vaccine, manufacturer, timeframe). Two independent LLM agents with different analytical prompts provide verification.
 
 ### Architecture
 
 ```
-dual_extract.py (orchestrator)
+llm_extract.py (orchestrator)
   ├── Fetches JSON once → data/extractions/{nct_id}/raw.json
-  ├── Agent A (extractor_a.py) → keyword-first classification
-  ├── Agent B (extractor_b.py) → schema-aware classification
+  ├── Deterministic extraction: metadata, serotypes, raw values (Python)
+  ├── Agent A (Claude, holistic clinical reasoning) → interpretive fields
+  ├── Agent B (Claude, systematic metadata-first) → interpretive fields
   └── Reconciler (reconcile.py) → compares, auto-accepts agreements, flags disagreements
         ├── Agreements → auto-accepted
-        ├── Numeric disagreements → flagged as bugs
         ├── Categorical disagreements → review.csv for human adjudication
         └── Selection disagreements → review.csv for human adjudication
 ```
 
+### How It Works
+
+1. **Python handles deterministic fields**: study name, NCT ID, sponsor, phase, country, serotype (via `clean_serotype()`), raw measurement values, CI bounds, participant counts — all extracted directly from the API JSON with no ambiguity.
+2. **Claude handles interpretive fields**: assay classification (OPA vs GMC), vaccine name, manufacturer, dose_number, schedule, dose_description, time_frame_weeks — fields that require understanding trial context.
+3. **Two agents provide verification**: Agent A uses holistic clinical reasoning; Agent B uses systematic metadata-first evidence hierarchy. Both receive the same trial data but reason differently.
+4. **Reconciliation**: Same `reconcile.py` pipeline compares outputs row-by-row using `_source_address` matching. Agreements are auto-accepted; disagreements go to `review.csv`.
+
+### Requirements
+
+- Python packages: `anthropic`, `python-dotenv`
+- API key: Set `ANTHROPIC_API_KEY` in `.env` file at project root
+- Approximate cost: ~$0.03-0.06 per trial with Sonnet, ~$2-4 for all ~70 trials
+
 ### Usage
 
 ```bash
-# Extract a trial (dual mode):
-python scripts/dual_extract.py NCT06151288
+# Extract a single trial:
+python scripts/llm_extract.py NCT06151288
 
-# Multiple trials:
-python scripts/dual_extract.py NCT06151288 NCT03197376
+# Extract multiple trials:
+python scripts/llm_extract.py NCT06151288 NCT03197376
+
+# Extract all trials with cached raw.json:
+python scripts/llm_extract.py --all
+
+# Force re-extract (overwrite existing agent files):
+python scripts/llm_extract.py --force NCT06151288
 
 # Preview without writing:
-python scripts/dual_extract.py --dry-run NCT06151288
+python scripts/llm_extract.py --dry-run NCT06151288
 
-# Force re-extract even if already in dataset:
-python scripts/dual_extract.py --force NCT06151288
+# Compare LLM results against original CSV:
+python scripts/llm_extract.py --compare data/wisspar_export_2026_02_05.csv
 
-# Search and extract:
-python scripts/dual_extract.py --search "pneumococcal conjugate vaccine"
+# Use a different model:
+python scripts/llm_extract.py --model claude-haiku-4-5-20251001 NCT06151288
 ```
 
 ### Resolving Disagreements
@@ -114,19 +131,26 @@ python scripts/adjudicate.py --status NCT06151288
 python scripts/adjudicate.py --append NCT06151288
 ```
 
-### Retroactive Verification
+### Batch Review (All Trials)
 
-To re-verify existing data against both agents:
+For reviewing disagreements across all trials at once:
 
 ```bash
-# Verify all trials in the dataset:
-python scripts/verify_existing.py
+# Build consolidated review spreadsheet (groups identical patterns):
+python scripts/build_review.py
 
-# Verify specific trial:
-python scripts/verify_existing.py NCT06151288
+# Edit data/review_all.csv:
+#   - Fill 'chosen_value' column with 'A', 'B', or a custom value
+#   - Each row is a unique pattern — rows_affected shows how many data rows it covers
 
-# Generate a verification report CSV:
-python scripts/verify_existing.py --report data/verification_report.csv
+# Apply decisions from review_all.csv:
+python scripts/apply_review.py
+
+# Dry run (show what would be resolved):
+python scripts/apply_review.py --dry-run
+
+# Apply and export resolved rows to the main dataset:
+python scripts/apply_review.py --export data/wisspar_export_2026_02_05.csv
 ```
 
 ### Audit Trail
@@ -137,100 +161,39 @@ Each trial produces artifacts in `data/extractions/{nct_id}/`:
 - `agent_b.json` — Agent B extraction with `_source_address` metadata
 - `reconciliation.json` — full row-by-row comparison, disagreement classification, resolution history
 - `review.csv` — human review file (when disagreements exist)
+- `llm_prompt_a.txt` / `llm_prompt_b.txt` — prompts sent to Claude (for debugging)
+- `llm_response_a.json` / `llm_response_b.json` — raw Claude responses (for debugging)
 
 Reconciliation statuses: `FULLY_AGREED`, `PENDING_REVIEW`, `HUMAN_ADJUDICATED`
 
 ### How the Agents Differ
 
-Both agents share the same raw JSON and produce the same 29-field schema. They differ in interpretation:
+Both agents share the same raw JSON and produce the same 29-field schema. They differ in how they reason about interpretive fields:
 
-| Logic | Agent A (keyword-first) | Agent B (schema-aware) |
+| Logic | Agent A (holistic clinical) | Agent B (systematic metadata-first) |
 |---|---|---|
-| Assay classification | Keyword priority in title | Title keywords first, then unitOfMeasure/paramType |
-| Outcome selection | Title contains IMMUNO_KEYWORDS | Also checks paramType for "Geometric Mean" |
-| Vaccine mapping | Keyword match on group title/description | Maps via armsInterventionsModule, falls back to keywords |
-| Timeframe parsing | Pattern-matching heuristics | Structured regex with unit conversion table |
-| Schedule inference | Age-list heuristic | Parses designModule + armsInterventionsModule |
+| Approach | Understands overall trial design first, then classifies | Processes each field independently using structured evidence |
+| Assay | Reasons from trial context | Prioritizes title keywords, then unitOfMeasure/paramType |
+| Vaccine | Reasons about which arm/group corresponds to which product | Traces group → arm → intervention using armsInterventionsModule |
+| Schedule | Uses timing gaps between measurements to identify boosters | Analyzes arm descriptions for explicit dose counts and booster indicators |
+| Timeframe | Contextual interpretation | Structured regex extraction with unit conversion |
 
 ### Disagreement Types
 
-- **Numeric**: Direct-from-API fields differ → indicates a parsing bug (critical)
 - **Categorical**: Interpreted fields differ (assay, vaccine, schedule, etc.) → human review
 - **Selection**: One agent included a row the other excluded → human review
-- **Metadata**: Study-level fields differ → indicates extraction bug
+- **Numeric**: Direct-from-API fields differ → indicates a parsing bug (critical, should not happen)
 
-## Legacy Extraction Script
+### Scripts Overview
 
-The automated extraction script is at `scripts/extract_trial.py`. It handles fetching, parsing, validation, and appending in one step. **Prefer `dual_extract.py` for new extractions.**
-
-### Usage
-
-```bash
-# Extract a single trial:
-python scripts/extract_trial.py NCT06151288
-
-# Extract multiple trials:
-python scripts/extract_trial.py NCT06151288 NCT12345678 NCT99999999
-
-# Preview without writing (dry run):
-python scripts/extract_trial.py --dry-run NCT06151288
-
-# Search ClinicalTrials.gov for trials and extract all with immunogenicity results:
-python scripts/extract_trial.py --search "pneumococcal conjugate vaccine"
-
-# Force re-extraction of a trial already in the dataset:
-python scripts/extract_trial.py --force NCT06151288
-
-# Specify a different output CSV:
-python scripts/extract_trial.py --csv data/my_output.csv NCT06151288
-```
-
-### What the Script Does
-
-1. **Fetches JSON** from the ClinicalTrials.gov API v2 for each NCT ID.
-2. **Extracts metadata** from `protocolSection`: title, NCT ID, sponsor, phase, country, age eligibility.
-3. **Identifies immunogenicity outcomes** by checking titles for keywords: `OPA`, `IgG`, `GMT`, `GMC`, `GEOMETRIC`.
-4. **Maps groups** to vaccine names and manufacturers using `data/vaccine_lookup.csv`.
-5. **Maps countries** to ISO codes and continents using `data/country_lookup.csv`.
-6. **Extracts measurements** for each class (serotype) x group combination: `value`, `upperLimit`, `lowerLimit`.
-7. **Validates** extracted data: checks row counts, missing values, serotype completeness.
-8. **Checks for duplicates** — skips NCT IDs already in the CSV (override with `--force`).
-9. **Appends** new rows to the CSV.
-
-### Built-in Safeguards
-
-- **Duplicate detection**: Skips trials already in the dataset unless `--force` is used.
-- **Validation report**: Printed after each trial showing row counts, serotype counts, group counts, and any issues.
-- **Rate limiting**: 1-second delay between trials in batch mode.
-- **Dry run**: `--dry-run` flag previews rows without writing.
-
-### Post-Extraction Review (Required)
-
-After running `extract_trial.py`, always verify the output against the trial's metadata before considering the extraction complete:
-
-- **Check the extracted outcome tables** against the trial record to confirm the correct immunogenicity measures were selected (some trials have multiple OPA/IgG tables at different timepoints or for different subpopulations).
-- **Verify group-to-vaccine mapping** — confirm that each treatment arm was assigned the correct standardized vaccine name and manufacturer.
-- **Confirm dose number, schedule, and timeframe** — the script infers these from the data but may not always match the trial design (e.g., multi-dose regimens, booster-only timepoints).
-- **If there is any uncertainty** about which tables to include, how to interpret group descriptions, or how to classify an outcome measure, **ask the user for clarification before finalizing the data**.
-- The script is a starting point — its outputs should be treated as a draft that requires human review.
-
-### Lookup Tables
-
-- **`data/vaccine_lookup.csv`** — Maps keyword patterns to standardized vaccine names and manufacturers. Add new entries here when new vaccine products appear.
-- **`data/country_lookup.csv`** — Maps country names to ISO 2-letter codes and continents. Add entries for countries not yet covered.
-
-### Manual Extraction Process (when the script needs adjustment)
-
-For trials with unusual structure, the step-by-step manual process is:
-
-1. **Fetch JSON** — `curl` the API endpoint to a temp file (response is a single large line, too big to read directly; must parse with Python).
-2. **Extract metadata** — From `protocolSection`: title, NCT ID, sponsor, phase, country, age eligibility.
-3. **List all outcome measures** — Iterate `resultsSection.outcomeMeasuresModule.outcomeMeasures` and identify immunogenicity outcomes.
-4. **Map groups** — Each outcome measure contains `groups` with IDs like `OG000`, `OG001`, etc. Map each group to its vaccine name, manufacturer, and participant count (from `denoms`).
-5. **Extract measurements** — For each class (serotype) x group combination, extract: `value`, `upperLimit`, `lowerLimit`.
-6. **Format rows** — Map to CSV fieldnames using conventions below.
-7. **Check for duplicates** — Grep the CSV for the NCT ID before appending.
-8. **Append** — Write new rows to the CSV.
+| Script | Purpose |
+|---|---|
+| `scripts/llm_extract.py` | Primary extraction pipeline (LLM + deterministic) |
+| `scripts/extractor_base.py` | Shared utilities: `clean_serotype()`, `extract_metadata()`, `detect_class_timepoint()`, CSV constants, API fetch/cache |
+| `scripts/reconcile.py` | Compares agent outputs, generates review.csv for disagreements |
+| `scripts/adjudicate.py` | Resolves disagreements from review.csv (interactive or batch) |
+| `scripts/build_review.py` | Builds consolidated review spreadsheet across all trials |
+| `scripts/apply_review.py` | Applies review decisions and optionally exports to main CSV |
 
 ## CSV Field Mapping Conventions
 
@@ -240,36 +203,44 @@ For trials with unusual structure, the step-by-step manual process is:
 | `outcome_overview_id` | Group ID from API (e.g., OG000) |
 | `outcome_overview_description` | Outcome measure description from API |
 | `outcome_overview_assay` | `OPA` for OPA GMT outcomes, `GMC` for IgG GMC outcomes |
-| `outcome_overview_serotype` | Class title from the outcome measure |
+| `outcome_overview_serotype` | Cleaned class title (via `clean_serotype()`): strips Anti-/Opsono- prefixes, timing info, sample sizes, grouping prefixes |
 | `outcome_overview_value` | Measurement value |
 | `outcome_overview_upper_limit` | Upper 95% CI bound |
 | `outcome_overview_lower_limit` | Lower 95% CI bound |
 | `outcome_overview_participants` | From denoms counts for each group |
-| `outcome_overview_dose_number` | Number of doses (e.g., "1" for single-dose adult trials) |
+| `outcome_overview_dose_number` | Number of doses received at time of measurement |
 | `outcome_overview_schedule` | Pattern: "1 dose adult", "3+1 child", "2 dose adult", etc. |
-| `outcome_overview_dose_description` | Pattern: "1m post dose 1 adult", "12m post boost child", etc. |
-| `outcome_overview_time_frame_weeks` | Numeric weeks (e.g., "4" for 1 month) |
-| `outcome_overview_vaccine` | Standardized name (see naming conventions below) |
-| `outcome_overview_manufacturer` | Company name |
+| `outcome_overview_dose_description` | Pattern: "1m post dose 1 adult", "1m post boost child", etc. |
+| `outcome_overview_time_frame_weeks` | Numeric weeks from most recent dose to measurement (e.g., "4" for 1 month) |
+| `outcome_overview_vaccine` | Standardized name from `data/vaccine_lookup.csv` |
+| `outcome_overview_manufacturer` | Short company name: Pfizer, GSK, MSD, Vaxcyte, etc. |
 | `clinical_trial_phase` | "Phase 1", "Phase 2", "Phase 3", "Phase 1/Phase 2", etc. |
 | `location_country_code` | ISO 2-letter code (e.g., "US", "GM") |
 | `location_continent` | "North America", "Africa", "Europe", etc. |
 
 ## Vaccine Naming Conventions
 
-Existing names in the dataset (use these patterns for consistency):
-- `PCV7`, `PCV10 (Synflorix)`, `PCV10 (Pneumosil)`, `PCV13`, `PCV13 (Pfizer)`, `PCV13 (Walvax)`
-- `PCV15`, `PCV15 (high dose)`, `PCV15 (medium dose)`
-- `PCV20`, `PCV21(Merck V116)`, `PCV24 (Vaxcyte VAX-24)`, `PCV25 (Inventprise)`, `PCV31 (Vaxcyte VAX-31)`
-- `PPV23`, `PCV13+PPV23`, `PCV15+PPV23`, `PCV20+PPV23`
-- Pattern: `PCV{valency} ({Manufacturer/Brand})` when disambiguation is needed.
+Use standardized names from `data/vaccine_lookup.csv`. Existing names in the dataset:
+- `PCV7`, `PCV10 (Synflorix)`, `PCV10 (Pneumosil)`, `PCV13`, `PCV13 (Walvax)`
+- `PCV15`, `PCV20`, `PCV21(Merck V116)`, `PCV24 (Vaxcyte VAX-24)`, `PCV25 (Inventprise)`, `PCV31 (Vaxcyte VAX-31)`
+- `PPV23`
+- Pattern: `PCV{valency} ({Brand/Product})` when disambiguation is needed.
+
+Canonical manufacturer short names: `Pfizer`, `GSK`, `MSD`, `Vaxcyte`, `Inventprise`, `Serum Institute of India`, `Walvax`.
+
+For sequential regimens (e.g., PCV13 then PPV23), assign each group the individual vaccine it received — not a combo name like "PCV13+PPV23".
+
+## Lookup Tables
+
+- **`data/vaccine_lookup.csv`** — Maps keyword patterns to standardized vaccine names and manufacturers. Add new entries here when new vaccine products appear.
+- **`data/country_lookup.csv`** — Maps country names to ISO 2-letter codes and continents. Add entries for countries not yet covered.
 
 ## Known Edge Cases & Limitations
 
-- **API response size**: The JSON response is a single large line (can exceed 40k tokens). Always parse with Python rather than reading directly.
+- **API response size**: The JSON response can be very large. Always parse with Python rather than reading directly.
 - **Trials without results**: Many trials on ClinicalTrials.gov have no `resultsSection`. The script skips these automatically.
 - **Trials without immunogenicity outcomes**: Some completed vaccine trials only post safety data, not OPA/IgG. The script lists available outcomes and skips.
-- **Vaccine name matching**: The `vaccine_lookup.csv` uses keyword matching. For new/unusual vaccines, the script falls back to using the group title as the vaccine name and the sponsor as the manufacturer. Review the output and update the lookup table if needed.
-- **Dose number / schedule inference**: The script defaults to "1 dose adult" for adult trials. Multi-dose or pediatric schedules may need manual adjustment after extraction.
+- **Very large trials**: Trials with many outcome measures (e.g., NCT02097472) may exceed the LLM's max_tokens limit. These need to be split into smaller prompts or processed manually.
 - **Multi-site country fields**: The `location_country_code` and `location_continent` fields store comma-separated values for unique countries across all sites.
-- **Time frame estimation**: The script converts timeframe text (e.g., "1 month after vaccination") to numeric weeks. Unusual timeframe descriptions may not parse correctly.
+- **Sequential adult regimens**: Trials where participants receive one vaccine then another (e.g., PCV13 followed by PPV23) are correctly split into individual vaccine assignments by the LLM approach.
+- **Booster detection**: The LLM uses timing gaps, outcome titles, and arm descriptions to distinguish booster doses from primary series. Human review should verify schedule classification for ambiguous cases.
