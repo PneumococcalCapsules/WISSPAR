@@ -12,3 +12,5 @@
 *.Rproj
 .DS_Store
 .Rhistory
+.env
+.claude/settings.local.json

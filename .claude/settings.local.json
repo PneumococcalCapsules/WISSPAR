@@ -4,7 +4,13 @@
       "WebFetch(domain:clinicaltrials.gov)",
       "Bash(curl:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd PneuBevax 14 \\(Biological E\\) Phase 3 trial data from manuscript\n\nExtract immunogenicity data from Matur RV et al. Vaccine 42 \\(2024\\) for\nCTRI/2020/02/023129: Phase 3 study of 14-valent PCV in Indian infants.\nAdds 56 rows \\(GMC + OPA\\) for BE-PCV-14 and PCV-13 comparator arms\nacross 15 serotypes including 22F, 33F unique to BE-PCV-14 and 6A\ncross-protection data.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
